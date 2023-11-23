@@ -31,11 +31,9 @@ def get_clause_annotation(df):
             user_input = input("Answer ('y' or 'n' or 'u'): ")
             if user_input == "y":
                 row["has_clause"] = 1
-                print(row)
                 break
             if user_input == "n":
                 row["has_clause"] = 0
-                print(row)
                 break
             if user_input == 'u':
                 row["has_clause"] = 2
