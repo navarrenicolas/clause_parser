@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-
+import numpy as np
 def show_sentence(sent):
     print("--------------------------------------------------\n") 
     print(sent)
@@ -12,15 +12,39 @@ def get_clause_annotation(df):
     """
     annotated_df = df.loc[:,["sents"]]
     if "has_clause" in df.columns:
-        start_row = df.loc[df['has_clause'] == -1].index[0]
         annotated_df["has_clause"] = df["has_clause"]
         annotated_df["type"] = df["type"]
+        if "predicate" in df.columns:
+            #start_row = df.loc[np.isnan(df['predicate'])].index[0]
+            start_row = 0
+            annotated_df["predicate"] = df["predicate"]
+        else:
+            start_row = df.loc[df['has_clause'] == -1].index[0]
+            annotated_df["has_clause"] = df["has_clause"]
+            annotated_df["type"] = df["type"]
+            annotated_df["predicate"] = np.nan
     else:
         start_row = 0
         annotated_df["has_clause"] = -1
         annotated_df["type"] = ""
     for index, row in annotated_df.iloc[start_row:].iterrows():
 
+        if type(row["predicate"]) == str:
+            continue
+        if (row['has_clause'] == 1) & (np.isnan(row["predicate"])):
+            print("==================================")
+            print("Embedding Predicate")
+            print("==================================\n")
+            print("What is the embedding predicate of the following sentence?\n")
+            show_sentence(row.sents)
+            user_input = input("Answer: ")
+            if user_input == "q":
+                return annotated_df
+            row["predicate"] = user_input
+            annotated_df.loc[index] = row
+            continue
+        if row["has_clause"] != -1:
+            continue
         # Get the clausal embedding annotation
         print("==================================")
         print("Embedded Clause")
@@ -77,6 +101,19 @@ def get_clause_annotation(df):
                 print("Unrecognized input. Please type one of the desired keys.")
                 print("What is the clause type of the  embedded clause?\n")
                 show_sentence(row.sents)
+
+        print("==================================")
+        print("Embedding Predicate")
+        print("==================================\n")
+        print("What is the embedding predicate in the following sentence?\n")
+        show_sentence(row.sents)
+        user_input = input("Answer: ")
+        if user_input == "q":
+            return annotated_df
+        if user_input == "u":
+            row["predicate"] = "UNKN"
+        else:
+            row["predicate"] = user_input
 
         annotated_df.loc[index] = row
 

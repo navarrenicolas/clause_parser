@@ -17,7 +17,7 @@ def constituency_parse(sent):
   return sent._.parse_string.replace('(', '[').replace(')', ']')
 
 # Import the data from the cc dataset
-cc_data = "./cc_en_head-0000_sample.txt"
+cc_data = "../Datasets/cc_en_head-0000_sample.txt"
 sents = ""
 number_of_lines_to_read = 1000  # number of lines we want to look at
 with open(cc_data, 'r') as file:
