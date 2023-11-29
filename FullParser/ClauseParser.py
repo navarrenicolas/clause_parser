@@ -108,7 +108,7 @@ class ClauseParser():
     return displacy.parse_deps(sent)
 
   def get_constitency_parse(self, sent: str) -> str:
-    return sent._.parse_string.replace('(', '[').replace(')', ']')
+    return sent._.
 
   def get_embedded_clauses(self, examples) -> List[dict]:
     all_clauses = []
