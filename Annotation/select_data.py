@@ -13,47 +13,50 @@ if spacy.__version__.startswith('2'):
 else:
     nlp.add_pipe("benepar", config={"model": "benepar_en3"})
 
-def constituency_parse(sent):
-  return sent._.parse_string.replace('(', '[').replace(')', ']')
+import sys
+sys.path.append('../ConstituencyParser/')
+from ConstituencyParser import ConstituencyParser
+parser = ConstituencyParser()
 
-# Import the data from the cc dataset
+# Import the data from the cc dataset sample
 cc_data = "../Datasets/cc_en_head-0000_sample.txt"
-sents = ""
-number_of_lines_to_read = 1000  # number of lines we want to look at
-with open(cc_data, 'r') as file:
-    for i in range(number_of_lines_to_read):
-        line = file.readline()
-        if not line:
-            break  # Exit the loop if there are no more lines.
-        sents += line
 
-doc = nlp(sents)
+def get_sentences(number_of_lines_to_read = 500, batch = 0):
+    with open(cc_data, 'r') as file:
+        sents_str  = ''
+        for i in range(number_of_lines_to_read*batch):
+            file.readline()
+        for i in range(number_of_lines_to_read):
+            line = file.readline()
+            if not line:
+                break  # Exit the loop if there are no more lines.
+            if len(line) < 5:
+                continue
+            sents_str += line
+        doc = nlp(sents_str)
+        sents = [{}]*len(list(doc.sents))
+        for i,sent in enumerate(doc.sents):
+            embedding  = parser.get_embedded_clause(sent)
+            if not embedding[0]:
+                continue
+            clause = embedding[2]
+            child = list(clause._.children)[0]
+            child_label = child._.labels
+            if 'which' in str(child):
+                clause_type = 'constituent'
+            elif 'if' in str(child) or 'whether' in str(child):
+                clause_type = 'polar-alternative'
+            else:
+                clause_type = 'declarative'
+            sents[i] = {'sentence' : str(sent),
+                        'predicted_type': clause_type,
+                        'embedding_predicate': str(embedding[1])
+                        }
+    return sents
 
-class ClauseParser():
-  def __init__(self): 
-      return
-  def has_clause(self,sent)->bool:
-      sent_cp = self.get_constituency_parse(sent)
-      if 'SBAR' in sent_cp:
-          return True
-      else:
-          return False
-  def get_constituency_parse(self,sent:str)->str:
-      return sent._.parse_string.replace('(', '[').replace(')', ']')
-
-parser = ClauseParser()
-
-all_data = pd.DataFrame()
-all_data["sents"] = list(doc.sents)
-all_data["has_clause"] = [parser.has_clause(sent) for sent in all_data.sents]
-
-clause_data = all_data[all_data["has_clause"]]
-
-print(clause_data["has_clause"].value_counts())
-print(all_data["has_clause"].value_counts())
-
-clause_data.sents.to_csv("sentences_filtered_1-1000.csv")
-
-
+n_batches = 3
+batch_sents = [[]]*n_batches
+for batch in range(n_batches):
+    batch_sents[batch] = get_sentences(batch=batch,number_of_lines_to_read=5000)
 
 
