@@ -53,7 +53,6 @@ class ConstituencyParser():
                 arg2: spacy.tokens.span.span
                     The first (leftmost) child of the VP labeled span.
         """
-
         # Get the parent span
         parent = span._.parent
 
@@ -138,3 +137,54 @@ class ConstituencyParser():
                     clause = child
             has_predicate = self.get_embedded_clause(child,has_predicate,clause)
         return has_predicate
+
+    def get_clause_type(self, span):
+        """Returns the type of the embedded clause if there is one in the given sentence.
+            Identifies clauses as one of 4 clause types
+                - finite declarative
+                - finite polar interrogative
+                - finite constituent interrogative
+                - finite alternative interrogative
+            Otherwise the clause will be labeled with "other".
+
+        :seg: spacy.tokens.span.span
+            Parsed representation of of text string.
+        :has_predicate: (bool,spacy.tokens.span.span)
+        :clause: str
+            Embedding predicate if it has been previously found.
+            Carry the last finding in in case predicate has already been found.
+        :returns: str
+            Embedded clause type label
+        """
+
+        clause_parse = self.get_embedded_clause(span)
+
+        # Check that there is an embedded clause
+        if not clause_parse[0]:
+            return None
+
+        # Convert to string to apply heuristic checks
+        clause_str = str(clause_parse[2]).lower()
+
+        first_word = str(list(clause_parse[2]._.children)[0]).lower()
+
+        # Check for polar and alternative interrogatives
+        if 'whether' in first_word: 
+            if 'or not' in clause_str:
+                return 'polar'
+            if 'or' in clause_str:
+                return 'alternative'
+
+        # Check for constituent
+        if any([word in first_word for word in ['who', 'what', 'when', 'where', 'why', 'how','which']]):
+               return 'constituent'
+
+        return 'declarative'
+
+
+
+
+
+
+
+
