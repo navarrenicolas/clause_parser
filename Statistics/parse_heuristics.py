@@ -21,6 +21,13 @@ alt_path_golden = "../Datasets/Golden/alternative_golden_set_checked.csv"
 const_path_golden = "../Datasets/Golden/golden_set_constituents_checked.csv"
 adv_path_golden = "../Datasets/Golden/adversarials_golden_set_checked.csv"
 
+# Toy Dataset file paths
+dec_path_toy = "../Datasets/ToyData/finite declarative clauses.txt"
+pol_path_toy = "../Datasets/ToyData/finite polar interrogative clauses.txt"
+alt_path_toy = "../Datasets/ToyData/finite alternative interrogative clauses.txt"
+const_path_toy = "../Datasets/ToyData/finite constituent interrogative clauses.txt"
+adv_path_toy = "../Datasets/ToyData/adversarial.txt"
+
 # Use Constituency Parser to parse examples
 def parse_golden(filename:str):
     golden_df = pd.read_csv(filename, usecols = [1,2,3,4], header=None, names = ['sent','has_clause','type','pred'])
@@ -55,6 +62,39 @@ const_parsed_df = pd.DataFrame(const_parsed)
 adv_parsed = parse_golden(adv_path_golden)
 adv_parsed_df = pd.DataFrame(adv_parsed)
 
+# Get toy data
+decl_samples = open(dec_path_toy).read().replace('\n', ' ')
+pol_samples = open(pol_path_toy).read().replace('\n', ' ')
+const_samples = open(const_path_toy).read().replace('\n', ' ')
+alt_samples = open(alt_path_toy).read().replace('\n', ' ')
+adv_samples = open(adv_path_toy).read().replace('\n', ' ')
+all_examples = decl_samples + pol_samples + const_samples + alt_samples
+
+decl_doc = nlp(decl_samples)
+pol_doc = nlp(pol_samples)
+alt_doc = nlp(alt_samples)
+const_doc = nlp(const_samples)
+adv_doc = nlp(adv_samples)
+
+pol_examples_parsed = [parser.get_clause_type(sent) for sent in pol_doc.sents]
+
+adv_examples_parsed = [parser.get_embedded_clause(sent)[0] for sent in adv_doc.sents]
+
+adv_examples_parsed
+
+adv_example_list = list(adv_doc.sents)
+
+adv_examples_failed = []
+for i,p in enumerate(adv_examples_parsed):
+    if p:
+        str(adv_example_.append(adv_example_list[i]))
+
+adv_examples_failed
+
+pd.DataFrame(adv_examples_failed)
+
+
+hard_adv.to_csv(r'natural_failed_adv.txt', header=None, index=None, sep=' ', mode='a')
 
 # Define the set of trouble makers
 def trouble_makers(df):
@@ -73,7 +113,23 @@ all_parsed = pd.concat([dec_parsed_df.drop(dec_trouble.index),
                         const_parsed_df.drop(const_trouble.index),
                         adv_parsed_df.drop(adv_trouble.index)])
 
+
+# Save Adverserial Fails
+
+adv_parsed = all_parsed[pd.isna(all_parsed['type_real'])]
+
+
+hard_adv = adv_parsed[adv_parsed['has_clause']]['sentence']
+
+hard_adv.to_csv(r'natural_failed_adv.txt', header=None, index=None, sep=' ', mode='a')
+
+
 # Clause Accuracy 
+
+
+no_adv = all_parsed[pd.notna(all_parsed['type_real'])]
+
+no_adv.groupby('type_real')['has_clause'].mean()
 
 ## Precision and Recall
 true_p = all_parsed[all_parsed.has_clause & all_parsed.has_clause_real]
