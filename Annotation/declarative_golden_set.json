@@ -11,7 +11,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Ricardo 'boltz' Prass is set to rejoin the side to replace Gustavo 'yeL' Knittel",
                 "embedded clauses": []
             }
         ]
@@ -28,7 +28,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that it plays an integral role in self expression",
                 "embedded clauses": []
             }
         ]
@@ -45,7 +45,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that emotions are the most noticeable thing in my photographs (especially since I shoot with a candid approach to my sessions)",
                 "embedded clauses": []
             }
         ]
@@ -62,7 +62,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that that is precisely what happened on this day",
                 "embedded clauses": []
             }
         ]
@@ -79,7 +79,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that I want her to be my pen pal and take it back old school",
                 "embedded clauses": []
             }
         ]
@@ -96,7 +96,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "it was a great opportunity to shoot in",
                 "embedded clauses": []
             }
         ]
@@ -113,7 +113,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that everyone who flooded is doing ok",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "praying",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "things are getting back to normal",
                 "embedded clauses": []
             }
         ]
@@ -130,7 +142,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Eurri Farris, of Eurri Kim Photography was an amazing help that day, assisting in this session",
                 "embedded clauses": []
             }
         ]
@@ -147,7 +159,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that any one of these reasons were the cause or causes of any of the head-on collisions in Missouri in the last three months",
                 "embedded clauses": []
             }
         ]
@@ -164,7 +176,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that the people of the city have been desperately missing the services of a professional locksmith company",
                 "embedded clauses": []
             }
         ]
@@ -181,7 +193,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that he lives with his mum",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "has never met his real dad",
                 "embedded clauses": []
             }
         ]
@@ -198,7 +222,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that it's a good idea",
                 "embedded clauses": []
             }
         ]
@@ -215,7 +239,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that there can be more than one version where one is is the Ractive component file as per the official spec",
                 "embedded clauses": []
             }
         ]
@@ -232,7 +256,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "the components should be written so that they could work without any compilation at least in one environment",
                 "embedded clauses": []
             }
         ]
@@ -249,7 +273,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that it was filled with good things: fireplaces, hot apple cider, laughs, the picture game, a skype date with my brother, exploring, and, and, and",
                 "embedded clauses": []
             }
         ]
@@ -266,7 +290,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that despite the good intentions of euthanasia advocates, their understanding of mercy is flawed",
                 "embedded clauses": []
             }
         ]
@@ -283,7 +307,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that intentionally taking the life of someone who is terminally ill or suffering severe pain constitutes an act of mercy",
                 "embedded clauses": []
             }
         ]
@@ -300,7 +324,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Jones\u2019 life has any real meaning because his pain outweighs his enjoyment of life",
                 "embedded clauses": []
             }
         ]
@@ -317,7 +341,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that such thinking forces us to speak of ourselves in terms of \u201cwhat we have\u201d instead of \u201cwho we are\u201d (http://www.firstthings.com/article.php3?id_article=6047)",
                 "embedded clauses": []
             }
         ]
@@ -351,7 +375,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that euthanasia is not incompatible with mercy",
                 "embedded clauses": []
             }
         ]
@@ -368,7 +392,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that a doctor who provides Jones with a lethal injection acts in a way that is morally equivalent to a doctor who nurses Jones to his death",
                 "embedded clauses": []
             }
         ]
@@ -385,7 +409,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that something is precious",
                 "embedded clauses": []
             }
         ]
@@ -402,7 +426,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Jones is loved",
                 "embedded clauses": []
             }
         ]
@@ -419,7 +443,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that new car sales took a nosedive in September",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "signaling",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "economic distress could be just around the corner",
                 "embedded clauses": []
             }
         ]
@@ -436,7 +472,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "he was sacked on Monday",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "announced",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the business was in voluntary administration",
                 "embedded clauses": []
             }
         ]
@@ -453,7 +501,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that I'm contributing in my own small way",
                 "embedded clauses": []
             }
         ]
@@ -470,7 +518,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "the home has 3 zone heat and Air conditioning on 1.8 acres of property on a no thruway street",
                 "embedded clauses": []
             }
         ]
@@ -487,7 +535,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "you should chuck them out",
                 "embedded clauses": []
             }
         ]
@@ -504,7 +552,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that small differences in the amount of black can make a big difference to the colour you make",
                 "embedded clauses": []
             }
         ]
@@ -521,7 +569,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "I\u2019m bursting at the seams",
                 "embedded clauses": []
             }
         ]
@@ -538,8 +586,21 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "I was so stunned that it was meant for him that I didn\u2019t get it at first, until my friend hit me hard in the leg and she said to me \u201cDid YOU HEAR THAT??\u201d And I look at C\u2019s dad and he\u2019s saying the same",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "stunned",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that it was meant for him",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -555,7 +616,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that he can do so much more then he thought he could",
                 "embedded clauses": []
             }
         ]
@@ -572,7 +633,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "he wants to try out for football next year",
                 "embedded clauses": []
             }
         ]
@@ -589,7 +650,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "I\u2019m ready for the pain that\u2019s going to go along with the teenage years",
                 "embedded clauses": []
             }
         ]
@@ -606,7 +667,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that following my advice will help your format win the war",
                 "embedded clauses": []
             }
         ]
@@ -623,7 +684,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "this may sound like a contradiction to my last point about getting straight to the movie",
                 "embedded clauses": []
             }
         ]
@@ -640,7 +701,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that while I appreciate, and even enjoy, contact from readers, I'm absolutely not interested in whatever spammy commercial venture you're proposing",
                 "embedded clauses": []
             }
         ]
@@ -657,7 +718,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "I were as fiery",
                 "embedded clauses": []
             }
         ]
@@ -674,7 +735,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "not letting one\u2019s computer get in the way of real life is sound advice",
                 "embedded clauses": []
             }
         ]
@@ -691,7 +752,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that for all the freedom the site allots its various personalities, the one topic Barstool bloggers and readers are both actively uninterested in is politics, a topic that\u2019s infiltrated the sports world to an unprecedented degree in recent years due to the National Anthem protests, among other things",
                 "embedded clauses": []
             }
         ]
@@ -708,7 +769,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that we are just here to make people laugh",
                 "embedded clauses": []
             }
         ]
@@ -725,7 +786,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that a combative, anti-PC, anti-moral grandstanding ethos is morphing into a political ideology unto itself\u2014one that Barstool is both defining and capitalizing on",
                 "embedded clauses": []
             }
         ]
@@ -742,7 +803,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "they smelt well",
                 "embedded clauses": []
             }
         ]
@@ -759,7 +820,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "her family has decided to make a Portuguese Water Dog the first dog around the Obama White House",
                 "embedded clauses": []
             }
         ]
@@ -776,7 +837,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "the Obamas are searching animal rescues for that particular breed",
                 "embedded clauses": []
             }
         ]
@@ -793,7 +854,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
                 "embedded clauses": []
             }
         ]
@@ -810,7 +871,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "she learned from Sen",
                 "embedded clauses": []
             }
         ]
@@ -827,7 +888,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Apple does provide a converter that turns the charging port into a headphone jack",
                 "embedded clauses": []
             }
         ]
@@ -844,7 +905,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that you are a specialist in a particular field",
                 "embedded clauses": []
             }
         ]
@@ -861,7 +922,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "ou have made a planned to leave your 9-to-5 job",
                 "embedded clauses": []
             }
         ]
@@ -878,7 +939,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "I barely snacked at all",
                 "embedded clauses": []
             }
         ]
@@ -895,7 +956,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that I can last for up to 6 hours without feeling hunger pains",
                 "embedded clauses": []
             }
         ]
@@ -912,7 +973,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that you shouldn\u2019t eat a lot of fats when you eat a raw diet, as it is hard on the digestive tract",
                 "embedded clauses": []
             }
         ]
@@ -929,7 +990,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "the 01753476428 was a harass phone number",
                 "embedded clauses": []
             }
         ]
@@ -946,7 +1007,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Christina Aguilera risked re-igniting her feud with Britney Spears by a comment made on her wedding day",
                 "embedded clauses": []
             }
         ]
@@ -963,7 +1024,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "she made any comment",
                 "embedded clauses": []
             }
         ]
@@ -980,7 +1041,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that while modernity is not strictly a European phenomenon, its rhetoric -as Dussel argues- is formed by European philosophers, academics and politicians",
                 "embedded clauses": []
             }
         ]
@@ -997,7 +1058,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that our downtown hotel's location in Lexington, KY is close to IBM, PNC Bank, Fifth Third Bank, Ashland and UPS",
                 "embedded clauses": []
             }
         ]
@@ -1014,7 +1075,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that we are one of the loudest Jewish voices on campus",
                 "embedded clauses": []
             }
         ]
@@ -1031,7 +1092,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that the AEPi building in Davis had been tagged with two large swastikas",
                 "embedded clauses": []
             }
         ]
@@ -1048,7 +1109,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "this is just too cool for school",
                 "embedded clauses": []
             }
         ]
@@ -1065,7 +1126,32 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "they thought it was a virus",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "thought",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "it was a virus",
+                        "embedded clauses": []
+                    }
+                ]
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "would have it running the next day",
                 "embedded clauses": []
             }
         ]
@@ -1082,7 +1168,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that would not be an issue",
                 "embedded clauses": []
             }
         ]
@@ -1099,7 +1185,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "it would be one more day",
                 "embedded clauses": []
             }
         ]
@@ -1116,7 +1202,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that they had not put any real time evaluating my laptop and would require a couple more days",
                 "embedded clauses": []
             }
         ]
@@ -1133,7 +1219,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "they needed to repair the backlight before trying to determine the other problem",
                 "embedded clauses": []
             }
         ]
@@ -1144,13 +1230,18 @@
             {
                 "predicate": [
                     {
-                        "str": "find out",
+                        "str": "find",
+                        "lemma": "",
+                        "POS": ""
+                    },
+                    {
+                        "str": "out",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Carole Baskin, CEO of Big Cat Rescue, and Wayne Pacelle, CEO of the HSUS, are former colleagues",
                 "embedded clauses": []
             }
         ]
@@ -1167,7 +1258,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Wayne was a co-founder of the Humane Society Legislative Fund",
                 "embedded clauses": []
             }
         ]
@@ -1184,7 +1275,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that you have to stay within your price range and save cash everywhere you're able to",
                 "embedded clauses": []
             }
         ]
@@ -1201,7 +1292,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that your task is going to tolerate the years, and cost less money with techniques which do not affect the excellence of any project",
                 "embedded clauses": []
             }
         ]
@@ -1218,7 +1309,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that he was offering \u201cliving water\u201d greater than Jacob\u2019s well, greater than either the Temple or the holy places of Samaria",
                 "embedded clauses": []
             }
         ]
@@ -1235,7 +1326,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that all graduating Mackinac Island students have an opportunity for a multi-year scholarship award",
                 "embedded clauses": []
             }
         ]
@@ -1252,7 +1343,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that by 2025, the funding gap will grow to \u00a33bn for children\u2019s social care alone",
                 "embedded clauses": []
             }
         ]
@@ -1269,7 +1360,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that ministers are minded to appoint a commissioner shortly to intervene in the council\u2019s operations to stabilise and improve child protection services",
                 "embedded clauses": []
             }
         ]
@@ -1286,7 +1377,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that no children will be put in danger as a result of propose cuts",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "see",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how this could be the case",
                 "embedded clauses": []
             }
         ]
@@ -1303,7 +1406,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that they do not expect these funds to buy additional capacity",
                 "embedded clauses": []
             }
         ]
@@ -1320,7 +1423,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "this map will help students complete their homework on time",
                 "embedded clauses": []
             }
         ]
@@ -1337,7 +1440,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Khaalid Adam Abdulkadir made death threats against FBI agents in various Twitter posts",
                 "embedded clauses": []
             }
         ]
@@ -1354,7 +1457,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that its informant was responsible for first alerting law enforcement to the Twitter communications, but refused disclosure under the government\u2013informant privilege",
                 "embedded clauses": []
             }
         ]
@@ -1371,7 +1474,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that the FBI\u2019s confidential informant was material to his defense",
                 "embedded clauses": []
             }
         ]
@@ -1388,7 +1491,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that the case remains in the pre-indictment stage",
                 "embedded clauses": []
             }
         ]
@@ -1405,7 +1508,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that our personal data may not be totally secure in the hands of a digital payments giant",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "reveals",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that it may have sold it to other third-parties out there",
                 "embedded clauses": []
             }
         ]
@@ -1422,7 +1537,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "you revisit this page",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "ensure",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "re\u2013check for any updates/changes before the date of the fixture",
                 "embedded clauses": []
             }
         ]
@@ -1439,7 +1566,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "these are just models",
                 "embedded clauses": []
             }
         ]
@@ -1456,7 +1583,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that the announcement is for the long awaited next installment in the Persona series",
                 "embedded clauses": []
             }
         ]
@@ -1473,7 +1600,19 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that these elements fall under the category of story, which Persona 3 won anyway",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "feel",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "they are significant enough to make a difference",
                 "embedded clauses": []
             }
         ]
@@ -1490,7 +1629,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that you have been selected for a cash prize of \u00a3850,000.00 (Eight hundred and fifty thousand Great British Pounds) from the BMW AUTOMOBILE GROUP e-LOTTERY BONANZA International programs held TODAY Teusday the 6th of MARCH 2007, here in London United Kingdom",
                 "embedded clauses": []
             }
         ]
@@ -1507,7 +1646,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that does a good job of summarising my feelings towards friends who drift away over time",
                 "embedded clauses": []
             }
         ]
@@ -1524,7 +1663,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "they are still in need of a family as they embark on work and college",
                 "embedded clauses": []
             }
         ]
@@ -1541,7 +1680,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Fletcher, the hacker who helps Mike and Marcus in both films, would also appear in the show",
                 "embedded clauses": []
             }
         ]
@@ -1558,7 +1697,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "he still can be competitive",
                 "embedded clauses": []
             }
         ]
@@ -1575,7 +1714,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "he was puzzled by why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
                 "embedded clauses": []
             }
         ]
@@ -1592,7 +1731,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that he and Honda aren\u2019t surprised by the pace and performances of new Yamaha recruit Maverick Vi\u00f1ales, but that they are of his team-mate, Valentino Rossi",
                 "embedded clauses": []
             }
         ]
@@ -1609,7 +1748,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "despite the Supreme Court striking down the practice of talaq-e-biddat (instant triple talaq) as unconstitutional, men were divorcing their wives on flimsy grounds and even via Whatsapp",
                 "embedded clauses": []
             }
         ]
@@ -1626,7 +1765,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that Russia's inflation rate would be 7 percent this year",
                 "embedded clauses": []
             }
         ]
@@ -1643,7 +1782,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that in 2009, Russia's GDP dropped by 7.9 percent, inflation reached 9 percent",
                 "embedded clauses": []
             }
         ]
@@ -1660,7 +1799,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that in agricultural sector growth was negative by 9.6 percent",
                 "embedded clauses": []
             }
         ]
@@ -1677,7 +1816,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that the wireless sync is activated on the handhelds as well",
                 "embedded clauses": []
             }
         ]
@@ -1694,7 +1833,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that my comments below are not a criticism of teachers, who work very hard against all the odds, but of education systems that have 'lost their way'",
                 "embedded clauses": []
             }
         ]
@@ -1711,7 +1850,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "only the chemistry specialist has the 'depth of knowledge' to enthuse the students, which in turn leads to an increased uptake in the subject",
                 "embedded clauses": []
             }
         ]
@@ -1728,7 +1867,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "it was too noisy",
                 "embedded clauses": []
             }
         ]
@@ -1745,7 +1884,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "the bathroom was dirty",
                 "embedded clauses": []
             }
         ]
@@ -1762,7 +1901,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that finding someone close to you can be tiring",
                 "embedded clauses": []
             }
         ]
@@ -1779,7 +1918,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "you will find exactly who you want at the ideal time for you",
                 "embedded clauses": []
             }
         ]
@@ -1796,7 +1935,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "I\u2019d end up making up a start a blog tutorial",
                 "embedded clauses": []
             }
         ]
@@ -1813,7 +1952,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "I had a hard time getting a blog up",
                 "embedded clauses": []
             }
         ]
@@ -1830,7 +1969,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "you will be billed a year a time",
                 "embedded clauses": []
             }
         ]
@@ -1847,7 +1986,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that you\u2019ve read the fine print and then click Next",
                 "embedded clauses": []
             }
         ]
@@ -1864,7 +2003,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "my start a blog tutorial has been of help",
                 "embedded clauses": []
             }
         ]
@@ -1881,7 +2020,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "YouTube \"Pirates\" Are \"Really Evil\"",
                 "embedded clauses": []
             }
         ]
@@ -1898,7 +2037,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "That SOPA Didn't Pass",
                 "embedded clauses": []
             }
         ]
@@ -1915,7 +2054,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that he has secured $120,000 in state funding for the twelve branch libraries in the 60th Senate District",
                 "embedded clauses": []
             }
         ]
