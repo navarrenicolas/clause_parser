@@ -5,13 +5,13 @@
             {
                 "predicate": [
                     {
-                        "str": "sure",
+                        "str": "aren't sure",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether he should come back",
                 "embedded clauses": []
             }
         ]
