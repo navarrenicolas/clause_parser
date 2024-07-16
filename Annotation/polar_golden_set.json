@@ -28,7 +28,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the vessel is clean or not",
                 "embedded clauses": []
             }
         ]
@@ -45,7 +45,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a relationship between Mexican female politicians and policies created against violence exists",
                 "embedded clauses": []
             }
         ]
@@ -62,7 +62,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether state law could \"reverse preempt\" the New York Convention",
                 "embedded clauses": []
             }
         ]
@@ -79,7 +79,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not that level of utilization is acceptable in terms of response time or queue length",
                 "embedded clauses": []
             }
         ]
@@ -90,13 +90,13 @@
             {
                 "predicate": [
                     {
-                        "str": "doubtful",
+                        "str": "is very doubtful",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the one vote expresses the views and convictions of all the other members of the family",
                 "embedded clauses": []
             }
         ]
@@ -113,7 +113,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not they accept your insurance",
                 "embedded clauses": []
             }
         ]
@@ -124,13 +124,13 @@
             {
                 "predicate": [
                     {
-                        "str": "irrelevant",
+                        "str": "is irrelevant",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "Whether or not it casts those who were directly responsible in a negative light",
                 "embedded clauses": []
             }
         ]
@@ -141,13 +141,13 @@
             {
                 "predicate": [
                     {
-                        "str": "random",
+                        "str": "is random",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "Whether the factory dumps each day",
                 "embedded clauses": []
             }
         ]
@@ -164,7 +164,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether an attorney who is acting under an existing of the lasting power of attorney should be removed or not",
                 "embedded clauses": []
             }
         ]
@@ -181,7 +181,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not they remain influential",
                 "embedded clauses": []
             }
         ]
@@ -198,7 +198,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the owners would be content living in the given area for the long term",
                 "embedded clauses": []
             }
         ]
@@ -209,13 +209,13 @@
             {
                 "predicate": [
                     {
-                        "str": "unclear as to",
+                        "str": "are still unclear as to",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not Canada is a state",
                 "embedded clauses": []
             }
         ]
@@ -232,7 +232,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether this drug can be used to formulate new treatments",
                 "embedded clauses": []
             }
         ]
@@ -243,13 +243,13 @@
             {
                 "predicate": [
                     {
-                        "str": "know",
+                        "str": "don't know",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether I agree on the parents being unsupportive",
                 "embedded clauses": []
             }
         ]
@@ -266,7 +266,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not you're successful with a person",
                 "embedded clauses": []
             }
         ]
@@ -283,7 +283,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you have obtained the desired compounds or not",
                 "embedded clauses": []
             }
         ]
@@ -294,19 +294,19 @@
             {
                 "predicate": [
                     {
-                        "str": "curious",
+                        "str": "'re curious",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether we can provide you with a more affordable alternative",
                 "embedded clauses": []
             }
         ]
     },
     "74": {
-        "sentence": "[39] As evidence of this, In Thomas de Quinceys Confessions of an English Opium-Eater (1821, p. 188), it is not Ottoman, nor Chinese, addicts about whom he writes, But English opium users: \"I question whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had.\"",
+        "sentence": "As evidence of this, In Thomas de Quinceys Confessions of an English Opium-Eater (1821, p. 188), it is not Ottoman, nor Chinese addicts about whom he writes, But English opium users: \"I question whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had.\"",
         "embedded clauses": [
             {
                 "predicate": [
@@ -317,7 +317,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had.",
                 "embedded clauses": []
             }
         ]
@@ -328,13 +328,13 @@
             {
                 "predicate": [
                     {
-                        "str": "report",
+                        "str": "did not report",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether side effects occurred",
                 "embedded clauses": []
             }
         ]
@@ -351,7 +351,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether it should be cycled",
                 "embedded clauses": []
             }
         ]
@@ -368,8 +368,33 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether they are saving enough for retirement",
                 "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "understand",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what they can do to make sure they are prepared for the future in terms of their job, money and health",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "make sure",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "they are prepared for the future in terms of their job, money and health",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -385,7 +410,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "the innovation has negative consequences, such as putting CFCs in refrigerators",
                 "embedded clauses": []
             }
         ]
@@ -402,7 +427,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether they innovate",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "ask",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "in what forms",
                 "embedded clauses": []
             }
         ]
@@ -419,13 +456,13 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the Germans of the first century held land in private ownership",
                 "embedded clauses": []
             }
         ]
     },
     "118": {
-        "sentence": "Once the affidavit and proposed order have been received by the court, a judge will consider all of the information your provided and determine whether you qualify for poor person status.",
+        "sentence": "Once the affidavit and proposed order have been received by the court, a judge will consider all of the information you provided and determine whether you qualify for poor person status.",
         "embedded clauses": [
             {
                 "predicate": [
@@ -436,7 +473,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you qualify for poor person status",
                 "embedded clauses": []
             }
         ]
@@ -447,13 +484,13 @@
             {
                 "predicate": [
                     {
-                        "str": "dependent on",
+                        "str": "is not dependent on",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether he/she studied at an Ivy League school",
                 "embedded clauses": []
             }
         ]
@@ -470,7 +507,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "Whether the judge will agree with Rocco",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "depends on",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what Rocco's reasons are for wanting to live with his father in London",
                 "embedded clauses": []
             }
         ]
@@ -487,7 +536,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to include standardized test scores in their applications",
                 "embedded clauses": []
             }
         ]
@@ -504,7 +553,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether there is a linear link between physical activity levels and mental health",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "considered",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether sedentary habits, such as sitting all day, influenced this relationship",
                 "embedded clauses": []
             }
         ]
@@ -521,7 +582,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether \u201cglobal south was still a useful term",
                 "embedded clauses": []
             }
         ]
@@ -532,13 +593,13 @@
             {
                 "predicate": [
                     {
-                        "str": "ask",
+                        "str": "did not ask",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the man lying on the road had health insurance",
                 "embedded clauses": []
             }
         ]
@@ -549,13 +610,13 @@
             {
                 "predicate": [
                     {
-                        "str": "ask",
+                        "str": "did not immediately ask",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether we could withdraw food, water and antibiotics to get the death over with as soon as possible",
                 "embedded clauses": []
             }
         ]
@@ -572,7 +633,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether mixing by the marine biosphere is an important part of the ocean's circulation",
                 "embedded clauses": []
             }
         ]
@@ -589,7 +650,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether EHT and caffeine could work together for even greater brain protection",
                 "embedded clauses": []
             }
         ]
@@ -600,13 +661,13 @@
             {
                 "predicate": [
                     {
-                        "str": "know",
+                        "str": "don't know",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the benefits of chest x-rays outweigh the harms",
                 "embedded clauses": []
             }
         ]
@@ -623,8 +684,21 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "whether or not he got enough of what he wanted",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "got enough of",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "what he wanted",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -634,13 +708,13 @@
             {
                 "predicate": [
                     {
-                        "str": "known",
+                        "str": "known about",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether there is any information connecting Spedding to this cabin",
                 "embedded clauses": []
             }
         ]
@@ -651,13 +725,25 @@
             {
                 "predicate": [
                     {
-                        "str": "unknown",
+                        "str": "is unknown",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "if there was anything found",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "is unknown",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether this was connected to Spedding",
                 "embedded clauses": []
             }
         ]
@@ -674,7 +760,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether an earlier public appeal could have helped the investigation significantly",
                 "embedded clauses": []
             }
         ]
@@ -691,7 +777,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether this change of direction is justified",
                 "embedded clauses": []
             }
         ]
@@ -708,7 +794,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not to have periods",
                 "embedded clauses": []
             }
         ]
@@ -725,7 +811,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to pull out of the nuclear deal signed with Iran by his predecessor Barack Obama",
                 "embedded clauses": []
             }
         ]
@@ -742,7 +828,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether other specialists such as dermatologists may be needed in your treatment plan",
                 "embedded clauses": []
             }
         ]
@@ -759,7 +845,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not the internet was really necessary",
                 "embedded clauses": []
             }
         ]
@@ -776,7 +862,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether your body is getting and using the nutrients needed for key metabolic processes",
                 "embedded clauses": []
             }
         ]
@@ -793,7 +879,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not we'd have a paycheck every week",
                 "embedded clauses": []
             }
         ]
@@ -804,13 +890,25 @@
             {
                 "predicate": [
                     {
-                        "str": "clear",
+                        "str": "'s not even clear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether, or how, the NCAA monitors clustering",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "'s not even clear",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how, the NCAA monitors clustering",
                 "embedded clauses": []
             }
         ]
@@ -827,7 +925,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not the lens is really still in your eye",
                 "embedded clauses": []
             }
         ]
@@ -844,7 +942,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether they will excel in their work environment",
                 "embedded clauses": []
             }
         ]
@@ -855,13 +953,13 @@
             {
                 "predicate": [
                     {
-                        "str": "irrelevant",
+                        "str": "to be totally irrelevant",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether he is able or not to shoot good pictures",
                 "embedded clauses": []
             }
         ]
@@ -878,7 +976,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether I'm being selfish",
                 "embedded clauses": []
             }
         ]
@@ -895,7 +993,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether I am making mountains out of mole hills",
                 "embedded clauses": []
             }
         ]
@@ -912,7 +1010,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not to file a malpractice action",
                 "embedded clauses": []
             }
         ]
@@ -923,13 +1021,13 @@
             {
                 "predicate": [
                     {
-                        "str": "relevant",
+                        "str": "is not relevant",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "Whether a plaintiff who is currently proceeding before medical review panel pursuant to the [statute] may later allege and prove a medical malpractice claim in a state or federal court case",
                 "embedded clauses": []
             }
         ]
@@ -946,7 +1044,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether tons of goods will reach their shelves",
                 "embedded clauses": []
             }
         ]
@@ -963,7 +1061,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not supplementation will provide any hair benefits",
                 "embedded clauses": []
             }
         ]
@@ -980,7 +1078,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a lane is clear before merging",
                 "embedded clauses": []
             }
         ]
@@ -997,7 +1095,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not someone else is liable for damages after a serious spinal cord injury",
                 "embedded clauses": []
             }
         ]
@@ -1014,7 +1112,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether he or she cheated on the logbooks",
                 "embedded clauses": []
             }
         ]
@@ -1031,7 +1129,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether his broker offers that or not",
                 "embedded clauses": []
             }
         ]
@@ -1048,7 +1146,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether they can sue the education watchdog",
                 "embedded clauses": []
             }
         ]
@@ -1065,7 +1163,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not Jon Snow was alive",
                 "embedded clauses": []
             }
         ]
@@ -1082,7 +1180,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex",
                 "embedded clauses": []
             }
         ]
@@ -1099,7 +1197,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the kick and kill drugs had made any impact.",
                 "embedded clauses": []
             }
         ]
@@ -1110,13 +1208,13 @@
             {
                 "predicate": [
                     {
-                        "str": "thinking",
+                        "str": "thinking about",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not penguins even dream",
                 "embedded clauses": []
             }
         ]
@@ -1127,13 +1225,25 @@
             {
                 "predicate": [
                     {
-                        "str": "clear",
+                        "str": "'s not clear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether coverage under the Occupational Health and Safety Act could have prevented Adam's death",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "'s telling",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that the investigation is being led by the Niagara Regional Police Service",
                 "embedded clauses": []
             }
         ]
@@ -1150,7 +1260,31 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether we're doing the right consultation or a variety of other things",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "raging over",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether we're the smartest person in our riding or not",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what the debate really should be about is the practical aspects of this bill",
                 "embedded clauses": []
             }
         ]
@@ -1167,7 +1301,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not they can survive",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether there's a business case for them to be able to survive",
                 "embedded clauses": []
             }
         ]
@@ -1178,13 +1324,13 @@
             {
                 "predicate": [
                     {
-                        "str": "doubtful",
+                        "str": "is doubtful",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the strategy will be successful",
                 "embedded clauses": []
             }
         ]
@@ -1201,7 +1347,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether reporters had heard of Building 606",
                 "embedded clauses": []
             }
         ]
@@ -1218,7 +1364,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether species that have longer lifespans than humans--like the bowhead whale, which can live more than 200 years--have evolved even more robust SIRT6 genes",
                 "embedded clauses": []
             }
         ]
@@ -1235,7 +1381,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a fair trial can be held so long after the events",
                 "embedded clauses": []
             }
         ]
@@ -1246,13 +1392,13 @@
             {
                 "predicate": [
                     {
-                        "str": "learn about",
+                        "str": "learn more about",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether they are able to recover that compensation through a wage and hour claim",
                 "embedded clauses": []
             }
         ]
@@ -1269,7 +1415,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a barbaric Sicilian capo should get the right to die with dignity",
                 "embedded clauses": []
             }
         ]
@@ -1286,7 +1432,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you are in an abusive relationship with a \u201ccrazy maker\u009d",
                 "embedded clauses": []
             }
         ]
@@ -1297,13 +1443,13 @@
             {
                 "predicate": [
                     {
-                        "str": "tell about",
+                        "str": "tell",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether they have any charges",
                 "embedded clauses": []
             }
         ]
@@ -1320,7 +1466,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to send cases out for genetic sequencing to help identify a new course of action",
                 "embedded clauses": []
             }
         ]
@@ -1337,7 +1483,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether he wants to try to make a go of it with Jane in Miami",
                 "embedded clauses": []
             }
         ]
@@ -1348,13 +1494,13 @@
             {
                 "predicate": [
                     {
-                        "str": "unkown",
+                        "str": "is often unkown",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a better outcome was possible",
                 "embedded clauses": []
             }
         ]
@@ -1371,7 +1517,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether your cheerleading youngsters are protected from unreasonable risk",
                 "embedded clauses": []
             }
         ]
@@ -1388,7 +1534,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a plea disposition is appropriate",
                 "embedded clauses": []
             }
         ]
@@ -1405,7 +1551,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether proposed legislation will have a disproportionate racial impact",
                 "embedded clauses": []
             }
         ]
@@ -1416,13 +1562,13 @@
             {
                 "predicate": [
                     {
-                        "str": "unclear",
+                        "str": "remains unclear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether British lawmakers will approve the divorce deal the government negotiated with the EU",
                 "embedded clauses": []
             }
         ]
@@ -1439,7 +1585,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether it wants a big reserve fund",
                 "embedded clauses": []
             }
         ]
@@ -1456,7 +1602,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether it's enough",
                 "embedded clauses": []
             }
         ]
@@ -1473,7 +1619,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to let ICE inspect the premises",
                 "embedded clauses": []
             }
         ]
@@ -1490,7 +1636,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether this man was a devil or not",
                 "embedded clauses": []
             }
         ]
@@ -1507,7 +1653,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not women should be in the workplace",
                 "embedded clauses": []
             }
         ]
@@ -1524,7 +1670,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the segments' amount of existing space is sufficient and appropriate",
                 "embedded clauses": []
             }
         ]
@@ -1535,13 +1681,25 @@
             {
                 "predicate": [
                     {
-                        "str": "care",
+                        "str": "couldnt care",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you have to get up early to go to work",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "couldnt care",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that waking up at 3:00 a.m. to answer its demand for food is not very considerate of it",
                 "embedded clauses": []
             }
         ]
@@ -1558,7 +1716,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether our normal feeling of being one person is also an illusion",
                 "embedded clauses": []
             }
         ]
@@ -1575,7 +1733,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the day is work or not",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "depend on",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "if your bank is part of the entities with which Single credits works",
                 "embedded clauses": []
             }
         ]
@@ -1592,7 +1762,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether he took economics at Columbia",
                 "embedded clauses": []
             }
         ]
@@ -1609,7 +1779,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a one-off dose of the drug could help hazardous drinkers who are trying to reduce their alcohol intake",
                 "embedded clauses": []
             }
         ]
