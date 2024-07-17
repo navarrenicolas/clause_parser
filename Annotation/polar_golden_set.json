@@ -243,7 +243,7 @@
             {
                 "predicate": [
                     {
-                        "str": "don't know",
+                        "str": "know",
                         "lemma": "",
                         "POS": ""
                     }
@@ -328,7 +328,7 @@
             {
                 "predicate": [
                     {
-                        "str": "did not report",
+                        "str": "report",
                         "lemma": "",
                         "POS": ""
                     }
@@ -484,7 +484,7 @@
             {
                 "predicate": [
                     {
-                        "str": "is not dependent on",
+                        "str": "dependent on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -593,7 +593,7 @@
             {
                 "predicate": [
                     {
-                        "str": "did not ask",
+                        "str": "ask",
                         "lemma": "",
                         "POS": ""
                     }
@@ -610,7 +610,7 @@
             {
                 "predicate": [
                     {
-                        "str": "did not immediately ask",
+                        "str": "ask",
                         "lemma": "",
                         "POS": ""
                     }
@@ -661,7 +661,7 @@
             {
                 "predicate": [
                     {
-                        "str": "don't know",
+                        "str": "know",
                         "lemma": "",
                         "POS": ""
                     }
@@ -685,20 +685,7 @@
                 ],
                 "type": "polar",
                 "clause": "whether or not he got enough of what he wanted",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "got enough of",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "constituent",
-                        "clause": "what he wanted",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": []
             }
         ]
     },
@@ -1796,7 +1783,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether their drinking has changed",
                 "embedded clauses": []
             }
         ]
@@ -1813,7 +1800,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether a foresight exercise is appropriate given the context",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "evaluate",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether it will be able to yield valuable impacts on the system addressed",
                 "embedded clauses": []
             }
         ]
@@ -1830,7 +1829,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether Zimphos is meeting air quality control standards",
                 "embedded clauses": []
             }
         ]
@@ -1847,7 +1846,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the traditional local practices have survived to this day",
                 "embedded clauses": []
             }
         ]
@@ -1864,7 +1863,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether this piece, dating from the 1st century, is actually on display",
                 "embedded clauses": []
             }
         ]
@@ -1881,8 +1880,21 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "whether the electorate believes he can improve the security situation",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "believes",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "he can improve the security situation",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1898,25 +1910,38 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether she is indeed succumbed to his charm",
                 "embedded clauses": []
             }
         ]
     },
     "448": {
-        "sentence": "One study found that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin; variations in the norepinephrine transporter gene influence whether or not a person will respond to an antidepressant that acts mainly on the norepinephrine system, such as nortriptyline [ref].",
+        "sentence": "One study found that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
         "embedded clauses": [
             {
                 "predicate": [
                     {
-                        "str": "influence",
+                        "str": "found",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
-                "type": "polar",
-                "clause": "",
-                "embedded clauses": []
+                "type": "declarative",
+                "clause": "that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "influence",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "polar",
+                        "clause": "whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1932,7 +1957,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether pollsters were referring to Los Stop's version, Con su blanca palidezs",
                 "embedded clauses": []
             }
         ]
@@ -1949,7 +1974,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether German editorial offices are preparing their war correspondents sufficiently for their operations abroad",
                 "embedded clauses": []
             }
         ]
@@ -1966,7 +1991,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether other insect species worldwide transfer LHUV-1",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "find out",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "which ones",
                 "embedded clauses": []
             }
         ]
@@ -1983,7 +2020,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not alcohol is something that you are using as a coping mechanism, rather than something that you are choosing to enjoy for pleasure.",
                 "embedded clauses": []
             }
         ]
@@ -2000,7 +2037,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not Opec would increase output in view of the of the current market volatility",
                 "embedded clauses": []
             }
         ]
@@ -2017,7 +2054,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether it's an accurate description of living as a writer in New Orleans",
                 "embedded clauses": []
             }
         ]
@@ -2034,7 +2071,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not a company's protocols were followed",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "look into",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how this affected the situation",
                 "embedded clauses": []
             }
         ]
@@ -2051,7 +2100,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the University has effective policies in place to protect children on its campuses",
                 "embedded clauses": []
             }
         ]
@@ -2068,7 +2117,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the law provides for a balance between the promotion of Ukrainian and guarantees for minority languages",
                 "embedded clauses": []
             }
         ]
@@ -2079,14 +2128,27 @@
             {
                 "predicate": [
                     {
-                        "str": "hesitant",
+                        "str": "hesitant as to",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "polar",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "whether we can really say that Jesus and people of his time were ethnically egalitarian in our modern sense",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "say",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that Jesus and people of his time were ethnically egalitarian in our modern sense",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2102,7 +2164,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether their uses pose a potential health risk",
                 "embedded clauses": []
             }
         ]
@@ -2119,7 +2181,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether nephropathy occurs in other parts of the world, especially India and Central America where the use of species of Aristolochia are reported to be commonly used in traditional medicine",
                 "embedded clauses": []
             }
         ]
@@ -2136,7 +2198,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you need a personal injury lawyer after a car accident",
                 "embedded clauses": []
             }
         ]
@@ -2153,7 +2215,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you have one of these types of injuries",
                 "embedded clauses": []
             }
         ]
@@ -2170,7 +2232,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether that wheel was a good buy",
                 "embedded clauses": []
             }
         ]
@@ -2187,7 +2249,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to grant a nonimmigrant visa",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "determine",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether the applicant truly intends to return to his or her country when the visa expires",
                 "embedded clauses": []
             }
         ]
@@ -2204,7 +2278,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you find it wonderful or not",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "doubt",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you'll enjoy it as much as the holiday classic that the narrator alludes to",
                 "embedded clauses": []
             }
         ]
@@ -2221,7 +2307,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the Chairperson is here",
                 "embedded clauses": []
             }
         ]
@@ -2238,8 +2324,21 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "aware",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2255,8 +2354,21 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "whether I am the only one who heard my good friend, the simba from Kirinyaga mention that some\"\u009d.\"",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "mention",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that some\"\u009d.\"",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2272,7 +2384,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether or not a particular promise or voluntary agreement is legally enforceable",
                 "embedded clauses": []
             }
         ]
@@ -2289,7 +2401,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether early, pre-album hits \u2014 like \u2018Sweater' and \u2018Turn Up Your Stereo' \u2014 ever make an appearance on live set lists",
                 "embedded clauses": []
             }
         ]
@@ -2306,7 +2418,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "Whether, in a case of such collaboration between state and federal officers, the defendant could successfully assert his privilege in the state proceeding",
                 "embedded clauses": []
             }
         ]
@@ -2323,7 +2435,19 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "if taking antidepressants can help to reduce your symptoms of atheophobia",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "see",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "polar",
+                "clause": "whether or not it is safe to do so",
                 "embedded clauses": []
             }
         ]
@@ -2340,7 +2464,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to renew the offer",
                 "embedded clauses": []
             }
         ]
@@ -2357,7 +2481,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether, if a new site was offered, it would support building a new house on it for the agent and consul-general",
                 "embedded clauses": []
             }
         ]
@@ -2374,7 +2498,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether any of this is really possible today, though",
                 "embedded clauses": []
             }
         ]
@@ -2391,7 +2515,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether the relevant facility's impact on the environment is acceptable within the framework of the applicable legislation",
                 "embedded clauses": []
             }
         ]
@@ -2408,7 +2532,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether preparation of an EIA report is required for the specific project",
                 "embedded clauses": []
             }
         ]
@@ -2425,7 +2549,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether to persist",
                 "embedded clauses": []
             }
         ]
@@ -2442,7 +2566,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "",
+                "clause": "whether you have anxiety",
                 "embedded clauses": []
             }
         ]
