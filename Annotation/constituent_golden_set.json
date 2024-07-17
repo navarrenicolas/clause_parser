@@ -16,23 +16,6 @@
             }
         ]
     },
-    "27": {
-        "sentence": "And the experience is still paying dividends; this is where I learned to storyboard as well as to improvise when the storyboard became incompatible with reality.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "improvise",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
-            }
-        ]
-    },
     "34": {
         "sentence": "I get why there is a Michigan culture that supports hunting and related lifestyle.",
         "embedded clauses": [
@@ -45,7 +28,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why there is a Michigan culture that supports hunting and related lifestyle",
                 "embedded clauses": []
             }
         ]
@@ -62,7 +45,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why there are a very small percentage of zealots who take the guns and rugged independence and separate society to an extreme",
                 "embedded clauses": []
             }
         ]
@@ -79,7 +62,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how to decide on the correct manufacturer",
                 "embedded clauses": []
             }
         ]
@@ -96,7 +79,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how to locate them and evaluate each company",
                 "embedded clauses": []
             }
         ]
@@ -113,7 +96,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why, exactly, we allow a tax deduction for charitable giving",
                 "embedded clauses": []
             }
         ]
@@ -130,7 +113,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how people made sense of a family death, within the social contexts of their lives",
                 "embedded clauses": []
             }
         ]
@@ -147,7 +130,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how people made sense of the family death in relation to three main contexts: family, religion, and materiality",
                 "embedded clauses": []
             }
         ]
@@ -164,7 +147,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how they are feeling",
                 "embedded clauses": []
             }
         ]
@@ -181,7 +164,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how you can take your business to the next level in Washington State",
                 "embedded clauses": []
             }
         ]
@@ -198,7 +181,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why Superman is the world's greatest super-hero, bar none",
                 "embedded clauses": []
             }
         ]
@@ -215,7 +198,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why no one's put these two legacy heroes together before",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "see",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how that plays out in Teen Titans: Life and Death",
                 "embedded clauses": []
             }
         ]
@@ -232,7 +227,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how DC might collect the various crossover miniseries specials",
                 "embedded clauses": []
             }
         ]
@@ -248,8 +243,20 @@
                         "POS": ""
                     }
                 ],
+                "type": "polar",
+                "clause": "Whether Vengeance will include Sam Loeb's #26",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "seen",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how DC will collect Mark Verheiden's issues after Jeph Loeb departs",
                 "embedded clauses": []
             }
         ]
@@ -266,7 +273,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how messed up things were for her",
                 "embedded clauses": []
             }
         ]
@@ -283,7 +290,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why imported basic commodities, such as chicken, milk and toilet paper, are now scarce, just as in the old Soviet Union, or in today\u2019s Cuba",
                 "embedded clauses": []
             }
         ]
@@ -300,7 +307,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why the liberal elite controls Hollywood",
                 "embedded clauses": []
             }
         ]
@@ -317,7 +324,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how the process impacts the album",
                 "embedded clauses": []
             }
         ]
@@ -334,7 +341,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why the Conservancy is stepping up its collaboration with IHA",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "We want to do our part to help create a future world, one where people can live, learn and thrive supported by a sustainable energy system and one that harbours beautiful and productive rivers, including wild ones",
                 "embedded clauses": []
             }
         ]
