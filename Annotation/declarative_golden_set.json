@@ -358,7 +358,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "",
+                "clause": "that doctors are in some way divorced from their patients and unaffected by the treatment they provide to them",
                 "embedded clauses": []
             }
         ]
@@ -1230,12 +1230,7 @@
             {
                 "predicate": [
                     {
-                        "str": "find",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "out",
+                        "str": "find out",
                         "lemma": "",
                         "POS": ""
                     }
