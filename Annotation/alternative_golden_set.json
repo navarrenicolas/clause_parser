@@ -11,7 +11,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether female PRI Senator Diva Gastelum represents her constituents through descriptive or substantives representation",
                 "embedded clauses": []
             }
         ]
@@ -28,7 +28,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether that's a good thing or a bad thing",
                 "embedded clauses": []
             }
         ]
@@ -45,7 +45,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "Whether a molecular configuration is designated E or Z",
                 "embedded clauses": []
             }
         ]
@@ -62,7 +62,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "Whether the \u2018drop\u2019 of the record reverberates on a micro-scale, or to Grand Canyon echo-type proportions",
                 "embedded clauses": []
             }
         ]
@@ -79,7 +79,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether they appear in the title, subheadings or the body of the page",
                 "embedded clauses": []
             }
         ]
@@ -96,7 +96,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the 2026 World Cup should be played in North America or return to Africa for just the second time, in Morocco",
                 "embedded clauses": []
             }
         ]
@@ -113,7 +113,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether I am a victim, a villain, or a victor",
                 "embedded clauses": []
             }
         ]
@@ -130,7 +130,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to engage his opponent or stand off",
                 "embedded clauses": []
             }
         ]
@@ -147,7 +147,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Rocco must return to New York, and his mother, or whether he can stay in London with his father",
                 "embedded clauses": []
             }
         ]
@@ -164,7 +164,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "Whether a person is \u2018male\u2019 or \u2018female\u2019",
                 "embedded clauses": []
             }
         ]
@@ -181,7 +181,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "Whether that\u2019s an out and out striker or a winger",
                 "embedded clauses": []
             }
         ]
@@ -198,7 +198,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether this exception applies only to insurance company boycotts of agents and other companies or also applies to refusals to deal with policyholders",
                 "embedded clauses": []
             }
         ]
@@ -215,7 +215,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "Whether the management (M) answered the question or the works council (WC)",
                 "embedded clauses": []
             }
         ]
@@ -232,7 +232,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether she will next have a baby with Arnold Schwarzenegger or go and kill the bad guys",
                 "embedded clauses": []
             }
         ]
@@ -249,7 +249,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether this is Allergic Contact Dermatitis or another rash",
                 "embedded clauses": []
             }
         ]
@@ -266,7 +266,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the issue at hand has anything to do with a TBI or is even related to the assault at all",
                 "embedded clauses": []
             }
         ]
@@ -277,13 +277,13 @@
             {
                 "predicate": [
                     {
-                        "str": "irrelevant",
+                        "str": "is irrelevant",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "Whether a neo-con or a progressive acts in the theater of globalization",
                 "embedded clauses": []
             }
         ]
@@ -300,7 +300,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether its work, family, or friends",
                 "embedded clauses": []
             }
         ]
@@ -317,7 +317,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to return to an almost feudal structure, welcome back the cowardly Zog or attempt to build a new society based on Communist principles",
                 "embedded clauses": []
             }
         ]
@@ -334,7 +334,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether it is just a part-time job, a volunteer job, or your career",
                 "embedded clauses": []
             }
         ]
@@ -351,7 +351,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether it's 50/50, 60/40 or 70/30",
                 "embedded clauses": []
             }
         ]
@@ -368,7 +368,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether it\u2019s in the Bay Area or in the Northeast or in all the places up the Pacific Northwest",
                 "embedded clauses": []
             }
         ]
@@ -379,13 +379,13 @@
             {
                 "predicate": [
                     {
-                        "str": "certain",
+                        "str": "is certain",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Betty is still alive or just hypnotized",
                 "embedded clauses": []
             }
         ]
@@ -402,7 +402,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether existing conditions are sufficient or if additional parking, turn lanes, or even a traffic light will be necessary to keep the clientele happy and allow them to come and go in a safe manner",
                 "embedded clauses": []
             }
         ]
@@ -419,7 +419,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Helen\u2019s rejection of her sexual habits is feigned, or whether it represents a brief moment of sincerity, the realization that having many short-lived affairs with men does not necessarily bring her (or her daughter) happiness and stability",
                 "embedded clauses": []
             }
         ]
@@ -436,7 +436,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether reality is a dream or dreams reality",
                 "embedded clauses": []
             }
         ]
@@ -453,7 +453,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether you prefer dramatic coastline or heather moorland",
                 "embedded clauses": []
             }
         ]
@@ -470,7 +470,19 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether their work placement is paid or unpaid",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "depending on",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "alternative",
+                "clause": "whether their work placement is optional or a mandatory requirement for graduation",
                 "embedded clauses": []
             }
         ]
@@ -487,7 +499,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the accumulated evidence indicates failures of policy or represents an unconnected sequence of criminal actions by a tiny minority of rogue soldiers",
                 "embedded clauses": []
             }
         ]
@@ -504,7 +516,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the student enters directly from a BA, or completes an MA before entering the program",
                 "embedded clauses": []
             }
         ]
@@ -521,7 +533,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to bootstrap or finance",
                 "embedded clauses": []
             }
         ]
@@ -538,7 +550,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether you want to repay interest only or interest and capital",
                 "embedded clauses": []
             }
         ]
@@ -555,7 +567,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether cheerleading is considered a sport or treated as a club activity like a drama or chess club that involves no athletic activities",
                 "embedded clauses": []
             }
         ]
@@ -572,7 +584,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether these questions are relatively easy or impossibly difficult",
                 "embedded clauses": []
             }
         ]
@@ -589,7 +601,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the propaganda agenda is purely journalistic, or partly stems from NASA itself",
                 "embedded clauses": []
             }
         ]
@@ -606,7 +618,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the word \"new\" in this measure applies only to MOUs or whether it also applies to other pension contracts or agreements, such as those delineated in statute or those applicable to managers and supervisors",
                 "embedded clauses": []
             }
         ]
@@ -623,7 +635,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the University should conduct an internal investigation to understand the facts and any potential liability issues, engage experience criminal counsel, or prepare for the possibility that the Grand Jury investigation might result in some criticism of the University or its staff",
                 "embedded clauses": []
             }
         ]
@@ -640,7 +652,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether it got to the right people or whether it was eaten",
                 "embedded clauses": []
             }
         ]
@@ -657,7 +669,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether these abnormalities are down to skin cancer or other causes",
                 "embedded clauses": []
             }
         ]
@@ -668,13 +680,13 @@
             {
                 "predicate": [
                     {
-                        "str": "irrelevant",
+                        "str": "be irrelevant",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the target is considered a good or bad person",
                 "embedded clauses": []
             }
         ]
@@ -691,7 +703,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether those similarities are due to nature or nurture",
                 "embedded clauses": []
             }
         ]
@@ -708,7 +720,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether DC will collect these Bill Willingham-written, Infinite Crisis-crossing stories, or whether they'll jump to the new material",
                 "embedded clauses": []
             }
         ]
@@ -725,7 +737,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4)",
                 "embedded clauses": []
             }
         ]
@@ -742,7 +754,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Real Madrid or Barcelona should be considered La Liga favourites",
                 "embedded clauses": []
             }
         ]
@@ -759,7 +771,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading",
                 "embedded clauses": []
             }
         ]
@@ -770,13 +782,13 @@
             {
                 "predicate": [
                     {
-                        "str": "immaterial",
+                        "str": "is immaterial",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the state law question as to its meaning was controverted or accepted",
                 "embedded clauses": []
             }
         ]
@@ -793,7 +805,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether I am over-eating or under-eating",
                 "embedded clauses": []
             }
         ]
@@ -810,7 +822,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down",
                 "embedded clauses": []
             }
         ]
@@ -821,13 +833,13 @@
             {
                 "predicate": [
                     {
-                        "str": "clear",
+                        "str": "is not quite clear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether it concerns a direct investment of a company resident in those countries or whether it would also apply to foreign companies investing in Cura\u00e7ao through intermediary holdings in those countries",
                 "embedded clauses": []
             }
         ]
@@ -844,7 +856,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether a player has chosen to fight for the Allies or Axis",
                 "embedded clauses": []
             }
         ]
@@ -855,13 +867,13 @@
             {
                 "predicate": [
                     {
-                        "str": "unclear",
+                        "str": "remains unclear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether these sites are the remains of the Xia dynasty or of another culture from the same period",
                 "embedded clauses": []
             }
         ]
@@ -878,7 +890,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether a reunification of Ireland - either as a single Republic or as part of the UK - is even imaginable or are the differences still so strong that it's unthinkable",
                 "embedded clauses": []
             }
         ]
@@ -895,7 +907,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether such injuries are serious or less serious",
                 "embedded clauses": []
             }
         ]
@@ -912,7 +924,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the people are students in one of these high schools, home schooled, early graduates, or just young looking graduates",
                 "embedded clauses": []
             }
         ]
@@ -929,7 +941,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether patrons are students or adults who look like students",
                 "embedded clauses": []
             }
         ]
@@ -946,7 +958,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today",
                 "embedded clauses": []
             }
         ]
@@ -963,7 +975,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether this would be a monarchy or a republic",
                 "embedded clauses": []
             }
         ]
@@ -974,13 +986,18 @@
             {
                 "predicate": [
                     {
-                        "str": "speak to",
+                        "str": "speak",
+                        "lemma": "",
+                        "POS": ""
+                    },
+                    {
+                        "str": "to",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Mandy was seated or lying down when he was picked up",
                 "embedded clauses": []
             }
         ]
@@ -997,7 +1014,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether PC Mc Vane was acting in self-defence when he shot Mandy or whether he and PC Polius acted negligently or recklessly in handling the situation and Mandy",
                 "embedded clauses": []
             }
         ]
@@ -1014,7 +1031,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether or not we have to be singing in order to hear this, or whether it is just going to manifest",
                 "embedded clauses": []
             }
         ]
@@ -1031,7 +1048,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the subjects were stretching completely cold, or whether they had \u0093warmed up\u0094 in any way prior to the stretching episode, which is common practice",
                 "embedded clauses": []
             }
         ]
@@ -1048,7 +1065,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the point is outside or inside the circle",
                 "embedded clauses": []
             }
         ]
@@ -1065,7 +1082,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to remain true to their artistic vision or try to be more commercial",
                 "embedded clauses": []
             }
         ]
@@ -1082,7 +1099,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to serve India after gaining experience or stay back",
                 "embedded clauses": []
             }
         ]
@@ -1099,7 +1116,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Days of Future Past is a step forward \u0096 or backward \u0096 for the X-Men",
                 "embedded clauses": []
             }
         ]
@@ -1116,7 +1133,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the water pushed him out or if somebody pulled him to safety",
                 "embedded clauses": []
             }
         ]
@@ -1133,7 +1150,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether they have been whipped or heat treated",
                 "embedded clauses": []
             }
         ]
@@ -1150,7 +1167,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships)",
                 "embedded clauses": []
             }
         ]
@@ -1167,7 +1184,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to give in to relentless pressure to resign, or fight on to save her Brexit plan and her premiership",
                 "embedded clauses": []
             }
         ]
@@ -1184,7 +1201,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the doors are made of solid wood or metal",
                 "embedded clauses": []
             }
         ]
@@ -1201,7 +1218,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether she\u0092d been stabbed in a literal or metaphorical Barcelona",
                 "embedded clauses": []
             }
         ]
@@ -1212,13 +1229,13 @@
             {
                 "predicate": [
                     {
-                        "str": "undecided",
+                        "str": "undecided on",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to back up their fellow or choose the better part of valor",
                 "embedded clauses": []
             }
         ]
@@ -1235,8 +1252,21 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "whether to require a full formal filing or determine that no further action is necessary",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "determine",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that no further action is necessary",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1252,7 +1282,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the Supreme Court\u0092s grant of certiorari in Bilski signals an intent to significantly narrow or expand the scope of patent eligibility under 35 U.S.C.",
                 "embedded clauses": []
             }
         ]
@@ -1269,7 +1299,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether this effect is consequent to a structural modification of PrPC, or a dislodgment from natural interacting partners, or a modification of the membrane lipid architecture surrounding the protein",
                 "embedded clauses": []
             }
         ]
@@ -1286,7 +1316,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether you should join a team or go at it alone",
                 "embedded clauses": []
             }
         ]
@@ -1303,7 +1333,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether he worked for a shipping company or for a government agency, such as the Federal Maritime Commission or the New York Port Authority",
                 "embedded clauses": []
             }
         ]
@@ -1320,7 +1350,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Intertops is as strong as ever, or is beginning to show its age",
                 "embedded clauses": []
             }
         ]
@@ -1337,7 +1367,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether a user simply visits one of our websites, uses them as a registered user or is just registering",
                 "embedded clauses": []
             }
         ]
@@ -1354,7 +1384,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether data is entered on our websites by a human or by automated software, e.g.",
                 "embedded clauses": []
             }
         ]
@@ -1371,7 +1401,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether, after nine years, TIME had run out of ways to exploit the TIME 100 or I had run out of ways to make fun of it",
                 "embedded clauses": []
             }
         ]
@@ -1388,7 +1418,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether the card on the card on the player or the banker who will be the winner, or the game ends in a tie",
                 "embedded clauses": []
             }
         ]
@@ -1405,7 +1435,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether to stay and hope to survive hard times, or whether to flee across rivers and borders with what they could carry",
                 "embedded clauses": []
             }
         ]
@@ -1422,7 +1452,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether you want the video to be oriented horizontally (landscape) or vertically (portrait)",
                 "embedded clauses": []
             }
         ]
@@ -1439,7 +1469,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether you will pay or receive alimony",
                 "embedded clauses": []
             }
         ]
@@ -1456,7 +1486,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Desire or BOTT is my favorite Dylan record",
                 "embedded clauses": []
             }
         ]
@@ -1473,7 +1503,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "",
+                "clause": "whether Jesus or the Holy Spirit lives in my heart",
                 "embedded clauses": []
             }
         ]
