@@ -1,0 +1,38 @@
+https://huggingface.co/datasets/allenai/dolma/discussions/20
+
+
+
+here is what i ended up using (maybe too much info, but in case it helps someone):
+
+I had some issues setting up my HF to work with ssh and cloning; I created my .ssh token, but I then had to add it to my ssh client:
+
+ssh-add ~/.ssh/huggingface
+
+where huggingface was the name of my key. then you should be able to run "ssh -T git@hf.co" and see a response "Hi {username}, welcome to Hugging Face"
+
+then i made a .sh file:
+
+DATA_DIR='/home/ubuntu/data'
+PARALLEL_DOWNLOADS='10'
+DOLMA_VERSION='v1_6-sample'
+
+git clone git@hf.co:datasets/allenai/dolma
+
+mkdir -p "${DATA_DIR}"
+
+cat "dolma/urls/${DOLMA_VERSION}.txt" | xargs -n 1 -P "${PARALLEL_DOWNLOADS}" wget -q -P "$DATA_DIR"
+
+and ran it, and the files downloaded without error. to actually load the files, I ran:
+
+from datasets import load_dataset
+
+Set the path to the directory where your JSON files are located
+data_dir = '/home/ubuntu/data'
+file_pattern = 'v1_5r2_sample-*.json.gz' # Adjust the pattern to match your files
+
+Load the dataset from the specified JSON files
+dataset = load_dataset('json', data_files=f'{data_dir}/{file_pattern}', split='train', stream=True)
+
+print(dataset)
+
+Note I had to use stream to load it otherwise my RAM got shot
