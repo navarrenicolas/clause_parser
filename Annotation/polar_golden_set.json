@@ -484,7 +484,7 @@
             {
                 "predicate": [
                     {
-                        "str": "dependent on",
+                        "str": "is not dependent on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -498,18 +498,6 @@
     "124": {
         "sentence": "Whether the judge will agree with Rocco depends on what Rocco's reasons are for wanting to live with his father in London.",
         "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "depends on",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "polar",
-                "clause": "Whether the judge will agree with Rocco",
-                "embedded clauses": []
-            },
             {
                 "predicate": [
                     {
@@ -1668,7 +1656,7 @@
             {
                 "predicate": [
                     {
-                        "str": "couldnt care",
+                        "str": "care",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1680,7 +1668,7 @@
             {
                 "predicate": [
                     {
-                        "str": "couldnt care",
+                        "str": "care",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1703,7 +1691,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "whether our normal feeling of being one person is also an illusion",
+                "clause": "whether our normal feeling of being one person is also an illusion, even though our brains remain whole",
                 "embedded clauses": []
             }
         ]
@@ -2031,7 +2019,7 @@
             {
                 "predicate": [
                     {
-                        "str": "non-committal on",
+                        "str": "remained non-committal on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -2498,7 +2486,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "whether any of this is really possible today, though",
+                "clause": "whether any of this is really possible today",
                 "embedded clauses": []
             }
         ]
