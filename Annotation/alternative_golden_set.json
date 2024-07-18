@@ -73,12 +73,7 @@
             {
                 "predicate": [
                     {
-                        "str": "based",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "based on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -265,12 +260,7 @@
             {
                 "predicate": [
                     {
-                        "str": "fighting",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "about",
+                        "str": "fighting about",
                         "lemma": "",
                         "POS": ""
                     }
@@ -287,12 +277,7 @@
             {
                 "predicate": [
                     {
-                        "str": "is",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "irrelevant",
+                        "str": "is irrelevant",
                         "lemma": "",
                         "POS": ""
                     }
@@ -394,12 +379,7 @@
             {
                 "predicate": [
                     {
-                        "str": "is",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "certain",
+                        "str": "is certain",
                         "lemma": "",
                         "POS": ""
                     }
@@ -487,11 +467,6 @@
                         "str": "depending on",
                         "lemma": "",
                         "POS": ""
-                    },
-                    {
-                        "str": "on",
-                        "lemma": "",
-                        "POS": ""
                     }
                 ],
                 "type": "alternative",
@@ -502,11 +477,6 @@
                 "predicate": [
                     {
                         "str": "depending on",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -540,12 +510,7 @@
             {
                 "predicate": [
                     {
-                        "str": "depending",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "depending on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -562,12 +527,7 @@
             {
                 "predicate": [
                     {
-                        "str": "depends",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "depends on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -584,12 +544,7 @@
             {
                 "predicate": [
                     {
-                        "str": "depend",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "depend on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -725,7 +680,7 @@
             {
                 "predicate": [
                     {
-                        "str": "irrelevant",
+                        "str": "be irrelevant",
                         "lemma": "",
                         "POS": ""
                     }
@@ -827,7 +782,7 @@
             {
                 "predicate": [
                     {
-                        "str": "immaterial",
+                        "str": "is immaterial",
                         "lemma": "",
                         "POS": ""
                     }
@@ -878,7 +833,7 @@
             {
                 "predicate": [
                     {
-                        "str": "clear",
+                        "str": "is not quite clear",
                         "lemma": "",
                         "POS": ""
                     }
@@ -895,12 +850,7 @@
             {
                 "predicate": [
                     {
-                        "str": "depending",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "depending on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -917,7 +867,7 @@
             {
                 "predicate": [
                     {
-                        "str": "unclear",
+                        "str": "remains unclear",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1109,12 +1059,7 @@
             {
                 "predicate": [
                     {
-                        "str": "depending",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "depending on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1131,12 +1076,7 @@
             {
                 "predicate": [
                     {
-                        "str": "debating",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "over",
+                        "str": "debating over",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1204,12 +1144,7 @@
             {
                 "predicate": [
                     {
-                        "str": "distinguished",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "by",
+                        "str": "distinguished by",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1294,12 +1229,7 @@
             {
                 "predicate": [
                     {
-                        "str": "undecided",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "undecided on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1414,12 +1344,7 @@
             {
                 "predicate": [
                     {
-                        "str": "find",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "out",
+                        "str": "find out",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1436,12 +1361,7 @@
             {
                 "predicate": [
                     {
-                        "str": "depends",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "depends on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1560,17 +1480,7 @@
             {
                 "predicate": [
                     {
-                        "str": "gone",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "back and forth",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "on",
+                        "str": "gone back and forth on",
                         "lemma": "",
                         "POS": ""
                     }
