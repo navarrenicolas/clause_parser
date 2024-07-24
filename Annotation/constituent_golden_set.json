@@ -227,7 +227,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "how DC might collect the various crossover miniseries specials",
+                "clause": "how DC might collect the various crossover miniseries specials, however, perhaps along with the lead story from the Infinite Crisis Secret Files",
                 "embedded clauses": []
             }
         ]
@@ -504,23 +504,6 @@
                 ],
                 "type": "constituent",
                 "clause": "how this thing ends up",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "394": {
-        "sentence": "Once self storage sees how much money has been wasted on items the child does not play with, it may help to curb future purchases.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "sees",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "how much money has been wasted on items the child does not play with",
                 "embedded clauses": []
             }
         ]
@@ -826,6 +809,18 @@
                 "type": "constituent",
                 "clause": "how he much he has enjoyed working for the council and nothing ever made him want to leave",
                 "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "says",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "nothing ever made him want to leave",
+                "embedded clauses": []
             }
         ]
     },
@@ -859,23 +854,6 @@
                 ],
                 "type": "constituent",
                 "clause": "how or what he is planning",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "711": {
-        "sentence": "Questions are being asked as to why councils are ploughing money into fracking when support for it is consistently low.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "asked as to",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "why councils are ploughing money into fracking when support for it is consistently low",
                 "embedded clauses": []
             }
         ]
@@ -1665,7 +1643,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "what is not.\"",
+                "clause": "what is not",
                 "embedded clauses": []
             }
         ]
@@ -1693,7 +1671,7 @@
             {
                 "predicate": [
                     {
-                        "str": "focuses on",
+                        "str": "focuses mainly on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1705,7 +1683,7 @@
             {
                 "predicate": [
                     {
-                        "str": "focuses on",
+                        "str": "focuses mainly on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1718,7 +1696,7 @@
             {
                 "predicate": [
                     {
-                        "str": "focuses on",
+                        "str": "less so on",
                         "lemma": "",
                         "POS": ""
                     }
@@ -2297,20 +2275,7 @@
                 ],
                 "type": "constituent",
                 "clause": "how to write what I want to put out there instead of just typing it out",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "write",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "constituent",
-                        "clause": "what I want to put out there",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": []
             }
         ]
     },
@@ -2360,7 +2325,7 @@
                     {
                         "predicate": [
                             {
-                                "str": "hear from",
+                                "str": "hear",
                                 "lemma": "",
                                 "POS": ""
                             }
