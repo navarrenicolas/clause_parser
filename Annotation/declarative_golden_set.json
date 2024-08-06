@@ -216,7 +216,7 @@
             {
                 "predicate": [
                     {
-                        "str": " think",
+                        "str": "think",
                         "lemma": "",
                         "POS": ""
                     }
@@ -341,7 +341,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "that such thinking forces us to speak of ourselves in terms of \u201cwhat we have\u201d instead of \u201cwho we are\u201d (http://www.firstthings.com/article.php3?id_article=6047)",
+                "clause": "that such thinking forces us to speak of ourselves in terms of \u201cwhat we have\u201d instead of \u201cwho we are\u201d",
                 "embedded clauses": []
             }
         ]
@@ -403,14 +403,27 @@
             {
                 "predicate": [
                     {
-                        "str": "learn",
+                        "str": "write",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "declarative",
-                "clause": "that something is precious",
-                "embedded clauses": []
+                "clause": "\u201cOften, we learn that something is precious only when we see it in the light of someone\u2019s love\u201d",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "learn",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that something is precious",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -591,7 +604,7 @@
                     {
                         "predicate": [
                             {
-                                "str": "stunned",
+                                "str": "was so stunned",
                                 "lemma": "",
                                 "POS": ""
                             }
@@ -617,7 +630,20 @@
                 ],
                 "type": "declarative",
                 "clause": "that he can do so much more then he thought he could",
-                "embedded clauses": []
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "thought",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "he could",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -854,8 +880,21 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
-                "embedded clauses": []
+                "clause": "she hopes the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "hopes",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -890,6 +929,18 @@
                 "type": "declarative",
                 "clause": "that Apple does provide a converter that turns the charging port into a headphone jack",
                 "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "means",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you have to do a lot of plugging and unplugging every time you want to listen to music",
+                "embedded clauses": []
             }
         ]
     },
@@ -907,6 +958,18 @@
                 "type": "declarative",
                 "clause": "that you are a specialist in a particular field",
                 "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "realize",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how to accomplish something especially well",
+                "embedded clauses": []
             }
         ]
     },
@@ -922,7 +985,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "ou have made a planned to leave your 9-to-5 job",
+                "clause": "you have made a planned to leave your 9-to-5 job",
                 "embedded clauses": []
             }
         ]
@@ -1185,7 +1248,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "it would be one more day",
+                "clause": "it would be one more day - they were doing some final tests",
                 "embedded clauses": []
             }
         ]
@@ -1452,7 +1515,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "that its informant was responsible for first alerting law enforcement to the Twitter communications, but refused disclosure under the government\u2013informant privilege",
+                "clause": "that its informant was responsible for first alerting law enforcement to the Twitter communications",
                 "embedded clauses": []
             }
         ]
@@ -1469,8 +1532,21 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "that the FBI\u2019s confidential informant was material to his defense",
-                "embedded clauses": []
+                "clause": "that Abdulkadir failed to show that the FBI\u2019s confidential informant was material to his defense",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "show",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that the FBI\u2019s confidential informant was material to his defense",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1532,19 +1608,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "you revisit this page",
-                "embedded clauses": []
-            },
-            {
-                "predicate": [
-                    {
-                        "str": "ensure",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "declarative",
-                "clause": "re\u2013check for any updates/changes before the date of the fixture",
+                "clause": "you revisit this page and re\u2013check for any updates/changes before the date of the fixture",
                 "embedded clauses": []
             }
         ]
@@ -1710,7 +1774,20 @@
                 ],
                 "type": "declarative",
                 "clause": "he was puzzled by why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
-                "embedded clauses": []
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "was puzzled by",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1890,7 +1967,7 @@
             {
                 "predicate": [
                     {
-                        "str": "aware",
+                        "str": "is aware",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1981,7 +2058,7 @@
                     }
                 ],
                 "type": "declarative",
-                "clause": "that you\u2019ve read the fine print and then click Next",
+                "clause": "that you\u2019ve read the fine print",
                 "embedded clauses": []
             }
         ]
