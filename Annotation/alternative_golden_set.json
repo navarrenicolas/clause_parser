@@ -119,7 +119,7 @@
         ]
     },
     "105": {
-        "sentence": "Last season he was basically a training cone, not knowing whether to engage his opponent or stand off.\u201d Therefore, based on what I\u2019ve read on the boards I\u2019d go for Diego Rico.",
+        "sentence": "Last season he was basically a training cone, not knowing whether to engage his opponent or stand off.",
         "embedded clauses": [
             {
                 "predicate": [
@@ -226,7 +226,7 @@
             {
                 "predicate": [
                     {
-                        "str": "confusing",
+                        "str": "is almost confusing",
                         "lemma": "",
                         "POS": ""
                     }
@@ -413,7 +413,7 @@
             {
                 "predicate": [
                     {
-                        "str": "ambiguous",
+                        "str": "remains ambiguous",
                         "lemma": "",
                         "POS": ""
                     }
@@ -578,7 +578,7 @@
             {
                 "predicate": [
                     {
-                        "str": "random",
+                        "str": "be random",
                         "lemma": "",
                         "POS": ""
                     }
@@ -612,7 +612,7 @@
             {
                 "predicate": [
                     {
-                        "str": "unclear",
+                        "str": "is unclear",
                         "lemma": "",
                         "POS": ""
                     }
@@ -986,12 +986,7 @@
             {
                 "predicate": [
                     {
-                        "str": "speak",
-                        "lemma": "",
-                        "POS": ""
-                    },
-                    {
-                        "str": "to",
+                        "str": "speak to",
                         "lemma": "",
                         "POS": ""
                     }
@@ -1083,6 +1078,18 @@
                 ],
                 "type": "alternative",
                 "clause": "whether to remain true to their artistic vision or try to be more commercial",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "decided",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "it would be better to \"go down in flames\" than compromise their musical integrity",
                 "embedded clauses": []
             }
         ]
@@ -1418,7 +1425,7 @@
                     }
                 ],
                 "type": "alternative",
-                "clause": "whether the card on the card on the player or the banker who will be the winner, or the game ends in a tie",
+                "clause": "whether the card on the card on the player or the banker who will be the winner",
                 "embedded clauses": []
             }
         ]
