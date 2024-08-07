@@ -912,23 +912,6 @@
             }
         ]
     },
-    "132": {
-        "sentence": "We also serve patrons from three high schools at our public library, and that doesn\u0092t even begin to address the determining whether the people are students in one of these high schools, home schooled, early graduates, or just young looking graduates.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "determining",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "alternative",
-                "clause": "whether the people are students in one of these high schools, home schooled, early graduates, or just young looking graduates",
-                "embedded clauses": []
-            }
-        ]
-    },
     "133": {
         "sentence": "The library should not have to deal with training staff to discern whether patrons are students or adults who look like students.",
         "embedded clauses": [
