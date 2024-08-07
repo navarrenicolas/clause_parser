@@ -6,8 +6,8 @@
                 "predicate": [
                     {
                         "str": "analyzes",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "analyze",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -23,8 +23,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -40,8 +40,8 @@
                 "predicate": [
                     {
                         "str": "determine",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "determine",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -57,8 +57,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -73,9 +73,14 @@
             {
                 "predicate": [
                     {
-                        "str": "based on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "based",
+                        "lemma": "base",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -91,8 +96,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -108,8 +113,8 @@
                 "predicate": [
                     {
                         "str": "determine",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "determine",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -125,8 +130,8 @@
                 "predicate": [
                     {
                         "str": "knowing",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -142,8 +147,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -159,8 +164,8 @@
                 "predicate": [
                     {
                         "str": "defined",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "define",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -176,8 +181,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -193,8 +198,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -210,8 +215,8 @@
                 "predicate": [
                     {
                         "str": "illustrated",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "illustrate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -226,9 +231,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is almost confusing",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "confusing",
+                        "lemma": "confusing",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -244,8 +254,8 @@
                 "predicate": [
                     {
                         "str": "determine",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "determine",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -260,9 +270,14 @@
             {
                 "predicate": [
                     {
-                        "str": "fighting about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "fighting",
+                        "lemma": "fight",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -277,9 +292,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is irrelevant",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "irrelevant",
+                        "lemma": "irrelevant",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -292,13 +312,7 @@
         "sentence": "It doesn\u2019t matter whether its work, family, or friends, good morals will get you a long way with people, and they will respect you for it!",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "matter",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether its work, family, or friends",
                 "embedded clauses": []
@@ -312,8 +326,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -329,8 +343,8 @@
                 "predicate": [
                     {
                         "str": "told",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -343,13 +357,7 @@
         "sentence": "So as long as everyone would be exposed to STEM and be able to choose it as a career to pursue without pressure to not do so, it doens't matter to me whether it's 50/50, 60/40 or 70/30.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "matter",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether it's 50/50, 60/40 or 70/30",
                 "embedded clauses": []
@@ -363,8 +371,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -379,9 +387,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is certain",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "certain",
+                        "lemma": "certain",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -397,8 +410,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -413,9 +426,14 @@
             {
                 "predicate": [
                     {
-                        "str": "remains ambiguous",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "remains",
+                        "lemma": "remain",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "ambiguous",
+                        "lemma": "ambiguous",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -428,13 +446,7 @@
         "sentence": "He wonders whether reality is a dream or dreams reality.\u201d This isn\u2019t ordinary narration, which conveys information the film for one reason or other can\u2019t dramatize.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "wonders",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether reality is a dream or dreams reality",
                 "embedded clauses": []
@@ -448,8 +460,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -464,9 +476,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depending on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depending",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -476,9 +493,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depending on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depending",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -494,8 +516,8 @@
                 "predicate": [
                     {
                         "str": "reveal",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reveal",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -510,9 +532,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depending on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depending",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -527,9 +554,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depends on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depends",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -544,9 +576,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depend on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depend",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -562,8 +599,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -578,9 +615,14 @@
             {
                 "predicate": [
                     {
-                        "str": "be random",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "be",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "random",
+                        "lemma": "random",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -596,8 +638,8 @@
                 "predicate": [
                     {
                         "str": "wonder",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -612,9 +654,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is unclear",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "unclear",
+                        "lemma": "unclear",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -630,8 +677,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -647,8 +694,8 @@
                 "predicate": [
                     {
                         "str": "wonder",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -664,8 +711,8 @@
                 "predicate": [
                     {
                         "str": "known",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -680,9 +727,14 @@
             {
                 "predicate": [
                     {
-                        "str": "be irrelevant",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "be",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "irrelevant",
+                        "lemma": "irrelevant",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -695,13 +747,7 @@
         "sentence": "(And whether those similarities are due to nature or nurture, does it really matter?)",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "matter",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether those similarities are due to nature or nurture",
                 "embedded clauses": []
@@ -715,8 +761,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -729,13 +775,7 @@
         "sentence": "Here, Greenwood succinctly counters polarised ways of thinking in terms of \"primitive\" and \"modern,\" preferring instead to judge whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4).",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "judge",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4)",
                 "embedded clauses": []
@@ -749,8 +789,8 @@
                 "predicate": [
                     {
                         "str": "choosing",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "choose",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -763,13 +803,7 @@
         "sentence": "The point is that this makes it possible to readily construct a relatively simple reader which can discern (by determining the length of the respective distance a or b) whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "discern",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading",
                 "embedded clauses": []
@@ -782,9 +816,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is immaterial",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "immaterial",
+                        "lemma": "immaterial",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -797,13 +836,7 @@
         "sentence": "That said, it matters little whether I am over-eating or under-eating.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "matters",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether I am over-eating or under-eating",
                 "embedded clauses": []
@@ -814,13 +847,7 @@
         "sentence": "Wonder whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "Wonder",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down",
                 "embedded clauses": []
@@ -833,9 +860,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is not quite clear",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "clear",
+                        "lemma": "clear",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -850,9 +882,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depending on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depending",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -867,9 +904,14 @@
             {
                 "predicate": [
                     {
-                        "str": "remains unclear",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "remains",
+                        "lemma": "remain",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "unclear",
+                        "lemma": "unclear",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "alternative",
@@ -885,8 +927,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -902,8 +944,8 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -916,13 +958,7 @@
         "sentence": "The library should not have to deal with training staff to discern whether patrons are students or adults who look like students.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "discern",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether patrons are students or adults who look like students",
                 "embedded clauses": []
@@ -933,13 +969,7 @@
         "sentence": "It doesn\u0092t even matter whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today \u0096 as long as it\u0092s readable and well enough developed that a critique might be helpful.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "matter",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today",
                 "embedded clauses": []
@@ -953,8 +983,8 @@
                 "predicate": [
                     {
                         "str": "decided",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -969,9 +999,9 @@
             {
                 "predicate": [
                     {
-                        "str": "speak to",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "speak",
+                        "lemma": "speak",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -987,8 +1017,8 @@
                 "predicate": [
                     {
                         "str": "conclude",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "conclude",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1004,8 +1034,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1021,8 +1051,8 @@
                 "predicate": [
                     {
                         "str": "identify",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "identify",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1037,9 +1067,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depending on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depending",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1054,9 +1089,14 @@
             {
                 "predicate": [
                     {
-                        "str": "debating over",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "debating",
+                        "lemma": "debate",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "over",
+                        "lemma": "over",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1067,8 +1107,8 @@
                 "predicate": [
                     {
                         "str": "decided",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1084,8 +1124,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1101,8 +1141,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1118,8 +1158,8 @@
                 "predicate": [
                     {
                         "str": "recall",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "recall",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1134,9 +1174,14 @@
             {
                 "predicate": [
                     {
-                        "str": "distinguished by",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "distinguished",
+                        "lemma": "distinguish",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "by",
+                        "lemma": "by",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1149,13 +1194,7 @@
         "sentence": "This concerns whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships).",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "concerns",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships)",
                 "embedded clauses": []
@@ -1169,8 +1208,8 @@
                 "predicate": [
                     {
                         "str": "considers",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "consider",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1186,8 +1225,8 @@
                 "predicate": [
                     {
                         "str": "check",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "check",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1203,8 +1242,8 @@
                 "predicate": [
                     {
                         "str": "asked",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1219,9 +1258,14 @@
             {
                 "predicate": [
                     {
-                        "str": "undecided on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "undecided",
+                        "lemma": "undecided",
+                        "POS": "ADJ"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1237,26 +1281,37 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
                 "clause": "whether to require a full formal filing or determine that no further action is necessary",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "determine",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "that no further action is necessary",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "decide",
+                            "lemma": "decide",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "alternative",
+                    "clause": "whether to require a full formal filing or determine that no further action is necessary",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "determine",
+                                    "lemma": "determine",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "that no further action is necessary",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1267,8 +1322,8 @@
                 "predicate": [
                     {
                         "str": "predict",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "predict",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1284,8 +1339,8 @@
                 "predicate": [
                     {
                         "str": "clarify",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "clarify",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1301,8 +1356,8 @@
                 "predicate": [
                     {
                         "str": "Deciding",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1318,8 +1373,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1334,9 +1389,14 @@
             {
                 "predicate": [
                     {
-                        "str": "find out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "find",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1351,9 +1411,14 @@
             {
                 "predicate": [
                     {
-                        "str": "depends on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "depends",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1369,8 +1434,8 @@
                 "predicate": [
                     {
                         "str": "check",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "check",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1386,8 +1451,8 @@
                 "predicate": [
                     {
                         "str": "asked",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1403,8 +1468,8 @@
                 "predicate": [
                     {
                         "str": "guess",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "guess",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1420,8 +1485,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1434,13 +1499,7 @@
         "sentence": "You can\u0092t easily configure whether you want the video to be oriented horizontally (landscape) or vertically (portrait).",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "configure",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "alternative",
                 "clause": "whether you want the video to be oriented horizontally (landscape) or vertically (portrait)",
                 "embedded clauses": []
@@ -1454,8 +1513,8 @@
                 "predicate": [
                     {
                         "str": "includes",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "include",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",
@@ -1470,9 +1529,14 @@
             {
                 "predicate": [
                     {
-                        "str": "gone back and forth on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "gone",
+                        "lemma": "go",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1488,8 +1552,8 @@
                 "predicate": [
                     {
                         "str": "make",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "make",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "alternative",

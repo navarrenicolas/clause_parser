@@ -5,9 +5,14 @@
             {
                 "predicate": [
                     {
-                        "str": "figure out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "figure",
+                        "lemma": "figure",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -23,8 +28,8 @@
                 "predicate": [
                     {
                         "str": "get",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "get",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -40,8 +45,8 @@
                 "predicate": [
                     {
                         "str": "understand",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -57,8 +62,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -74,8 +79,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -88,13 +93,7 @@
         "sentence": "Query why, exactly, we allow a tax deduction for charitable giving.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "query",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "constituent",
                 "clause": "why, exactly, we allow a tax deduction for charitable giving",
                 "embedded clauses": []
@@ -108,8 +107,8 @@
                 "predicate": [
                     {
                         "str": "understand",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -125,8 +124,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -141,9 +140,14 @@
             {
                 "predicate": [
                     {
-                        "str": "apologize for",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "apologize",
+                        "lemma": "apologize",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "for",
+                        "lemma": "for",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -158,9 +162,14 @@
             {
                 "predicate": [
                     {
-                        "str": "Find out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "Find",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -176,8 +185,8 @@
                 "predicate": [
                     {
                         "str": "demonstrates",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "demonstrate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -193,8 +202,8 @@
                 "predicate": [
                     {
                         "str": "wonder",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -205,8 +214,8 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -222,8 +231,8 @@
                 "predicate": [
                     {
                         "str": "seen",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -239,8 +248,8 @@
                 "predicate": [
                     {
                         "str": "seen",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "polar",
@@ -251,8 +260,8 @@
                 "predicate": [
                     {
                         "str": "seen",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -268,8 +277,8 @@
                 "predicate": [
                     {
                         "str": "understood",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -285,8 +294,8 @@
                 "predicate": [
                     {
                         "str": "explains",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -302,8 +311,8 @@
                 "predicate": [
                     {
                         "str": "understand",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -319,8 +328,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -336,8 +345,8 @@
                 "predicate": [
                     {
                         "str": "explaining",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -348,8 +357,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -365,8 +374,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -381,9 +390,14 @@
             {
                 "predicate": [
                     {
-                        "str": "'s not too clear",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "'s",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "clear",
+                        "lemma": "clear",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "constituent",
@@ -399,8 +413,8 @@
                 "predicate": [
                     {
                         "str": "wonder",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -416,8 +430,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -428,8 +442,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -440,8 +454,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -452,8 +466,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -464,8 +478,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -480,9 +494,14 @@
             {
                 "predicate": [
                     {
-                        "str": "asked about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "asked",
+                        "lemma": "ask",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -498,8 +517,8 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -515,8 +534,8 @@
                 "predicate": [
                     {
                         "str": "explain",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -532,8 +551,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -549,8 +568,8 @@
                 "predicate": [
                     {
                         "str": "hearing",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "hear",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -566,8 +585,8 @@
                 "predicate": [
                     {
                         "str": "asked",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -583,8 +602,8 @@
                 "predicate": [
                     {
                         "str": "asked",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -600,8 +619,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -616,9 +635,14 @@
             {
                 "predicate": [
                     {
-                        "str": "hear of",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "hear",
+                        "lemma": "hear",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "of",
+                        "lemma": "of",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -634,8 +658,8 @@
                 "predicate": [
                     {
                         "str": "wondered",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -646,8 +670,8 @@
                 "predicate": [
                     {
                         "str": "wondered",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -663,26 +687,47 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
                 "clause": "how real and honest they are about how they could forgive",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "real and honest they are about",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "constituent",
-                        "clause": "how they could forgive",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "see",
+                            "lemma": "see",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "constituent",
+                    "clause": "how real and honest they are about how they could forgive",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "real",
+                                    "lemma": "real",
+                                    "POS": "ADJ"
+                                },
+                                {
+                                    "str": "honest",
+                                    "lemma": "honest",
+                                    "POS": "ADJ"
+                                },
+                                {
+                                    "str": "are",
+                                    "lemma": "be",
+                                    "POS": "AUX"
+                                }
+                            ],
+                            "type": "constituent",
+                            "clause": "how they could forgive",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -693,8 +738,8 @@
                 "predicate": [
                     {
                         "str": "demonstrates",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "demonstrate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -710,8 +755,8 @@
                 "predicate": [
                     {
                         "str": "reflect",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reflect",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -722,8 +767,8 @@
                 "predicate": [
                     {
                         "str": "reflect",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reflect",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -734,8 +779,8 @@
                 "predicate": [
                     {
                         "str": "reflect",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reflect",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -750,9 +795,9 @@
             {
                 "predicate": [
                     {
-                        "str": "is not known",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "known",
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -765,13 +810,7 @@
         "sentence": "Keith Carr, who has now retired, remembers when he went to treat him in 2013.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "remembers",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "constituent",
                 "clause": "when he went to treat him in 2013",
                 "embedded clauses": []
@@ -785,8 +824,8 @@
                 "predicate": [
                     {
                         "str": "show",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "show",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -802,8 +841,8 @@
                 "predicate": [
                     {
                         "str": "says",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -814,8 +853,8 @@
                 "predicate": [
                     {
                         "str": "says",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -831,8 +870,8 @@
                 "predicate": [
                     {
                         "str": "explained",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -847,9 +886,9 @@
             {
                 "predicate": [
                     {
-                        "str": "comment on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -865,8 +904,8 @@
                 "predicate": [
                     {
                         "str": "tweeted",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tweet",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -881,9 +920,9 @@
             {
                 "predicate": [
                     {
-                        "str": "is not known",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "known",
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -899,8 +938,8 @@
                 "predicate": [
                     {
                         "str": "ask",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -916,8 +955,8 @@
                 "predicate": [
                     {
                         "str": "asked",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -928,8 +967,8 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -945,8 +984,8 @@
                 "predicate": [
                     {
                         "str": "understand",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -962,8 +1001,8 @@
                 "predicate": [
                     {
                         "str": "knows",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -979,8 +1018,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -996,8 +1035,8 @@
                 "predicate": [
                     {
                         "str": "explains",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1012,9 +1051,14 @@
             {
                 "predicate": [
                     {
-                        "str": "remains unclear",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "remains",
+                        "lemma": "remain",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "unclear",
+                        "lemma": "unclear",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "constituent",
@@ -1030,8 +1074,8 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1042,8 +1086,8 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1059,26 +1103,37 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
                 "clause": "how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "means",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "that he is a slightly controversial figure in some circles today",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "see",
+                            "lemma": "see",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "constituent",
+                    "clause": "how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "means",
+                                    "lemma": "mean",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "that he is a slightly controversial figure in some circles today",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1089,8 +1144,8 @@
                 "predicate": [
                     {
                         "str": "discuss",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "discuss",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1106,8 +1161,8 @@
                 "predicate": [
                     {
                         "str": "relates",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "relate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1122,9 +1177,14 @@
             {
                 "predicate": [
                     {
-                        "str": "reflect on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "reflect",
+                        "lemma": "reflect",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1139,9 +1199,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is wonderful",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "wonderful",
+                        "lemma": "wonderful",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "constituent",
@@ -1157,8 +1222,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1174,8 +1239,8 @@
                 "predicate": [
                     {
                         "str": "imagine",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "imagine",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1191,26 +1256,37 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "You do not know what I have to go through",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "know",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "constituent",
-                        "clause": "what I have to go through",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "tell",
+                            "lemma": "tell",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "You do not know what I have to go through",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "know",
+                                    "lemma": "know",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "constituent",
+                            "clause": "what I have to go through",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1221,8 +1297,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1238,8 +1314,8 @@
                 "predicate": [
                     {
                         "str": "investigate",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "investigate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1250,8 +1326,8 @@
                 "predicate": [
                     {
                         "str": "researching",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "research",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1267,8 +1343,8 @@
                 "predicate": [
                     {
                         "str": "wondering",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1284,8 +1360,8 @@
                 "predicate": [
                     {
                         "str": "asked",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1301,8 +1377,8 @@
                 "predicate": [
                     {
                         "str": "ask",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1318,8 +1394,8 @@
                 "predicate": [
                     {
                         "str": "decides",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1335,8 +1411,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1352,8 +1428,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1366,13 +1442,7 @@
         "sentence": "Each isomer can be synthesized using the trans effect to control which isomer is produced.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "control",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "constituent",
                 "clause": "which isomer is produced",
                 "embedded clauses": []
@@ -1386,8 +1456,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1402,9 +1472,14 @@
             {
                 "predicate": [
                     {
-                        "str": "think of",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "of",
+                        "lemma": "of",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1420,8 +1495,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1431,9 +1506,14 @@
             {
                 "predicate": [
                     {
-                        "str": "talk about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "talk",
+                        "lemma": "talk",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1449,8 +1529,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1466,8 +1546,8 @@
                 "predicate": [
                     {
                         "str": "realized",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "realize",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1483,8 +1563,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1500,8 +1580,8 @@
                 "predicate": [
                     {
                         "str": "learned",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "learn",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1517,8 +1597,8 @@
                 "predicate": [
                     {
                         "str": "probe",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "probe",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1531,13 +1611,7 @@
         "sentence": "How mantle flows on Earth might control why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "control",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "constituent",
                 "clause": "why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow",
                 "embedded clauses": []
@@ -1551,8 +1625,8 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1563,8 +1637,8 @@
                 "predicate": [
                     {
                         "str": "tell",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1580,8 +1654,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1597,8 +1671,8 @@
                 "predicate": [
                     {
                         "str": "remember",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "remember",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1609,8 +1683,8 @@
                 "predicate": [
                     {
                         "str": "remember",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "remember",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1626,8 +1700,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1638,8 +1712,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1654,9 +1728,9 @@
             {
                 "predicate": [
                     {
-                        "str": "flesh out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1671,9 +1745,14 @@
             {
                 "predicate": [
                     {
-                        "str": "focuses mainly on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "focuses",
+                        "lemma": "focus",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1683,24 +1762,22 @@
             {
                 "predicate": [
                     {
-                        "str": "focuses mainly on",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "focuses",
+                        "lemma": "focus",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
                 "clause": "what she\u2019s going to do",
                 "embedded clauses": []
-            }
-            ,
+            },
             {
-                "predicate": [
-                    {
-                        "str": "less so on",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "constituent",
                 "clause": "what happens to her physically",
                 "embedded clauses": []
@@ -1713,9 +1790,14 @@
             {
                 "predicate": [
                     {
-                        "str": "pestering Megan about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "pestering",
+                        "lemma": "pester",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1730,9 +1812,9 @@
             {
                 "predicate": [
                     {
-                        "str": "explained bout",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "explained",
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1742,9 +1824,9 @@
             {
                 "predicate": [
                     {
-                        "str": "explained bout",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "explained",
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1759,9 +1841,14 @@
             {
                 "predicate": [
                     {
-                        "str": "think about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1776,9 +1863,19 @@
             {
                 "predicate": [
                     {
-                        "str": "'m not sure",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "'",
+                        "lemma": "'",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "m",
+                        "lemma": "m",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "sure",
+                        "lemma": "sure",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "constituent",
@@ -1788,9 +1885,24 @@
             {
                 "predicate": [
                     {
-                        "str": "'m very aware of",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "'",
+                        "lemma": "'",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "m",
+                        "lemma": "m",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "aware",
+                        "lemma": "aware",
+                        "POS": "ADJ"
+                    },
+                    {
+                        "str": "of",
+                        "lemma": "of",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1806,8 +1918,8 @@
                 "predicate": [
                     {
                         "str": "realize",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "realize",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1823,8 +1935,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1840,8 +1952,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1857,8 +1969,8 @@
                 "predicate": [
                     {
                         "str": "accepting",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "accept",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1869,8 +1981,8 @@
                 "predicate": [
                     {
                         "str": "accepting",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "accept",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1886,8 +1998,8 @@
                 "predicate": [
                     {
                         "str": "distinguish",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "distinguish",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1902,9 +2014,14 @@
             {
                 "predicate": [
                     {
-                        "str": "find out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "find",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1915,8 +2032,8 @@
                 "predicate": [
                     {
                         "str": "estimate",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "estimate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1931,9 +2048,14 @@
             {
                 "predicate": [
                     {
-                        "str": "mused about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "mused",
+                        "lemma": "muse",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1943,9 +2065,14 @@
             {
                 "predicate": [
                     {
-                        "str": "mused about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "mused",
+                        "lemma": "muse",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1961,8 +2088,8 @@
                 "predicate": [
                     {
                         "str": "ask",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1978,8 +2105,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1994,9 +2121,14 @@
             {
                 "predicate": [
                     {
-                        "str": "figure out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "figure",
+                        "lemma": "figure",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -2012,8 +2144,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2029,8 +2161,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2046,8 +2178,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2058,8 +2190,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2075,8 +2207,8 @@
                 "predicate": [
                     {
                         "str": "decide",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2092,8 +2224,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2109,8 +2241,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2126,8 +2258,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2143,8 +2275,8 @@
                 "predicate": [
                     {
                         "str": "wonder",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2160,8 +2292,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2172,8 +2304,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2189,8 +2321,8 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2206,8 +2338,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2223,8 +2355,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2235,8 +2367,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2252,8 +2384,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2268,9 +2400,14 @@
             {
                 "predicate": [
                     {
-                        "str": "think about",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "about",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -2286,8 +2423,8 @@
                 "predicate": [
                     {
                         "str": "ask",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2298,8 +2435,8 @@
                 "predicate": [
                     {
                         "str": "ask",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ask",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2315,26 +2452,37 @@
                 "predicate": [
                     {
                         "str": "wondered",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wonder",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
                 "clause": "what it is like to hear from your loved one that they have been diagnosed with cancer",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "hear",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "that they have been diagnosed with cancer",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "wondered",
+                            "lemma": "wonder",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "constituent",
+                    "clause": "what it is like to hear from your loved one that they have been diagnosed with cancer",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "hear",
+                                    "lemma": "hear",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "that they have been diagnosed with cancer",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -2345,8 +2493,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2362,8 +2510,8 @@
                 "predicate": [
                     {
                         "str": "deciding",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2379,8 +2527,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -2396,8 +2544,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
