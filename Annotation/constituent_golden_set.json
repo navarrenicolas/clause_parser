@@ -673,7 +673,7 @@
                     {
                         "predicate": [
                             {
-                                "str": "are about",
+                                "str": "real and honest they are about",
                                 "lemma": "",
                                 "POS": ""
                             }
@@ -1713,7 +1713,7 @@
             {
                 "predicate": [
                     {
-                        "str": "pestering about",
+                        "str": "pestering Megan about",
                         "lemma": "",
                         "POS": ""
                     }
@@ -2351,18 +2351,6 @@
                 ],
                 "type": "constituent",
                 "clause": "what it was",
-                "embedded clauses": []
-            },
-            {
-                "predicate": [
-                    {
-                        "str": "was so upset",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "declarative",
-                "clause": "that I just ate it",
                 "embedded clauses": []
             }
         ]
