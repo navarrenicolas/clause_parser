@@ -11,24 +11,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "27": {
-        "sentence": "And the experience is still paying dividends; this is where I learned to storyboard as well as to improvise when the storyboard became incompatible with reality.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "improvise",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "",
+                "clause": "how to bring our video archives into this new Internets thingy",
                 "embedded clauses": []
             }
         ]
@@ -45,7 +28,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why there is a Michigan culture that supports hunting and related lifestyle",
                 "embedded clauses": []
             }
         ]
@@ -62,7 +45,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why there are a very small percentage of zealots who take the guns and rugged independence and separate society to an extreme",
                 "embedded clauses": []
             }
         ]
@@ -79,7 +62,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how to decide on the correct manufacturer",
                 "embedded clauses": []
             }
         ]
@@ -96,7 +79,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how to locate them and evaluate each company",
                 "embedded clauses": []
             }
         ]
@@ -113,7 +96,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why, exactly, we allow a tax deduction for charitable giving",
                 "embedded clauses": []
             }
         ]
@@ -130,7 +113,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how people made sense of a family death, within the social contexts of their lives",
                 "embedded clauses": []
             }
         ]
@@ -147,7 +130,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how people made sense of the family death in relation to three main contexts: family, religion, and materiality",
                 "embedded clauses": []
             }
         ]
@@ -164,7 +147,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how they are feeling",
                 "embedded clauses": []
             }
         ]
@@ -181,7 +164,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how you can take your business to the next level in Washington State",
                 "embedded clauses": []
             }
         ]
@@ -198,7 +181,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why Superman is the world's greatest super-hero, bar none",
                 "embedded clauses": []
             }
         ]
@@ -215,7 +198,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why no one's put these two legacy heroes together before",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "see",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how that plays out in Teen Titans: Life and Death",
                 "embedded clauses": []
             }
         ]
@@ -232,7 +227,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how DC might collect the various crossover miniseries specials, however, perhaps along with the lead story from the Infinite Crisis Secret Files",
                 "embedded clauses": []
             }
         ]
@@ -248,8 +243,20 @@
                         "POS": ""
                     }
                 ],
+                "type": "polar",
+                "clause": "Whether Vengeance will include Sam Loeb's #26",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "seen",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how DC will collect Mark Verheiden's issues after Jeph Loeb departs",
                 "embedded clauses": []
             }
         ]
@@ -266,7 +273,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how messed up things were for her",
                 "embedded clauses": []
             }
         ]
@@ -283,7 +290,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why imported basic commodities, such as chicken, milk and toilet paper, are now scarce, just as in the old Soviet Union, or in today\u2019s Cuba",
                 "embedded clauses": []
             }
         ]
@@ -300,7 +307,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why the liberal elite controls Hollywood",
                 "embedded clauses": []
             }
         ]
@@ -317,7 +324,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how the process impacts the album",
                 "embedded clauses": []
             }
         ]
@@ -334,7 +341,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why the Conservancy is stepping up its collaboration with IHA",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "We want to do our part to help create a future world, one where people can live, learn and thrive supported by a sustainable energy system and one that harbours beautiful and productive rivers, including wild ones",
                 "embedded clauses": []
             }
         ]
@@ -351,7 +370,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how we can help you",
                 "embedded clauses": []
             }
         ]
@@ -362,13 +381,13 @@
             {
                 "predicate": [
                     {
-                        "str": "clear",
+                        "str": "'s not too clear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why Troy doesn't just sit tight behind its imposing walls",
                 "embedded clauses": []
             }
         ]
@@ -385,7 +404,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how many people talk with God even a fraction of the time they spend on their cell phone",
                 "embedded clauses": []
             }
         ]
@@ -402,7 +421,55 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how they plan on incorporating the strategic plan",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "discuss",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "who will be involved",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "discuss",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how detailed of a plan they need for their organization",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "discuss",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how they plan on communicating it",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "discuss",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "if they have a board, how they will be involved in the process",
                 "embedded clauses": []
             }
         ]
@@ -419,7 +486,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how much he has grown",
                 "embedded clauses": []
             }
         ]
@@ -436,24 +503,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "394": {
-        "sentence": "Once self storage sees how much money has been wasted on items the child does not play with, it may help to curb future purchases.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "sees",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "",
+                "clause": "how this thing ends up",
                 "embedded clauses": []
             }
         ]
@@ -470,7 +520,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how handing over near-total control of the financial markets and the creation of money and credit to the State is in any way promoting \"the cause of free markets.\"",
                 "embedded clauses": []
             }
         ]
@@ -487,7 +537,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how long awhile will be",
                 "embedded clauses": []
             }
         ]
@@ -504,7 +554,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why people think Amway is a good idea",
                 "embedded clauses": []
             }
         ]
@@ -521,7 +571,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how swamped they get before a tour",
                 "embedded clauses": []
             }
         ]
@@ -538,7 +588,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how we were doing so well",
                 "embedded clauses": []
             }
         ]
@@ -555,7 +605,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how confused they can get",
                 "embedded clauses": []
             }
         ]
@@ -572,7 +622,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how the survivors continue with their lives and search for some sort of resolution",
                 "embedded clauses": []
             }
         ]
@@ -589,7 +639,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why anyone would kill",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "wondered",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what could be done about it",
                 "embedded clauses": []
             }
         ]
@@ -606,8 +668,21 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "how real and honest they are about how they could forgive",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "are about",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "how they could forgive",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -623,7 +698,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how this demand can be met in cases where textual evidence is plentiful, be it in the form of published monographs and commentaries or private letters and notebooks",
                 "embedded clauses": []
             }
         ]
@@ -640,7 +715,31 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "who we are",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "reflect",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what we stand for",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "reflect",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what kind of role model we will be for our children",
                 "embedded clauses": []
             }
         ]
@@ -651,13 +750,13 @@
             {
                 "predicate": [
                     {
-                        "str": "known",
+                        "str": "is not known",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "when the hostages - whose nationality was not immediately known - were seized",
                 "embedded clauses": []
             }
         ]
@@ -674,7 +773,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "when he went to treat him in 2013",
                 "embedded clauses": []
             }
         ]
@@ -691,7 +790,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how litter is harming our waterways and killing marine life both here and out at sea",
                 "embedded clauses": []
             }
         ]
@@ -708,7 +807,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how he much he has enjoyed working for the council and nothing ever made him want to leave",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "says",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "nothing ever made him want to leave",
                 "embedded clauses": []
             }
         ]
@@ -725,7 +836,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how the future of the party is going to look",
                 "embedded clauses": []
             }
         ]
@@ -742,24 +853,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "711": {
-        "sentence": "Questions are being asked as to why councils are ploughing money into fracking when support for it is consistently low.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "asked as to",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "",
+                "clause": "how or what he is planning",
                 "embedded clauses": []
             }
         ]
@@ -776,7 +870,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how their thoughts are with those affected by the fire that broke out in Liverpool\u2019s Littlewood building last night",
                 "embedded clauses": []
             }
         ]
@@ -787,13 +881,13 @@
             {
                 "predicate": [
                     {
-                        "str": "known",
+                        "str": "is not known",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "which production team members will be presented to Charles and Camilla",
                 "embedded clauses": []
             }
         ]
@@ -810,7 +904,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "who the next Doctor might be",
                 "embedded clauses": []
             }
         ]
@@ -827,7 +921,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "who the next Doctor is",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "tell",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "we don't know",
                 "embedded clauses": []
             }
         ]
@@ -844,7 +950,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why the Doctor has met Clara so many different times",
                 "embedded clauses": []
             }
         ]
@@ -861,7 +967,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how he'd react to romance",
                 "embedded clauses": []
             }
         ]
@@ -878,7 +984,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "who he is",
                 "embedded clauses": []
             }
         ]
@@ -895,7 +1001,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how this series will take the viewer on the same journey of discovery she experienced when she first joined",
                 "embedded clauses": []
             }
         ]
@@ -906,30 +1012,13 @@
             {
                 "predicate": [
                     {
-                        "str": "unclear",
+                        "str": "remains unclear",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "792": {
-        "sentence": "There was no mention of who will be hosting when the Recording Academy made its announcement.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "mention of",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
-                "type": "constituent",
-                "clause": "",
+                "clause": "who will be the host of the annual event",
                 "embedded clauses": []
             }
         ]
@@ -946,7 +1035,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what is this all about",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "tell",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how it got started",
                 "embedded clauses": []
             }
         ]
@@ -963,8 +1064,21 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "means",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that he is a slightly controversial figure in some circles today",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -980,7 +1094,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how communication has changed with technology",
                 "embedded clauses": []
             }
         ]
@@ -997,7 +1111,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how the site was originally pinpointed with the help of airplane surveillance in 1942",
                 "embedded clauses": []
             }
         ]
@@ -1014,7 +1128,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how incredibly lucky I am to have such close links with my extended family",
                 "embedded clauses": []
             }
         ]
@@ -1025,13 +1139,13 @@
             {
                 "predicate": [
                     {
-                        "str": "wonderful",
+                        "str": "is wonderful",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how many new memories you have been able to be a part of in recent years",
                 "embedded clauses": []
             }
         ]
@@ -1048,7 +1162,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what bus to catch to go where you wish",
                 "embedded clauses": []
             }
         ]
@@ -1065,7 +1179,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what can be taught about sex for 12 or 15 years",
                 "embedded clauses": []
             }
         ]
@@ -1076,14 +1190,27 @@
             {
                 "predicate": [
                     {
-                        "str": "know",
+                        "str": "tell",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
-                "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
+                "type": "declarative",
+                "clause": "You do not know what I have to go through",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "know",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "what I have to go through",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1099,7 +1226,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what you can build on your property",
                 "embedded clauses": []
             }
         ]
@@ -1116,7 +1243,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what if anything has proven effective in combating gender violence",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "researching",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how the different levels measured by the Gender Inequality Index affect change",
                 "embedded clauses": []
             }
         ]
@@ -1133,7 +1272,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what to do next",
                 "embedded clauses": []
             }
         ]
@@ -1150,7 +1289,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what was going on",
                 "embedded clauses": []
             }
         ]
@@ -1167,7 +1306,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what their top 5 most anticipated novels of the year were",
                 "embedded clauses": []
             }
         ]
@@ -1184,7 +1323,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what should be a World Heritage site",
                 "embedded clauses": []
             }
         ]
@@ -1201,7 +1340,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what to expect",
                 "embedded clauses": []
             }
         ]
@@ -1218,7 +1357,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what it takes to get the girl",
                 "embedded clauses": []
             }
         ]
@@ -1235,7 +1374,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "which isomer is produced",
                 "embedded clauses": []
             }
         ]
@@ -1252,7 +1391,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what lies ahead for us",
                 "embedded clauses": []
             }
         ]
@@ -1269,7 +1408,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what I could do with my new toy",
                 "embedded clauses": []
             }
         ]
@@ -1286,7 +1425,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what value to use here",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "talk about",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how to choose values",
                 "embedded clauses": []
             }
         ]
@@ -1303,7 +1454,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what caused Ida to say the next thing",
                 "embedded clauses": []
             }
         ]
@@ -1320,7 +1471,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what was happening",
                 "embedded clauses": []
             }
         ]
@@ -1337,7 +1488,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what it feels like to be the best-dressed person in the room",
                 "embedded clauses": []
             }
         ]
@@ -1354,7 +1505,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why two medicinal plants are going extinct in nature",
                 "embedded clauses": []
             }
         ]
@@ -1371,7 +1522,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what's happening deep in Earth's interior",
                 "embedded clauses": []
             }
         ]
@@ -1388,7 +1539,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow",
                 "embedded clauses": []
             }
         ]
@@ -1405,7 +1556,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "where they came from",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "tell",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what they had been through",
                 "embedded clauses": []
             }
         ]
@@ -1422,7 +1585,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what their futures will hold",
                 "embedded clauses": []
             }
         ]
@@ -1439,7 +1602,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "when it was",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "remember",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what it was about",
                 "embedded clauses": []
             }
         ]
@@ -1456,7 +1631,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what is safe\" to talk about",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what is not",
                 "embedded clauses": []
             }
         ]
@@ -1473,7 +1660,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what Othello would look like as a younger mouse",
                 "embedded clauses": []
             }
         ]
@@ -1484,13 +1671,38 @@
             {
                 "predicate": [
                     {
-                        "str": "focuses on",
+                        "str": "focuses mainly on",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how she\u2019s thinking and feeling",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "focuses mainly on",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what she\u2019s going to do",
+                "embedded clauses": []
+            }
+            ,
+            {
+                "predicate": [
+                    {
+                        "str": "less so on",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what happens to her physically",
                 "embedded clauses": []
             }
         ]
@@ -1507,7 +1719,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what she was going to do",
                 "embedded clauses": []
             }
         ]
@@ -1524,7 +1736,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what Megan\u2019s options were; keeping the baby or having it adopted",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "explained bout",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what either choice would mean for her as she is 15",
                 "embedded clauses": []
             }
         ]
@@ -1541,7 +1765,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what is needed to help us do both these things at the same time",
                 "embedded clauses": []
             }
         ]
@@ -1552,13 +1776,25 @@
             {
                 "predicate": [
                     {
-                        "str": "sure",
+                        "str": "'m not sure",
                         "lemma": "",
                         "POS": ""
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what Zhawq does",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "'m very aware of",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "when I'm doing it",
                 "embedded clauses": []
             }
         ]
@@ -1575,7 +1811,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what those fuzzy patches of light were",
                 "embedded clauses": []
             }
         ]
@@ -1592,7 +1828,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what this looks like at a cellular level",
                 "embedded clauses": []
             }
         ]
@@ -1609,7 +1845,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what happened",
                 "embedded clauses": []
             }
         ]
@@ -1626,7 +1862,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "who you are as a person",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "accepting",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what you\u2019re like as a person",
                 "embedded clauses": []
             }
         ]
@@ -1643,7 +1891,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "which of two differing model predictions most accurately represents reality",
                 "embedded clauses": []
             }
         ]
@@ -1660,7 +1908,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what that half-life is",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "estimate",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how much time it will stay in your system",
                 "embedded clauses": []
             }
         ]
@@ -1677,7 +1937,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what they\u2019d take to a desert island",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "mused about",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what chore they\u2019d choose never to do again",
                 "embedded clauses": []
             }
         ]
@@ -1694,7 +1966,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what information Agape Wellbeing holds about you",
                 "embedded clauses": []
             }
         ]
@@ -1711,7 +1983,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what we really need",
                 "embedded clauses": []
             }
         ]
@@ -1728,7 +2000,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what works for their ailments",
                 "embedded clauses": []
             }
         ]
@@ -1745,7 +2017,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "which one you want to lead with",
                 "embedded clauses": []
             }
         ]
@@ -1762,7 +2034,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what he's doing",
                 "embedded clauses": []
             }
         ]
@@ -1779,7 +2051,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what needs they have",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what problems they\u2019re having",
                 "embedded clauses": []
             }
         ]
@@ -1796,7 +2080,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what measures need to be taken",
                 "embedded clauses": []
             }
         ]
@@ -1813,7 +2097,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "WHAT I'm thinking right now",
                 "embedded clauses": []
             }
         ]
@@ -1830,7 +2114,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what you're thinking right now",
                 "embedded clauses": []
             }
         ]
@@ -1847,7 +2131,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "which angles are of most interest to you",
                 "embedded clauses": []
             }
         ]
@@ -1864,7 +2148,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what made me change that much",
                 "embedded clauses": []
             }
         ]
@@ -1881,7 +2165,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what's going to happen in each chapter, to each character",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what's going on throughout the book",
                 "embedded clauses": []
             }
         ]
@@ -1898,7 +2194,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what other ARC books are on offer next year to take part in",
                 "embedded clauses": []
             }
         ]
@@ -1915,7 +2211,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what Myers is",
                 "embedded clauses": []
             }
         ]
@@ -1932,7 +2228,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what happened",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "why this has happened",
                 "embedded clauses": []
             }
         ]
@@ -1949,7 +2257,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what you're reading",
                 "embedded clauses": []
             }
         ]
@@ -1966,7 +2274,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "how to write what I want to put out there instead of just typing it out",
                 "embedded clauses": []
             }
         ]
@@ -1983,7 +2291,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what your most favourite books of all time are",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "ask",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how many times you've read them",
                 "embedded clauses": []
             }
         ]
@@ -2000,8 +2320,21 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
-                "embedded clauses": []
+                "clause": "what it is like to hear from your loved one that they have been diagnosed with cancer",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "hear",
+                                "lemma": "",
+                                "POS": ""
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that they have been diagnosed with cancer",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2017,7 +2350,19 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what it was",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "was so upset",
+                        "lemma": "",
+                        "POS": ""
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that I just ate it",
                 "embedded clauses": []
             }
         ]
@@ -2034,7 +2379,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what you would like to put your energy towards in your life",
                 "embedded clauses": []
             }
         ]
@@ -2051,7 +2396,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what exit strategy the Chinese central bank has, if any",
                 "embedded clauses": []
             }
         ]
@@ -2068,7 +2413,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "",
+                "clause": "what I want in my head",
                 "embedded clauses": []
             }
         ]
