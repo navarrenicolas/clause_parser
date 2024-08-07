@@ -3,13 +3,7 @@
         "sentence": "Luminosity Gaming may be about to recruit a new CS:GO player, as VPEsports reports that Ricardo 'boltz' Prass is set to rejoin the side to replace Gustavo 'yeL' Knittel.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "reports",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "declarative",
                 "clause": "that Ricardo 'boltz' Prass is set to rejoin the side to replace Gustavo 'yeL' Knittel",
                 "embedded clauses": []
@@ -23,8 +17,8 @@
                 "predicate": [
                     {
                         "str": "believe",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "believe",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -40,8 +34,8 @@
                 "predicate": [
                     {
                         "str": "find",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "find",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -57,8 +51,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -74,8 +68,8 @@
                 "predicate": [
                     {
                         "str": "decided",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "decide",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -91,8 +85,8 @@
                 "predicate": [
                     {
                         "str": "felt",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "feel",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -108,8 +102,8 @@
                 "predicate": [
                     {
                         "str": "praying",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "pray",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -120,8 +114,8 @@
                 "predicate": [
                     {
                         "str": "praying",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "pray",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -137,8 +131,8 @@
                 "predicate": [
                     {
                         "str": "mention",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "mention",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -154,8 +148,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -171,8 +165,8 @@
                 "predicate": [
                     {
                         "str": "realized",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "realize",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -188,8 +182,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -200,8 +194,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -217,8 +211,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -234,8 +228,8 @@
                 "predicate": [
                     {
                         "str": "thinking",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -251,8 +245,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -268,8 +262,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -285,8 +279,8 @@
                 "predicate": [
                     {
                         "str": "argue",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "argue",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -302,8 +296,8 @@
                 "predicate": [
                     {
                         "str": "believe",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "believe",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -319,8 +313,8 @@
                 "predicate": [
                     {
                         "str": "deny",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "deny",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -336,8 +330,8 @@
                 "predicate": [
                     {
                         "str": "holds",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "hold",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -353,8 +347,8 @@
                 "predicate": [
                     {
                         "str": "admit",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "admit",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -370,8 +364,8 @@
                 "predicate": [
                     {
                         "str": "indicate",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "indicate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -387,8 +381,8 @@
                 "predicate": [
                     {
                         "str": "admit",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "admit",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -404,26 +398,37 @@
                 "predicate": [
                     {
                         "str": "write",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "write",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "\u201cOften, we learn that something is precious only when we see it in the light of someone\u2019s love\u201d",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "learn",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "that something is precious",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "write",
+                            "lemma": "write",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "\u201cOften, we learn that something is precious only when we see it in the light of someone\u2019s love\u201d",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "learn",
+                                    "lemma": "learn",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "that something is precious",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -434,8 +439,8 @@
                 "predicate": [
                     {
                         "str": "seeing",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -451,8 +456,8 @@
                 "predicate": [
                     {
                         "str": "saying",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -463,8 +468,8 @@
                 "predicate": [
                     {
                         "str": "signaling",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "signal",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -480,8 +485,8 @@
                 "predicate": [
                     {
                         "str": "revealed",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reveal",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -492,8 +497,8 @@
                 "predicate": [
                     {
                         "str": "announced",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "announce",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -509,8 +514,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -526,8 +531,8 @@
                 "predicate": [
                     {
                         "str": "mention",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "mention",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -543,8 +548,8 @@
                 "predicate": [
                     {
                         "str": "suggesting",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "suggest",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -560,8 +565,8 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -577,8 +582,8 @@
                 "predicate": [
                     {
                         "str": "fear",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "fear",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -594,26 +599,42 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "I was so stunned that it was meant for him that I didn\u2019t get it at first, until my friend hit me hard in the leg and she said to me \u201cDid YOU HEAR THAT??\u201d And I look at C\u2019s dad and he\u2019s saying the same",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "was so stunned",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "that it was meant for him",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "think",
+                            "lemma": "think",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "I was so stunned that it was meant for him that I didn\u2019t get it at first, until my friend hit me hard in the leg and she said to me \u201cDid YOU HEAR THAT??\u201d And I look at C\u2019s dad and he\u2019s saying the same",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "was",
+                                    "lemma": "be",
+                                    "POS": "AUX"
+                                },
+                                {
+                                    "str": "stunned",
+                                    "lemma": "stunned",
+                                    "POS": "ADJ"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "that it was meant for him",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -624,26 +645,37 @@
                 "predicate": [
                     {
                         "str": "understands",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "that he can do so much more then he thought he could",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "thought",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "he could",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "understands",
+                            "lemma": "understand",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "that he can do so much more then he thought he could",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "thought",
+                                    "lemma": "think",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "he could",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -654,8 +686,8 @@
                 "predicate": [
                     {
                         "str": "told",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -671,8 +703,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -688,8 +720,8 @@
                 "predicate": [
                     {
                         "str": "guarantee",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "guarantee",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -705,8 +737,8 @@
                 "predicate": [
                     {
                         "str": "realize",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "realize",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -722,8 +754,8 @@
                 "predicate": [
                     {
                         "str": "reiterate",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reiterate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -739,8 +771,8 @@
                 "predicate": [
                     {
                         "str": "wish",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "wish",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -756,8 +788,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -773,8 +805,8 @@
                 "predicate": [
                     {
                         "str": "says",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -790,8 +822,8 @@
                 "predicate": [
                     {
                         "str": "understood",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -807,8 +839,8 @@
                 "predicate": [
                     {
                         "str": "knows",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -824,8 +856,8 @@
                 "predicate": [
                     {
                         "str": "guess",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "guess",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -841,8 +873,8 @@
                 "predicate": [
                     {
                         "str": "says",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -858,8 +890,8 @@
                 "predicate": [
                     {
                         "str": "told",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -875,26 +907,37 @@
                 "predicate": [
                     {
                         "str": "says",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "she hopes the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "hopes",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "says",
+                            "lemma": "say",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "she hopes the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "hopes",
+                                    "lemma": "hope",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -905,8 +948,8 @@
                 "predicate": [
                     {
                         "str": "says",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -922,8 +965,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -934,8 +977,8 @@
                 "predicate": [
                     {
                         "str": "means",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "mean",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -951,8 +994,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -963,8 +1006,8 @@
                 "predicate": [
                     {
                         "str": "realize",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "realize",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -980,8 +1023,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -997,8 +1040,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1014,8 +1057,8 @@
                 "predicate": [
                     {
                         "str": "noticed",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "notice",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1031,8 +1074,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1048,8 +1091,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1062,13 +1105,7 @@
         "sentence": "NationalLedger.com reports that Christina Aguilera risked re-igniting her feud with Britney Spears by a comment made on her wedding day",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "reports",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "declarative",
                 "clause": "that Christina Aguilera risked re-igniting her feud with Britney Spears by a comment made on her wedding day",
                 "embedded clauses": []
@@ -1082,8 +1119,8 @@
                 "predicate": [
                     {
                         "str": "denies",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "deny",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1099,8 +1136,8 @@
                 "predicate": [
                     {
                         "str": "argues",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "argue",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1116,8 +1153,8 @@
                 "predicate": [
                     {
                         "str": "appreciate",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "appreciate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1133,8 +1170,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1150,8 +1187,8 @@
                 "predicate": [
                     {
                         "str": "reported",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "report",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1167,8 +1204,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1184,33 +1221,44 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "they thought it was a virus",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "thought",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "it was a virus",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "said",
+                            "lemma": "say",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "they thought it was a virus",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "thought",
+                                    "lemma": "think",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "it was a virus",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             },
             {
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1226,8 +1274,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1243,8 +1291,8 @@
                 "predicate": [
                     {
                         "str": "told",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1260,8 +1308,8 @@
                 "predicate": [
                     {
                         "str": "learned",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "learn",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1277,8 +1325,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1293,9 +1341,14 @@
             {
                 "predicate": [
                     {
-                        "str": "find out",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "find",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "declarative",
@@ -1311,8 +1364,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1328,8 +1381,8 @@
                 "predicate": [
                     {
                         "str": "understand",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "understand",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1345,8 +1398,8 @@
                 "predicate": [
                     {
                         "str": "ensure",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ensure",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1362,8 +1415,8 @@
                 "predicate": [
                     {
                         "str": "declaring",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "declare",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1379,8 +1432,8 @@
                 "predicate": [
                     {
                         "str": "ensure",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ensure",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1396,8 +1449,8 @@
                 "predicate": [
                     {
                         "str": "estimates",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "estimate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1413,8 +1466,8 @@
                 "predicate": [
                     {
                         "str": "told",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1430,8 +1483,8 @@
                 "predicate": [
                     {
                         "str": "saying",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1442,8 +1495,8 @@
                 "predicate": [
                     {
                         "str": "see",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "see",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "constituent",
@@ -1459,8 +1512,8 @@
                 "predicate": [
                     {
                         "str": "telling",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "tell",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1476,8 +1529,8 @@
                 "predicate": [
                     {
                         "str": "believes",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "believe",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1493,8 +1546,8 @@
                 "predicate": [
                     {
                         "str": "claims",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "claim",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1510,8 +1563,8 @@
                 "predicate": [
                     {
                         "str": "agreed",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "agree",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1527,26 +1580,37 @@
                 "predicate": [
                     {
                         "str": "held",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "hold",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "that Abdulkadir failed to show that the FBI\u2019s confidential informant was material to his defense",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "show",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "declarative",
-                        "clause": "that the FBI\u2019s confidential informant was material to his defense",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "held",
+                            "lemma": "hold",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "that Abdulkadir failed to show that the FBI\u2019s confidential informant was material to his defense",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "show",
+                                    "lemma": "show",
+                                    "POS": "VERB"
+                                }
+                            ],
+                            "type": "declarative",
+                            "clause": "that the FBI\u2019s confidential informant was material to his defense",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1557,8 +1621,8 @@
                 "predicate": [
                     {
                         "str": "noted",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "note",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1574,8 +1638,8 @@
                 "predicate": [
                     {
                         "str": "reveals",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reveal",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1586,8 +1650,8 @@
                 "predicate": [
                     {
                         "str": "reveals",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reveal",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1603,8 +1667,8 @@
                 "predicate": [
                     {
                         "str": "ensure",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ensure",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1620,8 +1684,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1637,8 +1701,8 @@
                 "predicate": [
                     {
                         "str": "speculating",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "speculate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1654,8 +1718,8 @@
                 "predicate": [
                     {
                         "str": "argue",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "argue",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1666,8 +1730,8 @@
                 "predicate": [
                     {
                         "str": "feel",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "feel",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1680,13 +1744,7 @@
         "sentence": "This is to inform you that you have been selected for a cash prize of \u00a3850,000.00 (Eight hundred and fifty thousand Great British Pounds) from the BMW AUTOMOBILE GROUP e-LOTTERY BONANZA International programs held TODAY Teusday the 6th of MARCH 2007, here in London United Kingdom.",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "inform",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "declarative",
                 "clause": "that you have been selected for a cash prize of \u00a3850,000.00 (Eight hundred and fifty thousand Great British Pounds) from the BMW AUTOMOBILE GROUP e-LOTTERY BONANZA International programs held TODAY Teusday the 6th of MARCH 2007, here in London United Kingdom",
                 "embedded clauses": []
@@ -1700,8 +1758,8 @@
                 "predicate": [
                     {
                         "str": "think",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1717,8 +1775,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1734,8 +1792,8 @@
                 "predicate": [
                     {
                         "str": "revealed",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "reveal",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1751,8 +1809,8 @@
                 "predicate": [
                     {
                         "str": "demonstrated",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "demonstrate",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1768,26 +1826,42 @@
                 "predicate": [
                     {
                         "str": "admits",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "admit",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
                 "clause": "he was puzzled by why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
-                "embedded clauses": [
-                    {
-                        "predicate": [
-                            {
-                                "str": "was puzzled by",
-                                "lemma": "",
-                                "POS": ""
-                            }
-                        ],
-                        "type": "constituent",
-                        "clause": "why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
-                        "embedded clauses": []
-                    }
-                ]
+                "embedded clauses": {
+                    "predicate": [
+                        {
+                            "str": "admits",
+                            "lemma": "admit",
+                            "POS": "VERB"
+                        }
+                    ],
+                    "type": "declarative",
+                    "clause": "he was puzzled by why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
+                    "embedded clauses": [
+                        {
+                            "predicate": [
+                                {
+                                    "str": "puzzled",
+                                    "lemma": "puzzle",
+                                    "POS": "VERB"
+                                },
+                                {
+                                    "str": "by",
+                                    "lemma": "by",
+                                    "POS": "ADP"
+                                }
+                            ],
+                            "type": "constituent",
+                            "clause": "why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
+                            "embedded clauses": []
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1798,8 +1872,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1815,8 +1889,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1832,8 +1906,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1849,8 +1923,8 @@
                 "predicate": [
                     {
                         "str": "reminded",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "remind",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1866,8 +1940,8 @@
                 "predicate": [
                     {
                         "str": "admitting",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "admit",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1883,8 +1957,8 @@
                 "predicate": [
                     {
                         "str": "ensured",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "ensure",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1900,8 +1974,8 @@
                 "predicate": [
                     {
                         "str": "say",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1917,8 +1991,8 @@
                 "predicate": [
                     {
                         "str": "believe",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "believe",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1934,8 +2008,8 @@
                 "predicate": [
                     {
                         "str": "thought",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1951,8 +2025,8 @@
                 "predicate": [
                     {
                         "str": "said",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "say",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -1967,9 +2041,14 @@
             {
                 "predicate": [
                     {
-                        "str": "is aware",
-                        "lemma": "",
-                        "POS": ""
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "aware",
+                        "lemma": "aware",
+                        "POS": "ADJ"
                     }
                 ],
                 "type": "declarative",
@@ -1985,8 +2064,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -2002,8 +2081,8 @@
                 "predicate": [
                     {
                         "str": "thought",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "think",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -2019,8 +2098,8 @@
                 "predicate": [
                     {
                         "str": "know",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "know",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -2036,8 +2115,8 @@
                 "predicate": [
                     {
                         "str": "note",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "note",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -2053,8 +2132,8 @@
                 "predicate": [
                     {
                         "str": "confirm",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "confirm",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -2067,13 +2146,7 @@
         "sentence": "I hope my start a blog tutorial has been of help and I look forward to hear your input and also read your new, beautiful blogs",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "hope",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "declarative",
                 "clause": "my start a blog tutorial has been of help",
                 "embedded clauses": []
@@ -2084,13 +2157,7 @@
         "sentence": "Irving Azoff Claims YouTube \"Pirates\" Are \"Really Evil\"",
         "embedded clauses": [
             {
-                "predicate": [
-                    {
-                        "str": "Claims",
-                        "lemma": "",
-                        "POS": ""
-                    }
-                ],
+                "predicate": [],
                 "type": "declarative",
                 "clause": "YouTube \"Pirates\" Are \"Really Evil\"",
                 "embedded clauses": []
@@ -2104,8 +2171,8 @@
                 "predicate": [
                     {
                         "str": "explain",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "explain",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
@@ -2121,8 +2188,8 @@
                 "predicate": [
                     {
                         "str": "announced",
-                        "lemma": "",
-                        "POS": ""
+                        "lemma": "announce",
+                        "POS": "VERB"
                     }
                 ],
                 "type": "declarative",
