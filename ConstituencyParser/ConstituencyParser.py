@@ -172,8 +172,10 @@ class ConstituencyParser():
         if 'whether' in first_word: 
             if 'or not' in clause_str:
                 return 'polar'
-            if 'or' in clause_str:
+            if ' or ' in clause_str:
                 return 'alternative'
+            else:
+                return 'polar'
 
         # Check for constituent
         if any([word in first_word for word in ['who', 'what', 'when', 'where', 'why', 'how','which']]):

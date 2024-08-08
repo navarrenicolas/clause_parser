@@ -47,7 +47,7 @@ Once you have the rust programming language loaded on your machine you can compi
 ```
 $ cd rust/extract_json/
 $ cagro build
-$ cd ..
+$ cd ../../
 ```
 
 The resulting executable should be compiled in `/target/debug/` as `extract_json`.

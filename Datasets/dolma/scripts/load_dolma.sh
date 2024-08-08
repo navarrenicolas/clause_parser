@@ -1,4 +1,4 @@
-DATA_DIR='.dolma/dolma_sample/'
+DATA_DIR='./dolma/dolma_sample/'
 PARALLEL_DOWNLOADS='10'
 DOLMA_VERSION='v1_6-sample'
 

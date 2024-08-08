@@ -1,7 +1,8 @@
 use serde::Deserialize;
 use serde_json::Deserializer;
-use std::fs::File;
+use std::fs::{self, File};
 use std::io::{BufReader, BufWriter, Write};
+use std::path::Path;
 use structopt::StructOpt;
 
 #[derive(StructOpt)]
@@ -27,12 +28,17 @@ fn read_large_json(file_path: &str) -> impl Iterator<Item = Entry> {
 }
 
 fn extract_json_text(input_file: &str, output_dir: &str, chunk_size: usize) {
-    let output_path = format!("{}/{}.txt", output_dir, std::path::Path::new(input_file).file_stem().unwrap().to_str().unwrap());
+    let output_path = format!("{}/{}.txt", output_dir, Path::new(input_file).file_stem().unwrap().to_str().unwrap());
 
+    if Path::new(&output_path).exists() {
+        eprintln!("Error: Output file '{}' already exists.", output_path);
+        std::process::exit(1);
+    }
+
+    let file = File::create(&output_path).expect("Unable to create output file");
+    let mut writer = BufWriter::new(file);
     let mut texts = Vec::new();
     let mut entry_count = 0;
-    let file = File::create(output_path).expect("Unable to create output file");
-    let mut writer = BufWriter::new(file);
 
     for entry in read_large_json(input_file) {
         texts.push(entry.text);
