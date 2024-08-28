@@ -93,7 +93,13 @@
         "sentence": "Query why, exactly, we allow a tax deduction for charitable giving.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "Query",
+                        "lemma": "query",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "constituent",
                 "clause": "why, exactly, we allow a tax deduction for charitable giving",
                 "embedded clauses": []
@@ -152,6 +158,28 @@
                 ],
                 "type": "constituent",
                 "clause": "how they are feeling",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "124": {
+        "sentence": "Whether the judge will agree with Rocco depends on what Rocco's reasons are for wanting to live with his father in London.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "depends",
+                        "lemma": "depend",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what Rocco's reasons are for wanting to live with his father in London",
                 "embedded clauses": []
             }
         ]
@@ -483,7 +511,7 @@
                     }
                 ],
                 "type": "constituent",
-                "clause": "if they have a board, how they will be involved in the process",
+                "clause": "how they will be involved in the process",
                 "embedded clauses": []
             }
         ]
@@ -693,41 +721,30 @@
                 ],
                 "type": "constituent",
                 "clause": "how real and honest they are about how they could forgive",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "see",
-                            "lemma": "see",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "constituent",
-                    "clause": "how real and honest they are about how they could forgive",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "real",
-                                    "lemma": "real",
-                                    "POS": "ADJ"
-                                },
-                                {
-                                    "str": "honest",
-                                    "lemma": "honest",
-                                    "POS": "ADJ"
-                                },
-                                {
-                                    "str": "are",
-                                    "lemma": "be",
-                                    "POS": "AUX"
-                                }
-                            ],
-                            "type": "constituent",
-                            "clause": "how they could forgive",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "real",
+                                "lemma": "real",
+                                "POS": "ADJ"
+                            },
+                            {
+                                "str": "honest",
+                                "lemma": "honest",
+                                "POS": "ADJ"
+                            },
+                            {
+                                "str": "are",
+                                "lemma": "be",
+                                "POS": "AUX"
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "how they could forgive",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -810,7 +827,13 @@
         "sentence": "Keith Carr, who has now retired, remembers when he went to treat him in 2013.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "remembers",
+                        "lemma": "remember",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "constituent",
                 "clause": "when he went to treat him in 2013",
                 "embedded clauses": []
@@ -886,13 +909,35 @@
             {
                 "predicate": [
                     {
+                        "str": "comment",
+                        "lemma": "comment",
+                        "POS": "VERB"
+                    },
+                    {
                         "str": "on",
                         "lemma": "on",
                         "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
-                "clause": "how or what he is planning",
+                "clause": "how",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "comment",
+                        "lemma": "comment",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
+                    }
+                ],
+                "type": "constituent",
+                "clause": "what he is planning",
                 "embedded clauses": []
             }
         ]
@@ -1109,31 +1154,20 @@
                 ],
                 "type": "constituent",
                 "clause": "how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "see",
-                            "lemma": "see",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "constituent",
-                    "clause": "how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "means",
-                                    "lemma": "mean",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "that he is a slightly controversial figure in some circles today",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "means",
+                                "lemma": "mean",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that he is a slightly controversial figure in some circles today",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1262,31 +1296,20 @@
                 ],
                 "type": "declarative",
                 "clause": "You do not know what I have to go through",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "tell",
-                            "lemma": "tell",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "declarative",
-                    "clause": "You do not know what I have to go through",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "know",
-                                    "lemma": "know",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "constituent",
-                            "clause": "what I have to go through",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "know",
+                                "lemma": "know",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "what I have to go through",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1442,7 +1465,13 @@
         "sentence": "Each isomer can be synthesized using the trans effect to control which isomer is produced.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "control",
+                        "lemma": "control",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "constituent",
                 "clause": "which isomer is produced",
                 "embedded clauses": []
@@ -1611,7 +1640,13 @@
         "sentence": "How mantle flows on Earth might control why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "control",
+                        "lemma": "control",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "constituent",
                 "clause": "why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow",
                 "embedded clauses": []
@@ -1728,6 +1763,11 @@
             {
                 "predicate": [
                     {
+                        "str": "flesh",
+                        "lemma": "flesh",
+                        "POS": "VERB"
+                    },
+                    {
                         "str": "out",
                         "lemma": "out",
                         "POS": "ADP"
@@ -1777,7 +1817,18 @@
                 "embedded clauses": []
             },
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "focuses",
+                        "lemma": "focus",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "on",
+                        "lemma": "on",
+                        "POS": "ADP"
+                    }
+                ],
                 "type": "constituent",
                 "clause": "what happens to her physically",
                 "embedded clauses": []
@@ -1815,6 +1866,11 @@
                         "str": "explained",
                         "lemma": "explain",
                         "POS": "VERB"
+                    },
+                    {
+                        "str": "bout",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1827,6 +1883,11 @@
                         "str": "explained",
                         "lemma": "explain",
                         "POS": "VERB"
+                    },
+                    {
+                        "str": "bout",
+                        "lemma": "about",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "constituent",
@@ -1863,14 +1924,9 @@
             {
                 "predicate": [
                     {
-                        "str": "'",
-                        "lemma": "'",
-                        "POS": "VERB"
-                    },
-                    {
-                        "str": "m",
-                        "lemma": "m",
-                        "POS": "VERB"
+                        "str": "'m",
+                        "lemma": "be",
+                        "POS": "AUX"
                     },
                     {
                         "str": "sure",
@@ -1885,14 +1941,9 @@
             {
                 "predicate": [
                     {
-                        "str": "'",
-                        "lemma": "'",
-                        "POS": "VERB"
-                    },
-                    {
-                        "str": "m",
-                        "lemma": "m",
-                        "POS": "VERB"
+                        "str": "'m",
+                        "lemma": "be",
+                        "POS": "AUX"
                     },
                     {
                         "str": "aware",
@@ -2458,31 +2509,20 @@
                 ],
                 "type": "constituent",
                 "clause": "what it is like to hear from your loved one that they have been diagnosed with cancer",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "wondered",
-                            "lemma": "wonder",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "constituent",
-                    "clause": "what it is like to hear from your loved one that they have been diagnosed with cancer",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "hear",
-                                    "lemma": "hear",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "that they have been diagnosed with cancer",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "hear",
+                                "lemma": "hear",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that they have been diagnosed with cancer",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
