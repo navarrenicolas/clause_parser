@@ -247,6 +247,11 @@
                         "str": "as",
                         "lemma": "as",
                         "POS": "ADP"
+                    },
+                    {
+                        "str": "to",
+                        "lemma": "to",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "polar",
@@ -349,7 +354,13 @@
         "sentence": "As evidence of this, In Thomas de Quinceys Confessions of an English Opium-Eater (1821, p. 188), it is not Ottoman, nor Chinese addicts about whom he writes, But English opium users: \"I question whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had.\"",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "question",
+                        "lemma": "question",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had.",
                 "embedded clauses": []
@@ -360,7 +371,13 @@
         "sentence": "Most studies using D-aspartic acid supplements did not report whether side effects occurred; long-term studies have not yet been performed using D-aspartic acid.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "report",
+                        "lemma": "report",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether side effects occurred",
                 "embedded clauses": []
@@ -409,36 +426,25 @@
                 ],
                 "type": "constituent",
                 "clause": "what they can do to make sure they are prepared for the future in terms of their job, money and health",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "understand",
-                            "lemma": "understand",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "constituent",
-                    "clause": "what they can do to make sure they are prepared for the future in terms of their job, money and health",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "make",
-                                    "lemma": "make",
-                                    "POS": "VERB"
-                                },
-                                {
-                                    "str": "sure",
-                                    "lemma": "sure",
-                                    "POS": "ADJ"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "they are prepared for the future in terms of their job, money and health",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "make",
+                                "lemma": "make",
+                                "POS": "VERB"
+                            },
+                            {
+                                "str": "sure",
+                                "lemma": "sure",
+                                "POS": "ADJ"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "they are prepared for the future in terms of their job, money and health",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -446,7 +452,13 @@
         "sentence": "And these requirements do not reflect the complex and often messy realities of innovation, let alone capture whether the innovation has negative consequences, such as putting CFCs in refrigerators.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "capture",
+                        "lemma": "capture",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "the innovation has negative consequences, such as putting CFCs in refrigerators",
                 "embedded clauses": []
@@ -539,28 +551,6 @@
                 ],
                 "type": "polar",
                 "clause": "whether he/she studied at an Ivy League school",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "124": {
-        "sentence": "Whether the judge will agree with Rocco depends on what Rocco's reasons are for wanting to live with his father in London.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "depends",
-                        "lemma": "depend",
-                        "POS": "VERB"
-                    },
-                    {
-                        "str": "on",
-                        "lemma": "on",
-                        "POS": "ADP"
-                    }
-                ],
-                "type": "constituent",
-                "clause": "what Rocco's reasons are for wanting to live with his father in London",
                 "embedded clauses": []
             }
         ]
@@ -880,7 +870,13 @@
         "sentence": "But nobody continued to question (as they once had) whether or not the internet was really necessary.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "question",
+                        "lemma": "question",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether or not the internet was really necessary",
                 "embedded clauses": []
@@ -891,7 +887,13 @@
         "sentence": "Organic acids testing is a way to measure whether your body is getting and using the nutrients needed for key metabolic processes.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "measure",
+                        "lemma": "measure",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether your body is getting and using the nutrients needed for key metabolic processes",
                 "embedded clauses": []
@@ -937,7 +939,7 @@
                     }
                 ],
                 "type": "polar",
-                "clause": "whether, or how, the NCAA monitors clustering",
+                "clause": "whether",
                 "embedded clauses": []
             },
             {
@@ -993,28 +995,6 @@
             }
         ]
     },
-    "243": {
-        "sentence": "And whether he is able or not to shoot good pictures seems to be totally irrelevant.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "be",
-                        "lemma": "be",
-                        "POS": "AUX"
-                    },
-                    {
-                        "str": "irrelevant",
-                        "lemma": "irrelevant",
-                        "POS": "ADJ"
-                    }
-                ],
-                "type": "polar",
-                "clause": "whether he is able or not to shoot good pictures",
-                "embedded clauses": []
-            }
-        ]
-    },
     "245": {
         "sentence": "I still get confused as to whether I'm being selfish and in typing this comment I can actually feel myself looking for affirmation from you and other posters.",
         "embedded clauses": [
@@ -1028,6 +1008,11 @@
                     {
                         "str": "as",
                         "lemma": "as",
+                        "POS": "ADP"
+                    },
+                    {
+                        "str": "to",
+                        "lemma": "to",
                         "POS": "ADP"
                     }
                 ],
@@ -1067,28 +1052,6 @@
                 ],
                 "type": "polar",
                 "clause": "whether or not to file a malpractice action",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "248": {
-        "sentence": "Whether a plaintiff who is currently proceeding before medical review panel pursuant to the [statute] may later allege and prove a medical malpractice claim in a state or federal court case is not relevant to the determination of diversity jurisdiction at the time of removal.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "is",
-                        "lemma": "be",
-                        "POS": "AUX"
-                    },
-                    {
-                        "str": "relevant",
-                        "lemma": "relevant",
-                        "POS": "ADJ"
-                    }
-                ],
-                "type": "polar",
-                "clause": "Whether a plaintiff who is currently proceeding before medical review panel pursuant to the [statute] may later allege and prove a medical malpractice claim in a state or federal court case",
                 "embedded clauses": []
             }
         ]
@@ -1321,60 +1284,20 @@
                 "embedded clauses": []
             },
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "'s",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "telling",
+                        "lemma": "telling",
+                        "POS": "ADJ"
+                    }
+                ],
                 "type": "declarative",
                 "clause": "that the investigation is being led by the Niagara Regional Police Service",
-                "embedded clauses": []
-            }
-        ]
-    },
-    "321": {
-        "sentence": "So while the debate may be raging over whether we're doing the right consultation or a variety of other things\u2013whether we're the smartest person in our riding or not\u2013I think what the debate really should be about is the practical aspects of this bill.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "raging",
-                        "lemma": "rage",
-                        "POS": "VERB"
-                    },
-                    {
-                        "str": "over",
-                        "lemma": "over",
-                        "POS": "ADP"
-                    }
-                ],
-                "type": "polar",
-                "clause": "whether we're doing the right consultation or a variety of other things",
-                "embedded clauses": []
-            },
-            {
-                "predicate": [
-                    {
-                        "str": "raging",
-                        "lemma": "rage",
-                        "POS": "VERB"
-                    },
-                    {
-                        "str": "over",
-                        "lemma": "over",
-                        "POS": "ADP"
-                    }
-                ],
-                "type": "polar",
-                "clause": "whether we're the smartest person in our riding or not",
-                "embedded clauses": []
-            },
-            {
-                "predicate": [
-                    {
-                        "str": "think",
-                        "lemma": "think",
-                        "POS": "VERB"
-                    }
-                ],
-                "type": "constituent",
-                "clause": "what the debate really should be about is the practical aspects of this bill",
                 "embedded clauses": []
             }
         ]
@@ -1658,7 +1581,13 @@
         "sentence": "Those of us in New Jersey can support the adoption of Senate Bill 677, sponsored by Sen. Ronald L. Rice, which would require our legislature to issue racial impact statements to assess whether proposed legislation will have a disproportionate racial impact.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "assess",
+                        "lemma": "assess",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether proposed legislation will have a disproportionate racial impact",
                 "embedded clauses": []
@@ -2033,36 +1962,20 @@
                 ],
                 "type": "polar",
                 "clause": "whether the electorate believes he can improve the security situation",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "depend",
-                            "lemma": "depend",
-                            "POS": "VERB"
-                        },
-                        {
-                            "str": "on",
-                            "lemma": "on",
-                            "POS": "ADP"
-                        }
-                    ],
-                    "type": "polar",
-                    "clause": "whether the electorate believes he can improve the security situation",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "believes",
-                                    "lemma": "believe",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "he can improve the security situation",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "believes",
+                                "lemma": "believe",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "he can improve the security situation",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2083,46 +1996,22 @@
             }
         ]
     },
-    "448": {
-        "sentence": "One study found that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "found",
-                        "lemma": "find",
-                        "POS": "VERB"
-                    }
-                ],
-                "type": "declarative",
-                "clause": "that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "found",
-                            "lemma": "find",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "declarative",
-                    "clause": "that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
-                    "embedded clauses": [
-                        {
-                            "predicate": [],
-                            "type": "polar",
-                            "clause": "whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
-            }
-        ]
-    },
     "449": {
         "sentence": "We're not sure whether pollsters were referring to Los Stop's version, Con su blanca palidez, though somehow we suspect not.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "'re",
+                        "lemma": "be",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "sure",
+                        "lemma": "sure",
+                        "POS": "ADJ"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether pollsters were referring to Los Stop's version, Con su blanca palidezs",
                 "embedded clauses": []
@@ -2213,18 +2102,8 @@
                         "POS": "VERB"
                     },
                     {
-                        "str": "non",
-                        "lemma": "non",
-                        "POS": "ADJ"
-                    },
-                    {
-                        "str": "-",
-                        "lemma": "-",
-                        "POS": "ADJ"
-                    },
-                    {
-                        "str": "committal",
-                        "lemma": "committal",
+                        "str": "non-committal",
+                        "lemma": "non-committal",
                         "POS": "ADJ"
                     },
                     {
@@ -2321,7 +2200,13 @@
         "sentence": "For this, the Commission will also assess whether the law provides for a balance between the promotion of Ukrainian and guarantees for minority languages.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "assess",
+                        "lemma": "assess",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether the law provides for a balance between the promotion of Ukrainian and guarantees for minority languages",
                 "embedded clauses": []
@@ -2342,40 +2227,29 @@
                         "str": "as",
                         "lemma": "as",
                         "POS": "ADP"
+                    },
+                    {
+                        "str": "to",
+                        "lemma": "to",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "polar",
                 "clause": "whether we can really say that Jesus and people of his time were ethnically egalitarian in our modern sense",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "hesitant",
-                            "lemma": "hesitant",
-                            "POS": "ADJ"
-                        },
-                        {
-                            "str": "as",
-                            "lemma": "as",
-                            "POS": "ADP"
-                        }
-                    ],
-                    "type": "polar",
-                    "clause": "whether we can really say that Jesus and people of his time were ethnically egalitarian in our modern sense",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "say",
-                                    "lemma": "say",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "that Jesus and people of his time were ethnically egalitarian in our modern sense",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "say",
+                                "lemma": "say",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that Jesus and people of his time were ethnically egalitarian in our modern sense",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2531,7 +2405,13 @@
         "sentence": "I am trying to scout whether the Chairperson is here.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "scout",
+                        "lemma": "scout",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether the Chairperson is here",
                 "embedded clauses": []
@@ -2542,28 +2422,34 @@
         "sentence": "Temporary Speaker, Sir, I would like the Chairperson to state:- (a) Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "state",
+                        "lemma": "state",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter",
-                "embedded clauses": {
-                    "predicate": [],
-                    "type": "polar",
-                    "clause": "Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "aware",
-                                    "lemma": "aware",
-                                    "POS": "ADJ"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "is",
+                                "lemma": "be",
+                                 "POS": "AUX"
+                            },
+                            {
+                                "str": "aware",
+                                "lemma": "aware",
+                                 "POS": "ADJ"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter",
+                        "embedded clauses": []
+                     }
+                ]
             }
         ]
     },
@@ -2580,31 +2466,20 @@
                 ],
                 "type": "polar",
                 "clause": "whether I am the only one who heard my good friend, the simba from Kirinyaga mention that some\"\u009d.\"",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "know",
-                            "lemma": "know",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "polar",
-                    "clause": "whether I am the only one who heard my good friend, the simba from Kirinyaga mention that some\"\u009d.\"",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "mention",
-                                    "lemma": "mention",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "that some\"\u009d.\"",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "mention",
+                                "lemma": "mention",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that some\"\u009d.\"",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -2726,7 +2601,13 @@
         "sentence": "I question whether any of this is really possible today, though.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "question",
+                        "lemma": "question",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether any of this is really possible today",
                 "embedded clauses": []
@@ -2754,7 +2635,13 @@
         "sentence": "For activities within the scope of Annex II of the EIA Regulation (projects subject to election and assessment criteria), an EIA presentation file must be submitted to the Ministry or the relevant authority, who will then assess whether preparation of an EIA report is required for the specific project.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "assess",
+                        "lemma": "assess",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "polar",
                 "clause": "whether preparation of an EIA report is required for the specific project",
                 "embedded clauses": []

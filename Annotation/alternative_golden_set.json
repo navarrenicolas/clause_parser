@@ -174,23 +174,6 @@
             }
         ]
     },
-    "145": {
-        "sentence": "Whether that\u2019s an out and out striker or a winger, that\u2019s for Gareth to decide.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "decide",
-                        "lemma": "decide",
-                        "POS": "VERB"
-                    }
-                ],
-                "type": "alternative",
-                "clause": "Whether that\u2019s an out and out striker or a winger",
-                "embedded clauses": []
-            }
-        ]
-    },
     "155": {
         "sentence": "We must decide whether this exception applies only to insurance company boycotts of agents and other companies or also applies to refusals to deal with policyholders.",
         "embedded clauses": [
@@ -312,7 +295,13 @@
         "sentence": "It doesn\u2019t matter whether its work, family, or friends, good morals will get you a long way with people, and they will respect you for it!",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "matter",
+                        "lemma": "matter",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether its work, family, or friends",
                 "embedded clauses": []
@@ -336,28 +325,17 @@
             }
         ]
     },
-    "240": {
-        "sentence": "My parents have worked all of their lives and they always told me whether it is just a part-time job, a volunteer job, or your career, if you agreed to work for someone, do just that.",
-        "embedded clauses": [
-            {
-                "predicate": [
-                    {
-                        "str": "told",
-                        "lemma": "tell",
-                        "POS": "VERB"
-                    }
-                ],
-                "type": "alternative",
-                "clause": "whether it is just a part-time job, a volunteer job, or your career",
-                "embedded clauses": []
-            }
-        ]
-    },
     "251": {
         "sentence": "So as long as everyone would be exposed to STEM and be able to choose it as a career to pursue without pressure to not do so, it doens't matter to me whether it's 50/50, 60/40 or 70/30.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "matter",
+                        "lemma": "matter",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether it's 50/50, 60/40 or 70/30",
                 "embedded clauses": []
@@ -443,10 +421,16 @@
         ]
     },
     "290": {
-        "sentence": "He wonders whether reality is a dream or dreams reality.\u201d This isn\u2019t ordinary narration, which conveys information the film for one reason or other can\u2019t dramatize.",
+        "sentence": "He wonders whether reality is a dream or dreams reality.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "wonders",
+                        "lemma": "wonder",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether reality is a dream or dreams reality",
                 "embedded clauses": []
@@ -743,17 +727,6 @@
             }
         ]
     },
-    "573": {
-        "sentence": "(And whether those similarities are due to nature or nurture, does it really matter?)",
-        "embedded clauses": [
-            {
-                "predicate": [],
-                "type": "alternative",
-                "clause": "whether those similarities are due to nature or nurture",
-                "embedded clauses": []
-            }
-        ]
-    },
     "3": {
         "sentence": "It's hard to say whether DC will collect these Bill Willingham-written, Infinite Crisis-crossing stories, or whether they'll jump to the new material.",
         "embedded clauses": [
@@ -775,7 +748,13 @@
         "sentence": "Here, Greenwood succinctly counters polarised ways of thinking in terms of \"primitive\" and \"modern,\" preferring instead to judge whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4).",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "judge",
+                        "lemma": "judge",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4)",
                 "embedded clauses": []
@@ -803,7 +782,13 @@
         "sentence": "The point is that this makes it possible to readily construct a relatively simple reader which can discern (by determining the length of the respective distance a or b) whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "discern",
+                        "lemma": "discern",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading",
                 "embedded clauses": []
@@ -836,7 +821,13 @@
         "sentence": "That said, it matters little whether I am over-eating or under-eating.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "matters",
+                        "lemma": "matter",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether I am over-eating or under-eating",
                 "embedded clauses": []
@@ -847,7 +838,13 @@
         "sentence": "Wonder whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "Wonder",
+                        "lemma": "wonder",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down",
                 "embedded clauses": []
@@ -958,7 +955,13 @@
         "sentence": "The library should not have to deal with training staff to discern whether patrons are students or adults who look like students.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "discern",
+                        "lemma": "discern",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether patrons are students or adults who look like students",
                 "embedded clauses": []
@@ -969,7 +972,13 @@
         "sentence": "It doesn\u0092t even matter whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today \u0096 as long as it\u0092s readable and well enough developed that a critique might be helpful.",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "matter",
+                        "lemma": "matter",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today",
                 "embedded clauses": []
@@ -1002,6 +1011,11 @@
                         "str": "speak",
                         "lemma": "speak",
                         "POS": "VERB"
+                    },
+                    {
+                        "str": "to",
+                        "lemma": "to",
+                        "POS": "ADP"
                     }
                 ],
                 "type": "alternative",
@@ -1194,7 +1208,13 @@
         "sentence": "This concerns whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships).",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "concerns",
+                        "lemma": "concern",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships)",
                 "embedded clauses": []
@@ -1287,31 +1307,20 @@
                 ],
                 "type": "alternative",
                 "clause": "whether to require a full formal filing or determine that no further action is necessary",
-                "embedded clauses": {
-                    "predicate": [
-                        {
-                            "str": "decide",
-                            "lemma": "decide",
-                            "POS": "VERB"
-                        }
-                    ],
-                    "type": "alternative",
-                    "clause": "whether to require a full formal filing or determine that no further action is necessary",
-                    "embedded clauses": [
-                        {
-                            "predicate": [
-                                {
-                                    "str": "determine",
-                                    "lemma": "determine",
-                                    "POS": "VERB"
-                                }
-                            ],
-                            "type": "declarative",
-                            "clause": "that no further action is necessary",
-                            "embedded clauses": []
-                        }
-                    ]
-                }
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "determine",
+                                "lemma": "determine",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that no further action is necessary",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },
@@ -1499,7 +1508,13 @@
         "sentence": "You can\u0092t easily configure whether you want the video to be oriented horizontally (landscape) or vertically (portrait).",
         "embedded clauses": [
             {
-                "predicate": [],
+                "predicate": [
+                    {
+                        "str": "configure",
+                        "lemma": "configure",
+                        "POS": "VERB"
+                    }
+                ],
                 "type": "alternative",
                 "clause": "whether you want the video to be oriented horizontally (landscape) or vertically (portrait)",
                 "embedded clauses": []
