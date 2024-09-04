@@ -1208,19 +1208,56 @@
             {
                 "predicate": [
                     {
-                        "str": "wondering",
-                        "lemma": "wonder",
+                        "str": "thought",
+                        "lemma": "think",
                         "POS": "VERB"
-                    },
-                    {
-                        "str": "about",
-                        "lemma": "about",
-                        "POS": "ADP"
                     }
                 ],
-                "type": "polar",
-                "clause": "whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex",
+                "type": "constituent",
+                "clause": "Why watch Game of Thrones",
                 "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "thought",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "constituent",
+                "clause": "why spend a minute caring about the fate of a stompy pious crow",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "thought",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "constituent",
+                "clause": "why spend a second wondering about whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "wondering",
+                                "lemma": "wonder",
+                                "POS": "VERB"
+                            },
+                            {
+                                "str": "about",
+                                "lemma": "about",
+                                "POS": "ADP"
+                            }
+                        ],
+                        "type": "polar",
+                        "clause": "whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex",
+                        "embedded clauses": []
+                    }
+                ]
             }
         ]
     },

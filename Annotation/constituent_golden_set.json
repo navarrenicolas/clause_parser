@@ -730,6 +730,23 @@
                                 "POS": "ADJ"
                             },
                             {
+                                "str": "are",
+                                "lemma": "be",
+                                "POS": "AUX"
+                            },
+                            {
+                                "str": "about",
+                                "lemma": "about",
+                                "POS": "ADP"
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "how they could forgive",
+                        "embedded clauses": []
+                    },
+                    {
+                        "predicate": [
+                            {
                                 "str": "honest",
                                 "lemma": "honest",
                                 "POS": "ADJ"
@@ -738,6 +755,11 @@
                                 "str": "are",
                                 "lemma": "be",
                                 "POS": "AUX"
+                            },
+                            {
+                                "str": "about",
+                                "lemma": "about",
+                                "POS": "ADP"
                             }
                         ],
                         "type": "constituent",

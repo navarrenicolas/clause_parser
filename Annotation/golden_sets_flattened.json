@@ -2199,6 +2199,23 @@
                 "POS": "ADJ"
             },
             {
+                "str": "are",
+                "lemma": "be",
+                "POS": "AUX"
+            },
+            {
+                "str": "about",
+                "lemma": "about",
+                "POS": "ADP"
+            }
+        ],
+        "type": "constituent",
+        "clause": "how they could forgive"
+    },
+    "179": {
+        "sentence": "Great story and once you read it, you will totally see how real and honest they are about how they could forgive.",
+        "predicate": [
+            {
                 "str": "honest",
                 "lemma": "honest",
                 "POS": "ADJ"
@@ -2207,12 +2224,17 @@
                 "str": "are",
                 "lemma": "be",
                 "POS": "AUX"
+            },
+            {
+                "str": "about",
+                "lemma": "about",
+                "POS": "ADP"
             }
         ],
         "type": "constituent",
         "clause": "how they could forgive"
     },
-    "179": {
+    "180": {
         "sentence": "Greenwood clearly demonstrates how this demand can be met in cases where textual evidence is plentiful, be it in the form of published monographs and commentaries or private letters and notebooks.",
         "predicate": [
             {
@@ -2224,7 +2246,7 @@
         "type": "constituent",
         "clause": "how this demand can be met in cases where textual evidence is plentiful, be it in the form of published monographs and commentaries or private letters and notebooks"
     },
-    "180": {
+    "181": {
         "sentence": "It is situations like this that truly test our patience, and the subsequent decisions we make reflect who we are, what we stand for, and what kind of role model we will be for our children.",
         "predicate": [
             {
@@ -2236,7 +2258,7 @@
         "type": "constituent",
         "clause": "who we are"
     },
-    "181": {
+    "182": {
         "sentence": "It is situations like this that truly test our patience, and the subsequent decisions we make reflect who we are, what we stand for, and what kind of role model we will be for our children.",
         "predicate": [
             {
@@ -2248,7 +2270,7 @@
         "type": "constituent",
         "clause": "what we stand for"
     },
-    "182": {
+    "183": {
         "sentence": "It is situations like this that truly test our patience, and the subsequent decisions we make reflect who we are, what we stand for, and what kind of role model we will be for our children.",
         "predicate": [
             {
@@ -2260,7 +2282,7 @@
         "type": "constituent",
         "clause": "what kind of role model we will be for our children"
     },
-    "183": {
+    "184": {
         "sentence": "It is not known when the hostages - whose nationality was not immediately known - were seized.",
         "predicate": [
             {
@@ -2272,7 +2294,7 @@
         "type": "constituent",
         "clause": "when the hostages - whose nationality was not immediately known - were seized"
     },
-    "184": {
+    "185": {
         "sentence": "Keith Carr, who has now retired, remembers when he went to treat him in 2013.",
         "predicate": [
             {
@@ -2284,7 +2306,7 @@
         "type": "constituent",
         "clause": "when he went to treat him in 2013"
     },
-    "185": {
+    "186": {
         "sentence": "The aim is to show spectators how litter is harming our waterways and killing marine life both here and out at sea.",
         "predicate": [
             {
@@ -2296,7 +2318,7 @@
         "type": "constituent",
         "clause": "how litter is harming our waterways and killing marine life both here and out at sea"
     },
-    "186": {
+    "187": {
         "sentence": "He says how he much he has enjoyed working for the council and nothing ever made him want to leave.",
         "predicate": [
             {
@@ -2308,7 +2330,7 @@
         "type": "constituent",
         "clause": "how he much he has enjoyed working for the council and nothing ever made him want to leave"
     },
-    "187": {
+    "188": {
         "sentence": "He says how he much he has enjoyed working for the council and nothing ever made him want to leave.",
         "predicate": [
             {
@@ -2320,7 +2342,7 @@
         "type": "declarative",
         "clause": "nothing ever made him want to leave"
     },
-    "188": {
+    "189": {
         "sentence": "While thanking voters, Jon explained how the future of the party is going to look.",
         "predicate": [
             {
@@ -2331,23 +2353,6 @@
         ],
         "type": "constituent",
         "clause": "how the future of the party is going to look"
-    },
-    "189": {
-        "sentence": "He also plans to develop his own career but failed to comment on how or what he is planning.",
-        "predicate": [
-            {
-                "str": "comment",
-                "lemma": "comment",
-                "POS": "VERB"
-            },
-            {
-                "str": "on",
-                "lemma": "on",
-                "POS": "ADP"
-            }
-        ],
-        "type": "constituent",
-        "clause": "how"
     },
     "190": {
         "sentence": "He also plans to develop his own career but failed to comment on how or what he is planning.",
@@ -2364,9 +2369,26 @@
             }
         ],
         "type": "constituent",
-        "clause": "what he is planning"
+        "clause": "how"
     },
     "191": {
+        "sentence": "He also plans to develop his own career but failed to comment on how or what he is planning.",
+        "predicate": [
+            {
+                "str": "comment",
+                "lemma": "comment",
+                "POS": "VERB"
+            },
+            {
+                "str": "on",
+                "lemma": "on",
+                "POS": "ADP"
+            }
+        ],
+        "type": "constituent",
+        "clause": "what he is planning"
+    },
+    "192": {
         "sentence": "Twickenham Film Studios has tweeted how their thoughts are with those affected by the fire that broke out in Liverpool\u2019s Littlewood building last night.",
         "predicate": [
             {
@@ -2378,7 +2400,7 @@
         "type": "constituent",
         "clause": "how their thoughts are with those affected by the fire that broke out in Liverpool\u2019s Littlewood building last night"
     },
-    "192": {
+    "193": {
         "sentence": "It is not known as yet which production team members will be presented to Charles and Camilla.",
         "predicate": [
             {
@@ -2390,7 +2412,7 @@
         "type": "constituent",
         "clause": "which production team members will be presented to Charles and Camilla"
     },
-    "193": {
+    "194": {
         "sentence": "And did she ask who the next Doctor might be?",
         "predicate": [
             {
@@ -2402,7 +2424,7 @@
         "type": "constituent",
         "clause": "who the next Doctor might be"
     },
-    "194": {
+    "195": {
         "sentence": "Everybody else in the building has asked me who the next Doctor is, and I can tell you honestly we don't know.",
         "predicate": [
             {
@@ -2414,7 +2436,7 @@
         "type": "constituent",
         "clause": "who the next Doctor is"
     },
-    "195": {
+    "196": {
         "sentence": "Everybody else in the building has asked me who the next Doctor is, and I can tell you honestly we don't know.",
         "predicate": [
             {
@@ -2426,7 +2448,7 @@
         "type": "declarative",
         "clause": "we don't know"
     },
-    "196": {
+    "197": {
         "sentence": "Richard E Grant is back with his evil Great Intelligence, the Doctor\u2019s greatest secret is revealed, all of his friends rally round to protect him and we finally understand why the Doctor has met Clara so many different times.",
         "predicate": [
             {
@@ -2438,7 +2460,7 @@
         "type": "constituent",
         "clause": "why the Doctor has met Clara so many different times"
     },
-    "197": {
+    "198": {
         "sentence": "And on romance: Perhaps, you'll have to wait and see - god knows how he'd react to romance, the Doctor - or my Doctor, anyway!\"",
         "predicate": [
             {
@@ -2450,7 +2472,7 @@
         "type": "constituent",
         "clause": "how he'd react to romance"
     },
-    "198": {
+    "199": {
         "sentence": "The Doctor returns to contemporary London and finds himself meeting Clara Oswald for the third time; he\u2019s been searching the universe for her, but will she even know who he is?",
         "predicate": [
             {
@@ -2462,7 +2484,7 @@
         "type": "constituent",
         "clause": "who he is"
     },
-    "199": {
+    "200": {
         "sentence": "As the newest edition to the show, Jenna explains how this series will take the viewer on the same journey of discovery she experienced when she first joined, especially for episode two - The Rings of Akhaten - which is set on an alien planet.",
         "predicate": [
             {
@@ -2474,7 +2496,7 @@
         "type": "constituent",
         "clause": "how this series will take the viewer on the same journey of discovery she experienced when she first joined"
     },
-    "200": {
+    "201": {
         "sentence": "It remains unclear who will be the host of the annual event.",
         "predicate": [
             {
@@ -2491,7 +2513,7 @@
         "type": "constituent",
         "clause": "who will be the host of the annual event"
     },
-    "201": {
+    "202": {
         "sentence": "Let me take a moment to tell you what is this all about and how it got started.",
         "predicate": [
             {
@@ -2503,7 +2525,7 @@
         "type": "constituent",
         "clause": "what is this all about"
     },
-    "202": {
+    "203": {
         "sentence": "Let me take a moment to tell you what is this all about and how it got started.",
         "predicate": [
             {
@@ -2515,7 +2537,7 @@
         "type": "constituent",
         "clause": "how it got started"
     },
-    "203": {
+    "204": {
         "sentence": "To see how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today see here, including an oft-repeated rumor about why his notes are in that Talmud edition (and therefore almost all editions since) Also here.",
         "predicate": [
             {
@@ -2527,7 +2549,7 @@
         "type": "constituent",
         "clause": "how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today"
     },
-    "204": {
+    "205": {
         "sentence": "To see how his slightly left-of-center orientation (or left-of-right, as the case may be) means that he is a slightly controversial figure in some circles today see here, including an oft-repeated rumor about why his notes are in that Talmud edition (and therefore almost all editions since) Also here.",
         "predicate": [
             {
@@ -2539,7 +2561,7 @@
         "type": "declarative",
         "clause": "that he is a slightly controversial figure in some circles today"
     },
-    "205": {
+    "206": {
         "sentence": "In this issue of Perspectives, we asked an alumna, staff member, faculty member, and current student to discuss how communication has changed with technology.",
         "predicate": [
             {
@@ -2551,7 +2573,7 @@
         "type": "constituent",
         "clause": "how communication has changed with technology"
     },
-    "206": {
+    "207": {
         "sentence": "Peter Pond Society Newsletter 1 relates how the site was originally pinpointed with the help of airplane surveillance in 1942.",
         "predicate": [
             {
@@ -2563,7 +2585,7 @@
         "type": "constituent",
         "clause": "how the site was originally pinpointed with the help of airplane surveillance in 1942"
     },
-    "207": {
+    "208": {
         "sentence": "I often reflect on how incredibly lucky I am to have such close links with my extended family and that is in no small part down to you.",
         "predicate": [
             {
@@ -2580,7 +2602,7 @@
         "type": "constituent",
         "clause": "how incredibly lucky I am to have such close links with my extended family"
     },
-    "208": {
+    "209": {
         "sentence": "It is wonderful too how many new memories you have been able to be a part of in recent years.",
         "predicate": [
             {
@@ -2597,7 +2619,7 @@
         "type": "constituent",
         "clause": "how many new memories you have been able to be a part of in recent years"
     },
-    "209": {
+    "210": {
         "sentence": "The best way to start is to take one of the short orientation tours just to get a feel for the town and also to know what bus to catch to go where you wish.",
         "predicate": [
             {
@@ -2609,7 +2631,7 @@
         "type": "constituent",
         "clause": "what bus to catch to go where you wish"
     },
-    "210": {
+    "211": {
         "sentence": "Can you imagine what can be taught about sex for 12 or 15 years?",
         "predicate": [
             {
@@ -2621,7 +2643,7 @@
         "type": "constituent",
         "clause": "what can be taught about sex for 12 or 15 years"
     },
-    "211": {
+    "212": {
         "sentence": "A wife can rightly tell the pastor, You do not know what I have to go through.",
         "predicate": [
             {
@@ -2633,7 +2655,7 @@
         "type": "declarative",
         "clause": "You do not know what I have to go through"
     },
-    "212": {
+    "213": {
         "sentence": "A wife can rightly tell the pastor, You do not know what I have to go through.",
         "predicate": [
             {
@@ -2645,7 +2667,7 @@
         "type": "constituent",
         "clause": "what I have to go through"
     },
-    "213": {
+    "214": {
         "sentence": "You want to know what you can build on your property, so you consult the zoning code again.",
         "predicate": [
             {
@@ -2657,7 +2679,7 @@
         "type": "constituent",
         "clause": "what you can build on your property"
     },
-    "214": {
+    "215": {
         "sentence": "The field is open for other scholars to build on and explore not only issues of policy and representation in Mexico, but also investigate what if anything has proven effective in combating gender violence, as well as researching how the different levels measured by the Gender Inequality Index affect change.",
         "predicate": [
             {
@@ -2669,7 +2691,7 @@
         "type": "constituent",
         "clause": "what if anything has proven effective in combating gender violence"
     },
-    "215": {
+    "216": {
         "sentence": "The field is open for other scholars to build on and explore not only issues of policy and representation in Mexico, but also investigate what if anything has proven effective in combating gender violence, as well as researching how the different levels measured by the Gender Inequality Index affect change.",
         "predicate": [
             {
@@ -2681,7 +2703,7 @@
         "type": "constituent",
         "clause": "how the different levels measured by the Gender Inequality Index affect change"
     },
-    "216": {
+    "217": {
         "sentence": "I put the case back on the phone, wondering what to do next.",
         "predicate": [
             {
@@ -2693,7 +2715,7 @@
         "type": "constituent",
         "clause": "what to do next"
     },
-    "217": {
+    "218": {
         "sentence": "I asked numerous times what was going on but they weren\u2019t really sure.",
         "predicate": [
             {
@@ -2705,7 +2727,7 @@
         "type": "constituent",
         "clause": "what was going on"
     },
-    "218": {
+    "219": {
         "sentence": "As a result, we decided last year to take things a step further and ask the publishers what their top 5 most anticipated novels of the year were.",
         "predicate": [
             {
@@ -2717,7 +2739,7 @@
         "type": "constituent",
         "clause": "what their top 5 most anticipated novels of the year were"
     },
-    "219": {
+    "220": {
         "sentence": "Who decides what should be a World Heritage site?",
         "predicate": [
             {
@@ -2729,7 +2751,7 @@
         "type": "constituent",
         "clause": "what should be a World Heritage site"
     },
-    "220": {
+    "221": {
         "sentence": "Just take the time to read these notes and this earlier blog entry, so that you know what to expect, and plunge yourself in the vibrant, ever expanding universe of Detective Conan \u201cwhere high adventure and mystery awaits all who seek it!\u201d",
         "predicate": [
             {
@@ -2741,7 +2763,7 @@
         "type": "constituent",
         "clause": "what to expect"
     },
-    "221": {
+    "222": {
         "sentence": "Bobby, you really know what it takes to get the girl!",
         "predicate": [
             {
@@ -2753,7 +2775,7 @@
         "type": "constituent",
         "clause": "what it takes to get the girl"
     },
-    "222": {
+    "223": {
         "sentence": "Each isomer can be synthesized using the trans effect to control which isomer is produced.",
         "predicate": [
             {
@@ -2765,7 +2787,7 @@
         "type": "constituent",
         "clause": "which isomer is produced"
     },
-    "223": {
+    "224": {
         "sentence": "No money coming in, money going out, into August now still no job, got the family together & explained the situation to them, down to enough for 3 house payments left, don\u2019t know what lies ahead for us.",
         "predicate": [
             {
@@ -2777,7 +2799,7 @@
         "type": "constituent",
         "clause": "what lies ahead for us"
     },
-    "224": {
+    "225": {
         "sentence": "Trying to think of what I could do with my new toy, my thoughts naturally turned to the projects I've been working on recently -- compilers and a dynamic language runtime.",
         "predicate": [
             {
@@ -2794,7 +2816,7 @@
         "type": "constituent",
         "clause": "what I could do with my new toy"
     },
-    "225": {
+    "226": {
         "sentence": "Sometimes in real life, you wont know what value to use here, and it\u2019s beyond the scope of this article to talk about how to choose values.",
         "predicate": [
             {
@@ -2806,7 +2828,7 @@
         "type": "constituent",
         "clause": "what value to use here"
     },
-    "226": {
+    "227": {
         "sentence": "Sometimes in real life, you wont know what value to use here, and it\u2019s beyond the scope of this article to talk about how to choose values.",
         "predicate": [
             {
@@ -2823,7 +2845,7 @@
         "type": "constituent",
         "clause": "how to choose values"
     },
-    "227": {
+    "228": {
         "sentence": "He didn\u2019t know what caused Ida to say the next thing.",
         "predicate": [
             {
@@ -2835,7 +2857,7 @@
         "type": "constituent",
         "clause": "what caused Ida to say the next thing"
     },
-    "228": {
+    "229": {
         "sentence": "He remembered the instant his father realized what was happening.",
         "predicate": [
             {
@@ -2847,7 +2869,7 @@
         "type": "constituent",
         "clause": "what was happening"
     },
-    "229": {
+    "230": {
         "sentence": "If you ever want to know what it feels like to be the best-dressed person in the room then get yourself a handcrafted leather iPhone case.",
         "predicate": [
             {
@@ -2859,7 +2881,7 @@
         "type": "constituent",
         "clause": "what it feels like to be the best-dressed person in the room"
     },
-    "230": {
+    "231": {
         "sentence": "His first foray was in the field of plant reproductive biology, in which he learned why two medicinal plants are going extinct in nature.",
         "predicate": [
             {
@@ -2871,7 +2893,7 @@
         "type": "constituent",
         "clause": "why two medicinal plants are going extinct in nature"
     },
-    "231": {
+    "232": {
         "sentence": "The researchers used big data sets collected from seismic waves formed during earthquakes to probe what's happening deep in Earth's interior.",
         "predicate": [
             {
@@ -2883,7 +2905,7 @@
         "type": "constituent",
         "clause": "what's happening deep in Earth's interior"
     },
-    "232": {
+    "233": {
         "sentence": "How mantle flows on Earth might control why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow.",
         "predicate": [
             {
@@ -2895,7 +2917,7 @@
         "type": "constituent",
         "clause": "why there is life on our planet but not on other planets, such as Venus, which has a similar size and location in the solar system to Earth, but likely has a very different style of mantle flow"
     },
-    "233": {
+    "234": {
         "sentence": "The children could not tell me where they came from or what they had been through, but I could see their trauma in the way a tiny girl panicked when a child snatched her toy, and from the big tears that filled a little boy\u2019s eyes as his mother left him to meet with a volunteer.",
         "predicate": [
             {
@@ -2907,7 +2929,7 @@
         "type": "constituent",
         "clause": "where they came from"
     },
-    "234": {
+    "235": {
         "sentence": "The children could not tell me where they came from or what they had been through, but I could see their trauma in the way a tiny girl panicked when a child snatched her toy, and from the big tears that filled a little boy\u2019s eyes as his mother left him to meet with a volunteer.",
         "predicate": [
             {
@@ -2919,7 +2941,7 @@
         "type": "constituent",
         "clause": "what they had been through"
     },
-    "235": {
+    "236": {
         "sentence": "We can\u2019t know what their futures will hold.",
         "predicate": [
             {
@@ -2931,7 +2953,7 @@
         "type": "constituent",
         "clause": "what their futures will hold"
     },
-    "236": {
+    "237": {
         "sentence": "It has been a very long time since my last update, I can't even remember when it was... or what it was about!",
         "predicate": [
             {
@@ -2943,7 +2965,7 @@
         "type": "constituent",
         "clause": "when it was"
     },
-    "237": {
+    "238": {
         "sentence": "It has been a very long time since my last update, I can't even remember when it was... or what it was about!",
         "predicate": [
             {
@@ -2955,7 +2977,7 @@
         "type": "constituent",
         "clause": "what it was about"
     },
-    "238": {
+    "239": {
         "sentence": "You never know when you meet new blogger friends, what is safe\" to talk about and what is not.\"",
         "predicate": [
             {
@@ -2967,7 +2989,7 @@
         "type": "constituent",
         "clause": "what is safe\" to talk about"
     },
-    "239": {
+    "240": {
         "sentence": "You never know when you meet new blogger friends, what is safe\" to talk about and what is not.\"",
         "predicate": [
             {
@@ -2979,7 +3001,7 @@
         "type": "constituent",
         "clause": "what is not"
     },
-    "240": {
+    "241": {
         "sentence": "In the mean time, here's an image (unfinished) that I created trying to flesh out what Othello would look like as a younger mouse.",
         "predicate": [
             {
@@ -2996,7 +3018,7 @@
         "type": "constituent",
         "clause": "what Othello would look like as a younger mouse"
     },
-    "241": {
+    "242": {
         "sentence": "It focuses mainly on Megan and how she\u2019s thinking and feeling, and what she\u2019s going to do, and less so on what happens to her physically, but it was good!",
         "predicate": [
             {
@@ -3013,7 +3035,7 @@
         "type": "constituent",
         "clause": "how she\u2019s thinking and feeling"
     },
-    "242": {
+    "243": {
         "sentence": "It focuses mainly on Megan and how she\u2019s thinking and feeling, and what she\u2019s going to do, and less so on what happens to her physically, but it was good!",
         "predicate": [
             {
@@ -3030,7 +3052,7 @@
         "type": "constituent",
         "clause": "what she\u2019s going to do"
     },
-    "243": {
+    "244": {
         "sentence": "It focuses mainly on Megan and how she\u2019s thinking and feeling, and what she\u2019s going to do, and less so on what happens to her physically, but it was good!",
         "predicate": [
             {
@@ -3047,7 +3069,7 @@
         "type": "constituent",
         "clause": "what happens to her physically"
     },
-    "244": {
+    "245": {
         "sentence": "She kept pestering Megan about what she was going to do, and had she told her Mum, she just wasn\u2019t helping at all.",
         "predicate": [
             {
@@ -3064,7 +3086,7 @@
         "type": "constituent",
         "clause": "what she was going to do"
     },
-    "245": {
+    "246": {
         "sentence": "Through those conversations, everything was explained bout what Megan\u2019s options were; keeping the baby or having it adopted, and what either choice would mean for her as she is 15.",
         "predicate": [
             {
@@ -3081,7 +3103,7 @@
         "type": "constituent",
         "clause": "what Megan\u2019s options were; keeping the baby or having it adopted"
     },
-    "246": {
+    "247": {
         "sentence": "Through those conversations, everything was explained bout what Megan\u2019s options were; keeping the baby or having it adopted, and what either choice would mean for her as she is 15.",
         "predicate": [
             {
@@ -3098,7 +3120,7 @@
         "type": "constituent",
         "clause": "what either choice would mean for her as she is 15"
     },
-    "247": {
+    "248": {
         "sentence": "We need to think about what is needed to help us do both these things at the same time.",
         "predicate": [
             {
@@ -3115,7 +3137,7 @@
         "type": "constituent",
         "clause": "what is needed to help us do both these things at the same time"
     },
-    "248": {
+    "249": {
         "sentence": "I'm not sure what Zhawq does, but I'm very aware of when I'm doing it nowadays.",
         "predicate": [
             {
@@ -3132,7 +3154,7 @@
         "type": "constituent",
         "clause": "what Zhawq does"
     },
-    "249": {
+    "250": {
         "sentence": "I'm not sure what Zhawq does, but I'm very aware of when I'm doing it nowadays.",
         "predicate": [
             {
@@ -3154,7 +3176,7 @@
         "type": "constituent",
         "clause": "when I'm doing it"
     },
-    "250": {
+    "251": {
         "sentence": "Not until the early 20th century did we even realize what those fuzzy patches of light were.",
         "predicate": [
             {
@@ -3166,7 +3188,7 @@
         "type": "constituent",
         "clause": "what those fuzzy patches of light were"
     },
-    "251": {
+    "252": {
         "sentence": "We now know what this looks like at a cellular level.",
         "predicate": [
             {
@@ -3178,7 +3200,7 @@
         "type": "constituent",
         "clause": "what this looks like at a cellular level"
     },
-    "252": {
+    "253": {
         "sentence": "And, I want to know what happened.",
         "predicate": [
             {
@@ -3190,7 +3212,7 @@
         "type": "constituent",
         "clause": "what happened"
     },
-    "253": {
+    "254": {
         "sentence": "Jessica: And so it is this idea of just accepting who you are as a person and what you\u2019re like as a person.",
         "predicate": [
             {
@@ -3202,7 +3224,7 @@
         "type": "constituent",
         "clause": "who you are as a person"
     },
-    "254": {
+    "255": {
         "sentence": "Jessica: And so it is this idea of just accepting who you are as a person and what you\u2019re like as a person.",
         "predicate": [
             {
@@ -3214,7 +3236,7 @@
         "type": "constituent",
         "clause": "what you\u2019re like as a person"
     },
-    "255": {
+    "256": {
         "sentence": "In this way they remotely measure the wind at height, for example, to distinguish which of two differing model predictions most accurately represents reality.",
         "predicate": [
             {
@@ -3226,7 +3248,7 @@
         "type": "constituent",
         "clause": "which of two differing model predictions most accurately represents reality"
     },
-    "256": {
+    "257": {
         "sentence": "It's impossible to find out what that half-life is, which means that it is very hard to use it to estimate how much time it will stay in your system.",
         "predicate": [
             {
@@ -3243,7 +3265,7 @@
         "type": "constituent",
         "clause": "what that half-life is"
     },
-    "257": {
+    "258": {
         "sentence": "It's impossible to find out what that half-life is, which means that it is very hard to use it to estimate how much time it will stay in your system.",
         "predicate": [
             {
@@ -3254,23 +3276,6 @@
         ],
         "type": "constituent",
         "clause": "how much time it will stay in your system"
-    },
-    "258": {
-        "sentence": "They read the question cards on the table and mused about what they\u2019d take to a desert island and what chore they\u2019d choose never to do again.",
-        "predicate": [
-            {
-                "str": "mused",
-                "lemma": "muse",
-                "POS": "VERB"
-            },
-            {
-                "str": "about",
-                "lemma": "about",
-                "POS": "ADP"
-            }
-        ],
-        "type": "constituent",
-        "clause": "what they\u2019d take to a desert island"
     },
     "259": {
         "sentence": "They read the question cards on the table and mused about what they\u2019d take to a desert island and what chore they\u2019d choose never to do again.",
@@ -3287,9 +3292,26 @@
             }
         ],
         "type": "constituent",
-        "clause": "what chore they\u2019d choose never to do again"
+        "clause": "what they\u2019d take to a desert island"
     },
     "260": {
+        "sentence": "They read the question cards on the table and mused about what they\u2019d take to a desert island and what chore they\u2019d choose never to do again.",
+        "predicate": [
+            {
+                "str": "mused",
+                "lemma": "muse",
+                "POS": "VERB"
+            },
+            {
+                "str": "about",
+                "lemma": "about",
+                "POS": "ADP"
+            }
+        ],
+        "type": "constituent",
+        "clause": "what chore they\u2019d choose never to do again"
+    },
+    "261": {
         "sentence": "You have a right to ask what information Agape Wellbeing holds about you and for a copy of that information to be made available to you.",
         "predicate": [
             {
@@ -3301,7 +3323,7 @@
         "type": "constituent",
         "clause": "what information Agape Wellbeing holds about you"
     },
-    "261": {
+    "262": {
         "sentence": "But of course, you know what we really need?",
         "predicate": [
             {
@@ -3313,7 +3335,7 @@
         "type": "constituent",
         "clause": "what we really need"
     },
-    "262": {
+    "263": {
         "sentence": "Consumer-side technology is also seeing growth, as medical-marijuana users try to figure out what works for their ailments and recreational users search for the strains that make them feel a certain way.",
         "predicate": [
             {
@@ -3330,7 +3352,7 @@
         "type": "constituent",
         "clause": "what works for their ailments"
     },
-    "263": {
+    "264": {
         "sentence": "Say things a number of different ways and decide which one you want to lead with.",
         "predicate": [
             {
@@ -3342,7 +3364,7 @@
         "type": "constituent",
         "clause": "which one you want to lead with"
     },
-    "264": {
+    "265": {
         "sentence": "He better know what he's doing, Pat told herself as she tried to slow the spin, growing more uncomfortable with her situation by the moment.",
         "predicate": [
             {
@@ -3354,7 +3376,7 @@
         "type": "constituent",
         "clause": "what he's doing"
     },
-    "265": {
+    "266": {
         "sentence": "Sometimes our customers don\u2019t really know what needs they have and what problems they\u2019re having until we actually go in and roll up our sleeves and talk to them.",
         "predicate": [
             {
@@ -3366,7 +3388,7 @@
         "type": "constituent",
         "clause": "what needs they have"
     },
-    "266": {
+    "267": {
         "sentence": "Sometimes our customers don\u2019t really know what needs they have and what problems they\u2019re having until we actually go in and roll up our sleeves and talk to them.",
         "predicate": [
             {
@@ -3378,7 +3400,7 @@
         "type": "constituent",
         "clause": "what problems they\u2019re having"
     },
-    "267": {
+    "268": {
         "sentence": "His main responsibility is to raise the creativity for companies that hire him so that they decide themselves what measures need to be taken.",
         "predicate": [
             {
@@ -3390,7 +3412,7 @@
         "type": "constituent",
         "clause": "what measures need to be taken"
     },
-    "268": {
+    "269": {
         "sentence": "Man, you don't even know WHAT I'm thinking right now.",
         "predicate": [
             {
@@ -3402,7 +3424,7 @@
         "type": "constituent",
         "clause": "WHAT I'm thinking right now"
     },
-    "269": {
+    "270": {
         "sentence": "And I don't know what you're thinking right now...nor do I want to know.",
         "predicate": [
             {
@@ -3414,7 +3436,7 @@
         "type": "constituent",
         "clause": "what you're thinking right now"
     },
-    "270": {
+    "271": {
         "sentence": "Once I know which angles are of most interest to you, I would be happy to provide sidebar ideas, an estimated word count and a working title.",
         "predicate": [
             {
@@ -3426,7 +3448,7 @@
         "type": "constituent",
         "clause": "which angles are of most interest to you"
     },
-    "271": {
+    "272": {
         "sentence": "Sometimes, I wonder what made me change that much.",
         "predicate": [
             {
@@ -3438,7 +3460,7 @@
         "type": "constituent",
         "clause": "what made me change that much"
     },
-    "272": {
+    "273": {
         "sentence": "It's the fact you know what's going to happen in each chapter, to each character and what's going on throughout the book.",
         "predicate": [
             {
@@ -3450,7 +3472,7 @@
         "type": "constituent",
         "clause": "what's going to happen in each chapter, to each character"
     },
-    "273": {
+    "274": {
         "sentence": "It's the fact you know what's going to happen in each chapter, to each character and what's going on throughout the book.",
         "predicate": [
             {
@@ -3462,7 +3484,7 @@
         "type": "constituent",
         "clause": "what's going on throughout the book"
     },
-    "274": {
+    "275": {
         "sentence": "I might see what other ARC books are on offer next year to take part in.",
         "predicate": [
             {
@@ -3474,7 +3496,7 @@
         "type": "constituent",
         "clause": "what other ARC books are on offer next year to take part in"
     },
-    "275": {
+    "276": {
         "sentence": "Now, for those of you who don't know what Myers is, it's a major department store here in Australia which is usually very expensive.",
         "predicate": [
             {
@@ -3486,7 +3508,7 @@
         "type": "constituent",
         "clause": "what Myers is"
     },
-    "276": {
+    "277": {
         "sentence": "I don't know what happened, or why this has happened, but it's been going really well.",
         "predicate": [
             {
@@ -3498,7 +3520,7 @@
         "type": "constituent",
         "clause": "what happened"
     },
-    "277": {
+    "278": {
         "sentence": "I don't know what happened, or why this has happened, but it's been going really well.",
         "predicate": [
             {
@@ -3510,7 +3532,7 @@
         "type": "constituent",
         "clause": "why this has happened"
     },
-    "278": {
+    "279": {
         "sentence": "Let us all know what you're reading and your opinions of your favourite authors at this time of year.",
         "predicate": [
             {
@@ -3522,7 +3544,7 @@
         "type": "constituent",
         "clause": "what you're reading"
     },
-    "279": {
+    "280": {
         "sentence": "It makes me think about how to write what I want to put out there instead of just typing it out.",
         "predicate": [
             {
@@ -3539,7 +3561,7 @@
         "type": "constituent",
         "clause": "how to write what I want to put out there instead of just typing it out"
     },
-    "280": {
+    "281": {
         "sentence": "This time, I want to ask you, my readers, what your most favourite books of all time are and how many times you've read them.",
         "predicate": [
             {
@@ -3551,7 +3573,7 @@
         "type": "constituent",
         "clause": "what your most favourite books of all time are"
     },
-    "281": {
+    "282": {
         "sentence": "This time, I want to ask you, my readers, what your most favourite books of all time are and how many times you've read them.",
         "predicate": [
             {
@@ -3563,7 +3585,7 @@
         "type": "constituent",
         "clause": "how many times you've read them"
     },
-    "282": {
+    "283": {
         "sentence": "Ever wondered what it is like to hear from your loved one that they have been diagnosed with cancer?",
         "predicate": [
             {
@@ -3575,7 +3597,7 @@
         "type": "constituent",
         "clause": "what it is like to hear from your loved one that they have been diagnosed with cancer"
     },
-    "283": {
+    "284": {
         "sentence": "Ever wondered what it is like to hear from your loved one that they have been diagnosed with cancer?",
         "predicate": [
             {
@@ -3587,7 +3609,7 @@
         "type": "declarative",
         "clause": "that they have been diagnosed with cancer"
     },
-    "284": {
+    "285": {
         "sentence": "I don't know what it was but I was so distressed and so upset that I just ate it.",
         "predicate": [
             {
@@ -3599,7 +3621,7 @@
         "type": "constituent",
         "clause": "what it was"
     },
-    "285": {
+    "286": {
         "sentence": "The first step to setting an intention is deciding what you would like to put your energy towards in your life.",
         "predicate": [
             {
@@ -3611,7 +3633,7 @@
         "type": "constituent",
         "clause": "what you would like to put your energy towards in your life"
     },
-    "286": {
+    "287": {
         "sentence": "I would like to know what exit strategy the Chinese central bank has, if any...",
         "predicate": [
             {
@@ -3623,7 +3645,7 @@
         "type": "constituent",
         "clause": "what exit strategy the Chinese central bank has, if any"
     },
-    "287": {
+    "288": {
         "sentence": "I know exactly what I want in my head, I just have to make it work for the house.",
         "predicate": [
             {
@@ -3635,7 +3657,7 @@
         "type": "constituent",
         "clause": "what I want in my head"
     },
-    "288": {
+    "289": {
         "sentence": "Even his friends aren't sure whether he should come back, leading to a frank discussion of resurrection in the Marvel Universe.",
         "predicate": [
             {
@@ -3652,7 +3674,7 @@
         "type": "polar",
         "clause": "whether he should come back"
     },
-    "289": {
+    "290": {
         "sentence": "Thus water placed in a vessel with a shaving of camphor thrown upon it will show whether the vessel is clean or not.",
         "predicate": [
             {
@@ -3664,7 +3686,7 @@
         "type": "polar",
         "clause": "whether the vessel is clean or not"
     },
-    "290": {
+    "291": {
         "sentence": "This inquiry will help the reader understand whether a relationship between Mexican female politicians and policies created against violence exists.",
         "predicate": [
             {
@@ -3676,7 +3698,7 @@
         "type": "polar",
         "clause": "whether a relationship between Mexican female politicians and policies created against violence exists"
     },
-    "291": {
+    "292": {
         "sentence": "The Fifth Circuit earlier this month issued a highly unusual decision addressing whether state law could \"reverse preempt\" the New York Convention.",
         "predicate": [
             {
@@ -3688,7 +3710,7 @@
         "type": "polar",
         "clause": "whether state law could \"reverse preempt\" the New York Convention"
     },
-    "292": {
+    "293": {
         "sentence": "If a resource is more than 75% busy for sustained periods, take a closer look to see whether or not that level of utilization is acceptable in terms of response time or queue length.",
         "predicate": [
             {
@@ -3700,7 +3722,7 @@
         "type": "polar",
         "clause": "whether or not that level of utilization is acceptable in terms of response time or queue length"
     },
-    "293": {
+    "294": {
         "sentence": "We deny the right of such representation of the female members of the family, but granting this right, for argument's sake, it is very doubtful whether the one vote expresses the views and convictions of all the other members of the family.",
         "predicate": [
             {
@@ -3717,7 +3739,7 @@
         "type": "polar",
         "clause": "whether the one vote expresses the views and convictions of all the other members of the family"
     },
-    "294": {
+    "295": {
         "sentence": "If you have a treatment center in mind you should contact them to determine whether or not they accept your insurance.",
         "predicate": [
             {
@@ -3729,7 +3751,7 @@
         "type": "polar",
         "clause": "whether or not they accept your insurance"
     },
-    "295": {
+    "296": {
         "sentence": "Whether or not it casts those who were directly responsible in a negative light is irrelevant and, frankly, quite insignificant to the larger meaning attributed to the stories.",
         "predicate": [
             {
@@ -3746,7 +3768,7 @@
         "type": "polar",
         "clause": "Whether or not it casts those who were directly responsible in a negative light"
     },
-    "296": {
+    "297": {
         "sentence": "Whether the factory dumps each day is random (so not all factories are active every day, in fact, if all factories were active every day, we couldn't tease apart their signals).",
         "predicate": [
             {
@@ -3763,7 +3785,7 @@
         "type": "polar",
         "clause": "Whether the factory dumps each day"
     },
-    "297": {
+    "298": {
         "sentence": "The court of protection decides whether an attorney who is acting under an existing of the lasting power of attorney should be removed or not.",
         "predicate": [
             {
@@ -3775,7 +3797,7 @@
         "type": "polar",
         "clause": "whether an attorney who is acting under an existing of the lasting power of attorney should be removed or not"
     },
-    "298": {
+    "299": {
         "sentence": "Since both of these are part of the reasons why America is in trouble, the stability of a new America depends on whether or not they remain influential.",
         "predicate": [
             {
@@ -3792,7 +3814,7 @@
         "type": "polar",
         "clause": "whether or not they remain influential"
     },
-    "299": {
+    "300": {
         "sentence": "That, along with the location, helps determine whether the owners would be content living in the given area for the long term.",
         "predicate": [
             {
@@ -3804,7 +3826,7 @@
         "type": "polar",
         "clause": "whether the owners would be content living in the given area for the long term"
     },
-    "300": {
+    "301": {
         "sentence": "We are still unclear as to whether or not Canada is a state.",
         "predicate": [
             {
@@ -3831,7 +3853,7 @@
         "type": "polar",
         "clause": "whether or not Canada is a state"
     },
-    "301": {
+    "302": {
         "sentence": "The lead researcher has now begun further experiments to determine whether this drug can be used to formulate new treatments.",
         "predicate": [
             {
@@ -3843,7 +3865,7 @@
         "type": "polar",
         "clause": "whether this drug can be used to formulate new treatments"
     },
-    "302": {
+    "303": {
         "sentence": "I don't know whether I agree on the parents being unsupportive.",
         "predicate": [
             {
@@ -3855,7 +3877,7 @@
         "type": "polar",
         "clause": "whether I agree on the parents being unsupportive"
     },
-    "303": {
+    "304": {
         "sentence": "Silly, since everybody have little bits about them that are different from most others, but it can be those very things that decide whether or not you're successful with a person.",
         "predicate": [
             {
@@ -3867,7 +3889,7 @@
         "type": "polar",
         "clause": "whether or not you're successful with a person"
     },
-    "304": {
+    "305": {
         "sentence": "But, if the compounds that need to be separated remain colorless, it would be difficult to indicate whether you have obtained the desired compounds or not.",
         "predicate": [
             {
@@ -3879,7 +3901,7 @@
         "type": "polar",
         "clause": "whether you have obtained the desired compounds or not"
     },
-    "305": {
+    "306": {
         "sentence": "If you need help with your online debt payment processing, or you're curious whether we can provide you with a more affordable alternative, you can always reach us here.",
         "predicate": [
             {
@@ -3896,7 +3918,7 @@
         "type": "polar",
         "clause": "whether we can provide you with a more affordable alternative"
     },
-    "306": {
+    "307": {
         "sentence": "As evidence of this, In Thomas de Quinceys Confessions of an English Opium-Eater (1821, p. 188), it is not Ottoman, nor Chinese addicts about whom he writes, But English opium users: \"I question whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had.\"",
         "predicate": [
             {
@@ -3908,7 +3930,7 @@
         "type": "polar",
         "clause": "whether any Turk, of all that ever entered the paradise of opium-eaters, can have had half the pleasure I had."
     },
-    "307": {
+    "308": {
         "sentence": "Most studies using D-aspartic acid supplements did not report whether side effects occurred; long-term studies have not yet been performed using D-aspartic acid.",
         "predicate": [
             {
@@ -3920,7 +3942,7 @@
         "type": "polar",
         "clause": "whether side effects occurred"
     },
-    "308": {
+    "309": {
         "sentence": "Further study is needed to determine whether it should be cycled.",
         "predicate": [
             {
@@ -3932,7 +3954,7 @@
         "type": "polar",
         "clause": "whether it should be cycled"
     },
-    "309": {
+    "310": {
         "sentence": "This aims to help people understand whether they are saving enough for retirement and what they can do to make sure they are prepared for the future in terms of their job, money and health.",
         "predicate": [
             {
@@ -3944,7 +3966,7 @@
         "type": "polar",
         "clause": "whether they are saving enough for retirement"
     },
-    "310": {
+    "311": {
         "sentence": "This aims to help people understand whether they are saving enough for retirement and what they can do to make sure they are prepared for the future in terms of their job, money and health.",
         "predicate": [
             {
@@ -3956,7 +3978,7 @@
         "type": "constituent",
         "clause": "what they can do to make sure they are prepared for the future in terms of their job, money and health"
     },
-    "311": {
+    "312": {
         "sentence": "This aims to help people understand whether they are saving enough for retirement and what they can do to make sure they are prepared for the future in terms of their job, money and health.",
         "predicate": [
             {
@@ -3973,7 +3995,7 @@
         "type": "declarative",
         "clause": "they are prepared for the future in terms of their job, money and health"
     },
-    "312": {
+    "313": {
         "sentence": "And these requirements do not reflect the complex and often messy realities of innovation, let alone capture whether the innovation has negative consequences, such as putting CFCs in refrigerators.",
         "predicate": [
             {
@@ -3985,7 +4007,7 @@
         "type": "polar",
         "clause": "the innovation has negative consequences, such as putting CFCs in refrigerators"
     },
-    "313": {
+    "314": {
         "sentence": "A great deal of expertise has been developed around innovation surveys that ask firms whether they innovate, and in what forms.",
         "predicate": [
             {
@@ -3997,7 +4019,7 @@
         "type": "polar",
         "clause": "whether they innovate"
     },
-    "314": {
+    "315": {
         "sentence": "A great deal of expertise has been developed around innovation surveys that ask firms whether they innovate, and in what forms.",
         "predicate": [
             {
@@ -4009,7 +4031,7 @@
         "type": "constituent",
         "clause": "in what forms"
     },
-    "315": {
+    "316": {
         "sentence": "We must consider upon the evidence before us whether the Germans of the first century held land in private ownership.",
         "predicate": [
             {
@@ -4021,7 +4043,7 @@
         "type": "polar",
         "clause": "whether the Germans of the first century held land in private ownership"
     },
-    "316": {
+    "317": {
         "sentence": "Once the affidavit and proposed order have been received by the court, a judge will consider all of the information you provided and determine whether you qualify for poor person status.",
         "predicate": [
             {
@@ -4033,7 +4055,7 @@
         "type": "polar",
         "clause": "whether you qualify for poor person status"
     },
-    "317": {
+    "318": {
         "sentence": "Sometimes the outcome in a student's life is not dependent on whether he/she studied at an Ivy League school.",
         "predicate": [
             {
@@ -4055,7 +4077,7 @@
         "type": "polar",
         "clause": "whether he/she studied at an Ivy League school"
     },
-    "318": {
+    "319": {
         "sentence": "Marquette went test optional in June, allowing applicants to decide whether to include standardized test scores in their applications.",
         "predicate": [
             {
@@ -4067,7 +4089,7 @@
         "type": "polar",
         "clause": "whether to include standardized test scores in their applications"
     },
-    "319": {
+    "320": {
         "sentence": "Our group of researchers and students considered whether there is a linear link between physical activity levels and mental health and whether sedentary habits, such as sitting all day, influenced this relationship.",
         "predicate": [
             {
@@ -4079,7 +4101,7 @@
         "type": "polar",
         "clause": "whether there is a linear link between physical activity levels and mental health"
     },
-    "320": {
+    "321": {
         "sentence": "Our group of researchers and students considered whether there is a linear link between physical activity levels and mental health and whether sedentary habits, such as sitting all day, influenced this relationship.",
         "predicate": [
             {
@@ -4091,7 +4113,7 @@
         "type": "polar",
         "clause": "whether sedentary habits, such as sitting all day, influenced this relationship"
     },
-    "321": {
+    "322": {
         "sentence": "During a conference call earlier this week, I asked the UNDR's Communications Chief William Orme whether \u201cglobal south was still a useful term.\"",
         "predicate": [
             {
@@ -4103,7 +4125,7 @@
         "type": "polar",
         "clause": "whether \u201cglobal south was still a useful term"
     },
-    "322": {
+    "323": {
         "sentence": "The Good Samaritan did not ask whether the man lying on the road had health insurance.",
         "predicate": [
             {
@@ -4115,7 +4137,7 @@
         "type": "polar",
         "clause": "whether the man lying on the road had health insurance"
     },
-    "323": {
+    "324": {
         "sentence": "But, unlike today, we did not immediately ask them whether we could withdraw food, water and antibiotics to get the death over with as soon as possible.",
         "predicate": [
             {
@@ -4127,7 +4149,7 @@
         "type": "polar",
         "clause": "whether we could withdraw food, water and antibiotics to get the death over with as soon as possible"
     },
-    "324": {
+    "325": {
         "sentence": "But as yet, we still need to do more research before we can conclude with any certainty whether mixing by the marine biosphere is an important part of the ocean's circulation.",
         "predicate": [
             {
@@ -4139,7 +4161,7 @@
         "type": "polar",
         "clause": "whether mixing by the marine biosphere is an important part of the ocean's circulation"
     },
-    "325": {
+    "326": {
         "sentence": "In the current research, Mouradian's team asked whether EHT and caffeine could work together for even greater brain protection.",
         "predicate": [
             {
@@ -4151,7 +4173,7 @@
         "type": "polar",
         "clause": "whether EHT and caffeine could work together for even greater brain protection"
     },
-    "326": {
+    "327": {
         "sentence": "In essence, we just don't know whether the benefits of chest x-rays outweigh the harms (this is important and we'll come back to it later).",
         "predicate": [
             {
@@ -4163,7 +4185,7 @@
         "type": "polar",
         "clause": "whether the benefits of chest x-rays outweigh the harms"
     },
-    "327": {
+    "328": {
         "sentence": "The president will decide in the next few hours whether or not he got enough of what he wanted.",
         "predicate": [
             {
@@ -4175,7 +4197,7 @@
         "type": "polar",
         "clause": "whether or not he got enough of what he wanted"
     },
-    "328": {
+    "329": {
         "sentence": "The police searched this cabin in the caravan park and the owner gave them the address of the couple, but little more is known about this \u2014 and whether there is any information connecting Spedding to this cabin.",
         "predicate": [
             {
@@ -4192,7 +4214,7 @@
         "type": "polar",
         "clause": "whether there is any information connecting Spedding to this cabin"
     },
-    "329": {
+    "330": {
         "sentence": "The police searched the dense bushland of Bonny Hills and Lake Cathie after other tip-offs, but again, it is unknown if there was anything found, and whether this was connected to Spedding.",
         "predicate": [
             {
@@ -4209,7 +4231,7 @@
         "type": "polar",
         "clause": "if there was anything found"
     },
-    "330": {
+    "331": {
         "sentence": "The police searched the dense bushland of Bonny Hills and Lake Cathie after other tip-offs, but again, it is unknown if there was anything found, and whether this was connected to Spedding.",
         "predicate": [
             {
@@ -4226,7 +4248,7 @@
         "type": "polar",
         "clause": "whether this was connected to Spedding"
     },
-    "331": {
+    "332": {
         "sentence": "This information regarding vehicles of interest was not made public knowledge until 12 months after the disappearance, and it is wondered whether an earlier public appeal could have helped the investigation significantly.",
         "predicate": [
             {
@@ -4238,7 +4260,7 @@
         "type": "polar",
         "clause": "whether an earlier public appeal could have helped the investigation significantly"
     },
-    "332": {
+    "333": {
         "sentence": "Although this is not the direction that investigators are moving forward with, it is crucial to establish whether this change of direction is justified.",
         "predicate": [
             {
@@ -4250,7 +4272,7 @@
         "type": "polar",
         "clause": "whether this change of direction is justified"
     },
-    "333": {
+    "334": {
         "sentence": "Where #PeriodsOptional (women can decide whether or not to have periods and have access to the technology/medicine to do so) Where every child is planned (or at least not unwelcome) Where people are not judged by the clothes/shoes/makeup/hair they wear.",
         "predicate": [
             {
@@ -4262,7 +4284,7 @@
         "type": "polar",
         "clause": "whether or not to have periods"
     },
-    "334": {
+    "335": {
         "sentence": "President Donald Trump is considering whether to pull out of the nuclear deal signed with Iran by his predecessor Barack Obama.",
         "predicate": [
             {
@@ -4274,7 +4296,7 @@
         "type": "polar",
         "clause": "whether to pull out of the nuclear deal signed with Iran by his predecessor Barack Obama"
     },
-    "335": {
+    "336": {
         "sentence": "We can consider whether other specialists such as dermatologists may be needed in your treatment plan.",
         "predicate": [
             {
@@ -4286,7 +4308,7 @@
         "type": "polar",
         "clause": "whether other specialists such as dermatologists may be needed in your treatment plan"
     },
-    "336": {
+    "337": {
         "sentence": "But nobody continued to question (as they once had) whether or not the internet was really necessary.",
         "predicate": [
             {
@@ -4298,7 +4320,7 @@
         "type": "polar",
         "clause": "whether or not the internet was really necessary"
     },
-    "337": {
+    "338": {
         "sentence": "Organic acids testing is a way to measure whether your body is getting and using the nutrients needed for key metabolic processes.",
         "predicate": [
             {
@@ -4310,7 +4332,7 @@
         "type": "polar",
         "clause": "whether your body is getting and using the nutrients needed for key metabolic processes"
     },
-    "338": {
+    "339": {
         "sentence": "We didn't want to worry about whether or not we'd have a paycheck every week.",
         "predicate": [
             {
@@ -4327,7 +4349,7 @@
         "type": "polar",
         "clause": "whether or not we'd have a paycheck every week"
     },
-    "339": {
+    "340": {
         "sentence": "Such clustering, though, is not against any NCAA regulations, and it's not even clear whether, or how, the NCAA monitors clustering.",
         "predicate": [
             {
@@ -4344,7 +4366,7 @@
         "type": "polar",
         "clause": "whether"
     },
-    "340": {
+    "341": {
         "sentence": "Such clustering, though, is not against any NCAA regulations, and it's not even clear whether, or how, the NCAA monitors clustering.",
         "predicate": [
             {
@@ -4361,7 +4383,7 @@
         "type": "constituent",
         "clause": "how, the NCAA monitors clustering"
     },
-    "341": {
+    "342": {
         "sentence": "Given the transparent, barely perceptible nature of contact lenses, the first thing you should do is determine whether or not the lens is really still in your eye.",
         "predicate": [
             {
@@ -4373,7 +4395,7 @@
         "type": "polar",
         "clause": "whether or not the lens is really still in your eye"
     },
-    "342": {
+    "343": {
         "sentence": "They will observe the way employees handle their mistakes to determine whether they will excel in their work environment.",
         "predicate": [
             {
@@ -4385,7 +4407,7 @@
         "type": "polar",
         "clause": "whether they will excel in their work environment"
     },
-    "343": {
+    "344": {
         "sentence": "I still get confused as to whether I'm being selfish and in typing this comment I can actually feel myself looking for affirmation from you and other posters.",
         "predicate": [
             {
@@ -4407,7 +4429,7 @@
         "type": "polar",
         "clause": "whether I'm being selfish"
     },
-    "344": {
+    "345": {
         "sentence": "I still doubt at times whether I am making mountains out of mole hills.",
         "predicate": [
             {
@@ -4419,7 +4441,7 @@
         "type": "polar",
         "clause": "whether I am making mountains out of mole hills"
     },
-    "345": {
+    "346": {
         "sentence": "Following a decision by the review panel, [plaintiff] will then decide whether or not to file a malpractice action.",
         "predicate": [
             {
@@ -4431,7 +4453,7 @@
         "type": "polar",
         "clause": "whether or not to file a malpractice action"
     },
-    "346": {
+    "347": {
         "sentence": "LOS ANGELES (AP / FOX 11) - The bankruptcy of the Hanjin shipping line has thrown ports and retailers around the world into confusion, with giant container ships marooned and merchants worrying whether tons of goods will reach their shelves.",
         "predicate": [
             {
@@ -4443,7 +4465,7 @@
         "type": "polar",
         "clause": "whether tons of goods will reach their shelves"
     },
-    "347": {
+    "348": {
         "sentence": "However, unless you're deficient in calcium, which can lead to hair loss, there isn't enough clinical evidence to say whether or not supplementation will provide any hair benefits.",
         "predicate": [
             {
@@ -4455,7 +4477,7 @@
         "type": "polar",
         "clause": "whether or not supplementation will provide any hair benefits"
     },
-    "348": {
+    "349": {
         "sentence": "No Zones (significant blind spots) can make it difficult for a truck driver to tell whether a lane is clear before merging.",
         "predicate": [
             {
@@ -4467,7 +4489,7 @@
         "type": "polar",
         "clause": "whether a lane is clear before merging"
     },
-    "349": {
+    "350": {
         "sentence": "A Dallas spinal cord injury lawyer can help truck accident victims recognize whether or not someone else is liable for damages after a serious spinal cord injury.",
         "predicate": [
             {
@@ -4479,7 +4501,7 @@
         "type": "polar",
         "clause": "whether or not someone else is liable for damages after a serious spinal cord injury"
     },
-    "350": {
+    "351": {
         "sentence": "If a truck driver caused a serious accident or wrongful death, an accident attorney can most likely discover whether he or she cheated on the logbooks.",
         "predicate": [
             {
@@ -4491,7 +4513,7 @@
         "type": "polar",
         "clause": "whether he or she cheated on the logbooks"
     },
-    "351": {
+    "352": {
         "sentence": "So if a trader has an interest in a particular offer, he must find out whether his broker offers that or not.",
         "predicate": [
             {
@@ -4508,7 +4530,7 @@
         "type": "polar",
         "clause": "whether his broker offers that or not"
     },
-    "352": {
+    "353": {
         "sentence": "The parents of a teenager who was forced to leave a specialist school that supports children with severe autism in Bristol are investigating whether they can sue the education watchdog.",
         "predicate": [
             {
@@ -4520,7 +4542,7 @@
         "type": "polar",
         "clause": "whether they can sue the education watchdog"
     },
-    "353": {
+    "354": {
         "sentence": "The problem was this: I had a hard time caring about whether or not Jon Snow was alive, when I knew that, for sure, Prince was dead.",
         "predicate": [
             {
@@ -4537,7 +4559,43 @@
         "type": "polar",
         "clause": "whether or not Jon Snow was alive"
     },
-    "354": {
+    "355": {
+        "sentence": "Why watch Game of Thrones, I thought to myself, why spend a minute caring about the fate of a stompy pious crow, why spend a second wondering about whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex, when you could be listening to Purple Rain?",
+        "predicate": [
+            {
+                "str": "thought",
+                "lemma": "think",
+                "POS": "VERB"
+            }
+        ],
+        "type": "constituent",
+        "clause": "Why watch Game of Thrones"
+    },
+    "356": {
+        "sentence": "Why watch Game of Thrones, I thought to myself, why spend a minute caring about the fate of a stompy pious crow, why spend a second wondering about whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex, when you could be listening to Purple Rain?",
+        "predicate": [
+            {
+                "str": "thought",
+                "lemma": "think",
+                "POS": "VERB"
+            }
+        ],
+        "type": "constituent",
+        "clause": "why spend a minute caring about the fate of a stompy pious crow"
+    },
+    "357": {
+        "sentence": "Why watch Game of Thrones, I thought to myself, why spend a minute caring about the fate of a stompy pious crow, why spend a second wondering about whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex, when you could be listening to Purple Rain?",
+        "predicate": [
+            {
+                "str": "thought",
+                "lemma": "think",
+                "POS": "VERB"
+            }
+        ],
+        "type": "constituent",
+        "clause": "why spend a second wondering about whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex"
+    },
+    "358": {
         "sentence": "Why watch Game of Thrones, I thought to myself, why spend a minute caring about the fate of a stompy pious crow, why spend a second wondering about whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex, when you could be listening to Purple Rain?",
         "predicate": [
             {
@@ -4554,7 +4612,7 @@
         "type": "polar",
         "clause": "whether or not Melisandre was going to nudely revive him with the vampish machinations this show sometimes uses as a stand in for sex"
     },
-    "355": {
+    "359": {
         "sentence": "Because ART is so effective at reducing viral load, without the randomized control group of participants taking ART alone to compare against, we couldn't have been so confident in knowing whether the kick and kill drugs had made any impact.",
         "predicate": [
             {
@@ -4566,7 +4624,7 @@
         "type": "polar",
         "clause": "whether the kick and kill drugs had made any impact."
     },
-    "356": {
+    "360": {
         "sentence": "I loved thinking about whether or not penguins even dream, and that thought sparked a long conversation.",
         "predicate": [
             {
@@ -4583,7 +4641,7 @@
         "type": "polar",
         "clause": "whether or not penguins even dream"
     },
-    "357": {
+    "361": {
         "sentence": "The investigation is still ongoing, so it's not clear whether coverage under the Occupational Health and Safety Act could have prevented Adam's death, but it's telling, however, that the investigation is being led by the Niagara Regional Police Service because the Ministry of Labour does not have jurisdiction over occupational health and safety issues related to unpaid work.",
         "predicate": [
             {
@@ -4600,7 +4658,7 @@
         "type": "polar",
         "clause": "whether coverage under the Occupational Health and Safety Act could have prevented Adam's death"
     },
-    "358": {
+    "362": {
         "sentence": "The investigation is still ongoing, so it's not clear whether coverage under the Occupational Health and Safety Act could have prevented Adam's death, but it's telling, however, that the investigation is being led by the Niagara Regional Police Service because the Ministry of Labour does not have jurisdiction over occupational health and safety issues related to unpaid work.",
         "predicate": [
             {
@@ -4617,7 +4675,7 @@
         "type": "declarative",
         "clause": "that the investigation is being led by the Niagara Regional Police Service"
     },
-    "359": {
+    "363": {
         "sentence": "The people in the business need to know whether or not they can survive, whether there's a business case for them to be able to survive.",
         "predicate": [
             {
@@ -4629,7 +4687,7 @@
         "type": "polar",
         "clause": "whether or not they can survive"
     },
-    "360": {
+    "364": {
         "sentence": "The people in the business need to know whether or not they can survive, whether there's a business case for them to be able to survive.",
         "predicate": [
             {
@@ -4641,7 +4699,7 @@
         "type": "polar",
         "clause": "whether there's a business case for them to be able to survive"
     },
-    "361": {
+    "365": {
         "sentence": "It is doubtful whether the strategy will be successful.",
         "predicate": [
             {
@@ -4658,7 +4716,7 @@
         "type": "polar",
         "clause": "whether the strategy will be successful"
     },
-    "362": {
+    "366": {
         "sentence": "In early May, another retired SFPD officer contacted The Chronicle, asking whether reporters had heard of Building 606.",
         "predicate": [
             {
@@ -4670,7 +4728,7 @@
         "type": "polar",
         "clause": "whether reporters had heard of Building 606"
     },
-    "363": {
+    "367": {
         "sentence": "Next steps in the research involve analyzing whether species that have longer lifespans than humans--like the bowhead whale, which can live more than 200 years--have evolved even more robust SIRT6 genes.",
         "predicate": [
             {
@@ -4682,7 +4740,7 @@
         "type": "polar",
         "clause": "whether species that have longer lifespans than humans--like the bowhead whale, which can live more than 200 years--have evolved even more robust SIRT6 genes"
     },
-    "364": {
+    "368": {
         "sentence": "The court is not being asked to make a ruling on the substance of the Kenyans' allegations but to decide whether a fair trial can be held so long after the events.",
         "predicate": [
             {
@@ -4694,7 +4752,7 @@
         "type": "polar",
         "clause": "whether a fair trial can be held so long after the events"
     },
-    "365": {
+    "369": {
         "sentence": "Therefore, those who have not received the overtime pay they are entitled to may want to learn more about whether they are able to recover that compensation through a wage and hour claim.",
         "predicate": [
             {
@@ -4711,7 +4769,7 @@
         "type": "polar",
         "clause": "whether they are able to recover that compensation through a wage and hour claim"
     },
-    "366": {
+    "370": {
         "sentence": "Now Italy's courts are fighting over whether a barbaric Sicilian capo should get the right to die with dignity.",
         "predicate": [
             {
@@ -4728,7 +4786,7 @@
         "type": "polar",
         "clause": "whether a barbaric Sicilian capo should get the right to die with dignity"
     },
-    "367": {
+    "371": {
         "sentence": "When you start to doubt yourself and your own mind, it may be time to look into whether you are in an abusive relationship with a \u201ccrazy maker\u009d.\"",
         "predicate": [
             {
@@ -4745,7 +4803,7 @@
         "type": "polar",
         "clause": "whether you are in an abusive relationship with a \u201ccrazy maker\u009d"
     },
-    "368": {
+    "372": {
         "sentence": "They'll tell you all about this, and whether they have any charges, when you first contact them.",
         "predicate": [
             {
@@ -4757,7 +4815,7 @@
         "type": "polar",
         "clause": "whether they have any charges"
     },
-    "369": {
+    "373": {
         "sentence": "Then the group, the Molecular Tumor Board (MTB), decides whether to send cases out for genetic sequencing to help identify a new course of action.",
         "predicate": [
             {
@@ -4769,7 +4827,7 @@
         "type": "polar",
         "clause": "whether to send cases out for genetic sequencing to help identify a new course of action"
     },
-    "370": {
+    "374": {
         "sentence": "There's a very arbitrary 48-hour deadline imposed by Michael's boss, forcing Michael to decide whether he wants to try to make a go of it with Jane in Miami.",
         "predicate": [
             {
@@ -4781,7 +4839,7 @@
         "type": "polar",
         "clause": "whether he wants to try to make a go of it with Jane in Miami"
     },
-    "371": {
+    "375": {
         "sentence": "Doctors and medical malpractice insurance companies currently must live with this 'bad outcome' ruling, although it is often unknown whether a better outcome was possible.",
         "predicate": [
             {
@@ -4798,7 +4856,7 @@
         "type": "polar",
         "clause": "whether a better outcome was possible"
     },
-    "372": {
+    "376": {
         "sentence": "To help you know whether your cheerleading youngsters are protected from unreasonable risk, the AACA advises talking to the school's cheerleading coach about safety.",
         "predicate": [
             {
@@ -4810,7 +4868,7 @@
         "type": "polar",
         "clause": "whether your cheerleading youngsters are protected from unreasonable risk"
     },
-    "373": {
+    "377": {
         "sentence": "Juveniles too often are questioned by police and enter guilty pleas in court without a lawyer and have no one to investigate their case or understand whether a plea disposition is appropriate, said Kim Dvorchak, executive director of NJDC.",
         "predicate": [
             {
@@ -4822,7 +4880,7 @@
         "type": "polar",
         "clause": "whether a plea disposition is appropriate"
     },
-    "374": {
+    "378": {
         "sentence": "Those of us in New Jersey can support the adoption of Senate Bill 677, sponsored by Sen. Ronald L. Rice, which would require our legislature to issue racial impact statements to assess whether proposed legislation will have a disproportionate racial impact.",
         "predicate": [
             {
@@ -4834,7 +4892,7 @@
         "type": "polar",
         "clause": "whether proposed legislation will have a disproportionate racial impact"
     },
-    "375": {
+    "379": {
         "sentence": "With the country's departure set for March 29, it remains unclear whether British lawmakers will approve the divorce deal the government negotiated with the EU.",
         "predicate": [
             {
@@ -4851,7 +4909,7 @@
         "type": "polar",
         "clause": "whether British lawmakers will approve the divorce deal the government negotiated with the EU"
     },
-    "376": {
+    "380": {
         "sentence": "The Washington State Transportation Commission will propose toll increases for the Tacoma Narrows Bridge Tuesday, and the amount will hinge on whether it wants a big reserve fund.",
         "predicate": [
             {
@@ -4868,7 +4926,7 @@
         "type": "polar",
         "clause": "whether it wants a big reserve fund"
     },
-    "377": {
+    "381": {
         "sentence": "The way the process works, the Transportation Commission views the citizen group's recommendation as the low point, discusses whether it's enough, but usually accepts it or inches it up.",
         "predicate": [
             {
@@ -4880,7 +4938,7 @@
         "type": "polar",
         "clause": "whether it's enough"
     },
-    "378": {
+    "382": {
         "sentence": "If ICE shows up on a worksite on a \u201ctip\"\u009d\u2013 without a warrant \u2013 then it's up to the employer to decide whether to let ICE inspect the premises.",
         "predicate": [
             {
@@ -4892,7 +4950,7 @@
         "type": "polar",
         "clause": "whether to let ICE inspect the premises"
     },
-    "379": {
+    "383": {
         "sentence": "They did not realize whether this man was a devil or not.",
         "predicate": [
             {
@@ -4904,7 +4962,7 @@
         "type": "polar",
         "clause": "whether this man was a devil or not"
     },
-    "380": {
+    "384": {
         "sentence": "The economy may be improving slightly but, perhaps more importantly, the other guys are talking about restricting the accessibility of birth control or whether or not women should be in the workplace or the extent to which the devil has infiltrated American institutions among other crazy things.",
         "predicate": [
             {
@@ -4921,7 +4979,7 @@
         "type": "polar",
         "clause": "whether or not women should be in the workplace"
     },
-    "381": {
+    "385": {
         "sentence": "Measuring whether the segments' amount of existing space is sufficient and appropriate is difficult.",
         "predicate": [
             {
@@ -4933,7 +4991,7 @@
         "type": "polar",
         "clause": "whether the segments' amount of existing space is sufficient and appropriate"
     },
-    "382": {
+    "386": {
         "sentence": "It doesnt care and couldnt care whether you have to get up early to go to work and that waking up at 3:00 a.m. to answer its demand for food is not very considerate of it.",
         "predicate": [
             {
@@ -4945,7 +5003,7 @@
         "type": "polar",
         "clause": "whether you have to get up early to go to work"
     },
-    "383": {
+    "387": {
         "sentence": "It doesnt care and couldnt care whether you have to get up early to go to work and that waking up at 3:00 a.m. to answer its demand for food is not very considerate of it.",
         "predicate": [
             {
@@ -4957,7 +5015,7 @@
         "type": "declarative",
         "clause": "that waking up at 3:00 a.m. to answer its demand for food is not very considerate of it"
     },
-    "384": {
+    "388": {
         "sentence": "\"Because of (this) the brain scientists have begun to wonder whether our normal feeling of being one person is also an illusion, even though our brains remain whole.",
         "predicate": [
             {
@@ -4969,7 +5027,7 @@
         "type": "polar",
         "clause": "whether our normal feeling of being one person is also an illusion, even though our brains remain whole"
     },
-    "385": {
+    "389": {
         "sentence": "But beware, the availability of money will depend on whether the day is work or not and if your bank is part of the entities with which Single credits works.",
         "predicate": [
             {
@@ -4986,7 +5044,7 @@
         "type": "polar",
         "clause": "whether the day is work or not"
     },
-    "386": {
+    "390": {
         "sentence": "But beware, the availability of money will depend on whether the day is work or not and if your bank is part of the entities with which Single credits works.",
         "predicate": [
             {
@@ -5003,7 +5061,7 @@
         "type": "polar",
         "clause": "if your bank is part of the entities with which Single credits works"
     },
-    "387": {
+    "391": {
         "sentence": "Just some more head fakes on the birth issue and some whining from Crowley about not getting to see whether he took economics at Columbia.",
         "predicate": [
             {
@@ -5015,7 +5073,7 @@
         "type": "polar",
         "clause": "whether he took economics at Columbia"
     },
-    "388": {
+    "392": {
         "sentence": "Psychologists based at University College London and Exeter University are testing whether a one-off dose of the drug could help hazardous drinkers who are trying to reduce their alcohol intake.",
         "predicate": [
             {
@@ -5027,7 +5085,7 @@
         "type": "polar",
         "clause": "whether a one-off dose of the drug could help hazardous drinkers who are trying to reduce their alcohol intake"
     },
-    "389": {
+    "393": {
         "sentence": "The team will follow up the people for a year and monitor whether their drinking has changed and by how much.",
         "predicate": [
             {
@@ -5039,7 +5097,7 @@
         "type": "polar",
         "clause": "whether their drinking has changed"
     },
-    "390": {
+    "394": {
         "sentence": "Feasibility: in this phase the organisers evaluate whether a foresight exercise is appropriate given the context and whether it will be able to yield valuable impacts on the system addressed.",
         "predicate": [
             {
@@ -5051,7 +5109,7 @@
         "type": "polar",
         "clause": "whether a foresight exercise is appropriate given the context"
     },
-    "391": {
+    "395": {
         "sentence": "Feasibility: in this phase the organisers evaluate whether a foresight exercise is appropriate given the context and whether it will be able to yield valuable impacts on the system addressed.",
         "predicate": [
             {
@@ -5063,7 +5121,7 @@
         "type": "polar",
         "clause": "whether it will be able to yield valuable impacts on the system addressed"
     },
-    "392": {
+    "396": {
         "sentence": "We don't know whether Zimphos is meeting air quality control standards.",
         "predicate": [
             {
@@ -5075,7 +5133,7 @@
         "type": "polar",
         "clause": "whether Zimphos is meeting air quality control standards"
     },
-    "393": {
+    "397": {
         "sentence": "The church was rebuilt after an earthquake in 1805, but the town suffered heavy damage in World War II, and it is not known whether the traditional local practices have survived to this day.",
         "predicate": [
             {
@@ -5087,7 +5145,7 @@
         "type": "polar",
         "clause": "whether the traditional local practices have survived to this day"
     },
-    "394": {
+    "398": {
         "sentence": "It is not known whether this piece, dating from the 1st century, is actually on display, as it might be considered offensive or even blasphemous.",
         "predicate": [
             {
@@ -5099,7 +5157,7 @@
         "type": "polar",
         "clause": "whether this piece, dating from the 1st century, is actually on display"
     },
-    "395": {
+    "399": {
         "sentence": "As for presidential front-runner Andr\u00c3\u00a9s Manuel L\u00c3\u00b3pez Obrador (AMLO), he may do better than expected \u2014 it will all depend on whether the electorate believes he can improve the security situation.",
         "predicate": [
             {
@@ -5116,7 +5174,7 @@
         "type": "polar",
         "clause": "whether the electorate believes he can improve the security situation"
     },
-    "396": {
+    "400": {
         "sentence": "As for presidential front-runner Andr\u00c3\u00a9s Manuel L\u00c3\u00b3pez Obrador (AMLO), he may do better than expected \u2014 it will all depend on whether the electorate believes he can improve the security situation.",
         "predicate": [
             {
@@ -5128,7 +5186,7 @@
         "type": "declarative",
         "clause": "he can improve the security situation"
     },
-    "397": {
+    "401": {
         "sentence": "But now the beautiful actress broke the silence and revealed whether she is indeed succumbed to his charm.",
         "predicate": [
             {
@@ -5140,7 +5198,7 @@
         "type": "polar",
         "clause": "whether she is indeed succumbed to his charm"
     },
-    "398": {
+    "402": {
         "sentence": "We're not sure whether pollsters were referring to Los Stop's version, Con su blanca palidez, though somehow we suspect not.",
         "predicate": [
             {
@@ -5157,7 +5215,7 @@
         "type": "polar",
         "clause": "whether pollsters were referring to Los Stop's version, Con su blanca palidezs"
     },
-    "399": {
+    "403": {
         "sentence": "His Bachelor thesis was titled \"Journalism & Trauma\", in which he wanted to examine whether German editorial offices are preparing their war correspondents sufficiently for their operations abroad.",
         "predicate": [
             {
@@ -5169,7 +5227,7 @@
         "type": "polar",
         "clause": "whether German editorial offices are preparing their war correspondents sufficiently for their operations abroad"
     },
-    "400": {
+    "404": {
         "sentence": "The scientists in New Zealand want to expand their study to find out whether other insect species worldwide transfer LHUV-1 and, if so, which ones.",
         "predicate": [
             {
@@ -5186,7 +5244,7 @@
         "type": "polar",
         "clause": "whether other insect species worldwide transfer LHUV-1"
     },
-    "401": {
+    "405": {
         "sentence": "The scientists in New Zealand want to expand their study to find out whether other insect species worldwide transfer LHUV-1 and, if so, which ones.",
         "predicate": [
             {
@@ -5203,7 +5261,7 @@
         "type": "constituent",
         "clause": "which ones"
     },
-    "402": {
+    "406": {
         "sentence": "If the thought of only having a one glass of wine, on special occasions makes you nervous, perhaps you need to wonder whether or not alcohol is something that you are using as a coping mechanism, rather than something that you are choosing to enjoy for pleasure.",
         "predicate": [
             {
@@ -5215,7 +5273,7 @@
         "type": "polar",
         "clause": "whether or not alcohol is something that you are using as a coping mechanism, rather than something that you are choosing to enjoy for pleasure."
     },
-    "403": {
+    "407": {
         "sentence": "Al Hamili remained non-committal on whether or not Opec would increase output in view of the of the current market volatility.",
         "predicate": [
             {
@@ -5237,7 +5295,7 @@
         "type": "polar",
         "clause": "whether or not Opec would increase output in view of the of the current market volatility"
     },
-    "404": {
+    "408": {
         "sentence": "This article is a few years old, but a friend sent it to me asking whether it's an accurate description of living as a writer in New Orleans.",
         "predicate": [
             {
@@ -5249,7 +5307,7 @@
         "type": "polar",
         "clause": "whether it's an accurate description of living as a writer in New Orleans"
     },
-    "405": {
+    "409": {
         "sentence": "Attorneys also look into whether or not a company's protocols were followed and how this affected the situation.",
         "predicate": [
             {
@@ -5266,7 +5324,7 @@
         "type": "polar",
         "clause": "whether or not a company's protocols were followed"
     },
-    "406": {
+    "410": {
         "sentence": "Attorneys also look into whether or not a company's protocols were followed and how this affected the situation.",
         "predicate": [
             {
@@ -5283,7 +5341,7 @@
         "type": "constituent",
         "clause": "how this affected the situation"
     },
-    "407": {
+    "411": {
         "sentence": "The Board members who were aware of the article should have inquired further about Sandusky and the possible risks of litigation or public relations issues, and, most importantly, whether the University has effective policies in place to protect children on its campuses.",
         "predicate": [
             {
@@ -5300,7 +5358,7 @@
         "type": "polar",
         "clause": "whether the University has effective policies in place to protect children on its campuses"
     },
-    "408": {
+    "412": {
         "sentence": "For this, the Commission will also assess whether the law provides for a balance between the promotion of Ukrainian and guarantees for minority languages.",
         "predicate": [
             {
@@ -5312,7 +5370,7 @@
         "type": "polar",
         "clause": "whether the law provides for a balance between the promotion of Ukrainian and guarantees for minority languages"
     },
-    "409": {
+    "413": {
         "sentence": "But as an aside, I'm also hesitant as to whether we can really say that Jesus and people of his time were ethnically egalitarian in our modern sense.",
         "predicate": [
             {
@@ -5334,7 +5392,7 @@
         "type": "polar",
         "clause": "whether we can really say that Jesus and people of his time were ethnically egalitarian in our modern sense"
     },
-    "410": {
+    "414": {
         "sentence": "But as an aside, I'm also hesitant as to whether we can really say that Jesus and people of his time were ethnically egalitarian in our modern sense.",
         "predicate": [
             {
@@ -5346,7 +5404,7 @@
         "type": "declarative",
         "clause": "that Jesus and people of his time were ethnically egalitarian in our modern sense"
     },
-    "411": {
+    "415": {
         "sentence": "A systematic assessment of the content of aristolochic acids in the most widely used species is needed to evaluate whether their uses pose a potential health risk.",
         "predicate": [
             {
@@ -5358,7 +5416,7 @@
         "type": "polar",
         "clause": "whether their uses pose a potential health risk"
     },
-    "412": {
+    "416": {
         "sentence": "In China and Europe species of Aristolochia have been associated with nephropathy and it is important to evaluate whether nephropathy occurs in other parts of the world, especially India and Central America where the use of species of Aristolochia are reported to be commonly used in traditional medicine.",
         "predicate": [
             {
@@ -5370,7 +5428,7 @@
         "type": "polar",
         "clause": "whether nephropathy occurs in other parts of the world, especially India and Central America where the use of species of Aristolochia are reported to be commonly used in traditional medicine"
     },
-    "413": {
+    "417": {
         "sentence": "With such a range of outcomes, it is fair to ask whether you need a personal injury lawyer after a car accident.",
         "predicate": [
             {
@@ -5382,7 +5440,7 @@
         "type": "polar",
         "clause": "whether you need a personal injury lawyer after a car accident"
     },
-    "414": {
+    "418": {
         "sentence": "Seeing a doctor after the accident can help determine whether you have one of these types of injuries.",
         "predicate": [
             {
@@ -5394,7 +5452,7 @@
         "type": "polar",
         "clause": "whether you have one of these types of injuries"
     },
-    "415": {
+    "419": {
         "sentence": "We think about whether that wheel was a good buy.",
         "predicate": [
             {
@@ -5411,7 +5469,7 @@
         "type": "polar",
         "clause": "whether that wheel was a good buy"
     },
-    "416": {
+    "420": {
         "sentence": "For example, in deciding whether to grant a nonimmigrant visa, the USCIS will determine whether the applicant truly intends to return to his or her country when the visa expires.",
         "predicate": [
             {
@@ -5423,7 +5481,7 @@
         "type": "polar",
         "clause": "whether to grant a nonimmigrant visa"
     },
-    "417": {
+    "421": {
         "sentence": "For example, in deciding whether to grant a nonimmigrant visa, the USCIS will determine whether the applicant truly intends to return to his or her country when the visa expires.",
         "predicate": [
             {
@@ -5435,7 +5493,7 @@
         "type": "polar",
         "clause": "whether the applicant truly intends to return to his or her country when the visa expires"
     },
-    "418": {
+    "422": {
         "sentence": "Personal taste will dictate whether you find it wonderful or not, but I seriously doubt you'll enjoy it as much as the holiday classic that the narrator alludes to.",
         "predicate": [
             {
@@ -5447,7 +5505,7 @@
         "type": "polar",
         "clause": "whether you find it wonderful or not"
     },
-    "419": {
+    "423": {
         "sentence": "Personal taste will dictate whether you find it wonderful or not, but I seriously doubt you'll enjoy it as much as the holiday classic that the narrator alludes to.",
         "predicate": [
             {
@@ -5459,7 +5517,7 @@
         "type": "declarative",
         "clause": "you'll enjoy it as much as the holiday classic that the narrator alludes to"
     },
-    "420": {
+    "424": {
         "sentence": "I am trying to scout whether the Chairperson is here.",
         "predicate": [
             {
@@ -5471,7 +5529,7 @@
         "type": "polar",
         "clause": "whether the Chairperson is here"
     },
-    "421": {
+    "425": {
         "sentence": "Temporary Speaker, Sir, I would like the Chairperson to state:- (a) Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter.",
         "predicate": [
             {
@@ -5483,7 +5541,7 @@
         "type": "polar",
         "clause": "Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter"
     },
-    "422": {
+    "426": {
         "sentence": "Temporary Speaker, Sir, I would like the Chairperson to state:- (a) Whether he is aware that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter.",
         "predicate": [
             {
@@ -5500,7 +5558,7 @@
         "type": "declarative",
         "clause": "that guidelines provided by the Government on how much fees public schools should charge are not followed to the letter"
     },
-    "423": {
+    "427": {
         "sentence": "I do not know whether I am the only one who heard my good friend, the simba from Kirinyaga mention that some\"\u009d.\"",
         "predicate": [
             {
@@ -5512,7 +5570,7 @@
         "type": "polar",
         "clause": "whether I am the only one who heard my good friend, the simba from Kirinyaga mention that some\"\u009d.\""
     },
-    "424": {
+    "428": {
         "sentence": "I do not know whether I am the only one who heard my good friend, the simba from Kirinyaga mention that some\"\u009d.\"",
         "predicate": [
             {
@@ -5524,7 +5582,7 @@
         "type": "declarative",
         "clause": "that some\"\u009d.\""
     },
-    "425": {
+    "429": {
         "sentence": "The course analyzes the criteria for determining whether or not a particular promise or voluntary agreement is legally enforceable and surveys the major legal issues affecting enforceable agreements.",
         "predicate": [
             {
@@ -5536,7 +5594,7 @@
         "type": "polar",
         "clause": "whether or not a particular promise or voluntary agreement is legally enforceable"
     },
-    "426": {
+    "430": {
         "sentence": "But when asked whether early, pre-album hits \u2014 like \u2018Sweater' and \u2018Turn Up Your Stereo' \u2014 ever make an appearance on live set lists, Kav shudders.",
         "predicate": [
             {
@@ -5548,7 +5606,7 @@
         "type": "polar",
         "clause": "whether early, pre-album hits \u2014 like \u2018Sweater' and \u2018Turn Up Your Stereo' \u2014 ever make an appearance on live set lists"
     },
-    "427": {
+    "431": {
         "sentence": "Whether, in a case of such collaboration between state and federal officers, the defendant could successfully assert his privilege in the state proceeding, we need not now decide, for the record before us is barren of evidence that the State was used as an instrument of federal prosecution or investigation.",
         "predicate": [
             {
@@ -5560,7 +5618,7 @@
         "type": "polar",
         "clause": "Whether, in a case of such collaboration between state and federal officers, the defendant could successfully assert his privilege in the state proceeding"
     },
-    "428": {
+    "432": {
         "sentence": "Talk to your doctor to see if taking antidepressants can help to reduce your symptoms of atheophobia, as well as whether or not it is safe to do so.",
         "predicate": [
             {
@@ -5572,7 +5630,7 @@
         "type": "polar",
         "clause": "if taking antidepressants can help to reduce your symptoms of atheophobia"
     },
-    "429": {
+    "433": {
         "sentence": "Talk to your doctor to see if taking antidepressants can help to reduce your symptoms of atheophobia, as well as whether or not it is safe to do so.",
         "predicate": [
             {
@@ -5584,7 +5642,7 @@
         "type": "polar",
         "clause": "whether or not it is safe to do so"
     },
-    "430": {
+    "434": {
         "sentence": "Willis therefore called on several Bulgarian ministers and they agreed to consider whether to renew the offer.",
         "predicate": [
             {
@@ -5596,7 +5654,7 @@
         "type": "polar",
         "clause": "whether to renew the offer"
     },
-    "431": {
+    "435": {
         "sentence": "The Foreign Office followed this up and the Office of Works asked the Treasury whether, if a new site was offered, it would support building a new house on it for the agent and consul-general.",
         "predicate": [
             {
@@ -5608,7 +5666,7 @@
         "type": "polar",
         "clause": "whether, if a new site was offered, it would support building a new house on it for the agent and consul-general"
     },
-    "432": {
+    "436": {
         "sentence": "I question whether any of this is really possible today, though.",
         "predicate": [
             {
@@ -5620,7 +5678,7 @@
         "type": "polar",
         "clause": "whether any of this is really possible today"
     },
-    "433": {
+    "437": {
         "sentence": "The Ministry will then decide whether the relevant facility's impact on the environment is acceptable within the framework of the applicable legislation.",
         "predicate": [
             {
@@ -5632,7 +5690,7 @@
         "type": "polar",
         "clause": "whether the relevant facility's impact on the environment is acceptable within the framework of the applicable legislation"
     },
-    "434": {
+    "438": {
         "sentence": "For activities within the scope of Annex II of the EIA Regulation (projects subject to election and assessment criteria), an EIA presentation file must be submitted to the Ministry or the relevant authority, who will then assess whether preparation of an EIA report is required for the specific project.",
         "predicate": [
             {
@@ -5644,7 +5702,7 @@
         "type": "polar",
         "clause": "whether preparation of an EIA report is required for the specific project"
     },
-    "435": {
+    "439": {
         "sentence": "Hyperion, it was awesome, but a warning that the first few pages are pretty lack-lustre and cliche sci-fi-ish so I nearly gave up on it (and friends have had the same experience) \u2014 but once it hits the first tale (the priest's tale) it starts to get really intriguing and compelling and not cliche ... So I'd suggest waiting till you get into that before deciding whether to persist.",
         "predicate": [
             {
@@ -5656,7 +5714,7 @@
         "type": "polar",
         "clause": "whether to persist"
     },
-    "436": {
+    "440": {
         "sentence": "There are a number of quizzes and symptom checkers online that you can use to try to determine whether you have anxiety.",
         "predicate": [
             {
@@ -5667,8 +5725,8 @@
         ],
         "type": "polar",
         "clause": "whether you have anxiety"
-    }, 
-    "437": {
+    },
+    "441": {
         "sentence": "The first case study analyzes whether female PRI Senator Diva Gastelum represents her constituents through descriptive or substantives representation.",
         "predicate": [
             {
@@ -5680,7 +5738,7 @@
         "type": "alternative",
         "clause": "whether female PRI Senator Diva Gastelum represents her constituents through descriptive or substantives representation"
     },
-    "438": {
+    "442": {
         "sentence": "The best example of this is her often touted masterpiece, The Rising of the Moon (1945), which is narrated by a 13-year-old boy and is better read as a coming-of-age story with strong mystery elements than as a pure detective story \u2013 because the ending leaves you scratching your head in utter amazement (it's up to the individual reader to decide whether that's a good thing or a bad thing).",
         "predicate": [
             {
@@ -5692,7 +5750,7 @@
         "type": "alternative",
         "clause": "whether that's a good thing or a bad thing"
     },
-    "439": {
+    "443": {
         "sentence": "Whether a molecular configuration is designated E or Z is determined by the Cahn-Ingold-Prelog priority rules; higher atomic numbers are given higher priority.",
         "predicate": [
             {
@@ -5704,7 +5762,7 @@
         "type": "alternative",
         "clause": "Whether a molecular configuration is designated E or Z"
     },
-    "440": {
+    "444": {
         "sentence": "Whether the \u2018drop\u2019 of the record reverberates on a micro-scale, or to Grand Canyon echo-type proportions, you can never know.",
         "predicate": [
             {
@@ -5716,7 +5774,7 @@
         "type": "alternative",
         "clause": "Whether the \u2018drop\u2019 of the record reverberates on a micro-scale, or to Grand Canyon echo-type proportions"
     },
-    "441": {
+    "445": {
         "sentence": "Different weights are assigned to the words based on whether they appear in the title, subheadings or the body of the page and the number of times a particular word appears in the webpage is stored.",
         "predicate": [
             {
@@ -5733,7 +5791,7 @@
         "type": "alternative",
         "clause": "whether they appear in the title, subheadings or the body of the page"
     },
-    "442": {
+    "446": {
         "sentence": "* FIFA members will decide on Wednesday (June 13) whether the 2026 World Cup should be played in North America or return to Africa for just the second time, in Morocco.",
         "predicate": [
             {
@@ -5745,7 +5803,7 @@
         "type": "alternative",
         "clause": "whether the 2026 World Cup should be played in North America or return to Africa for just the second time, in Morocco"
     },
-    "443": {
+    "447": {
         "sentence": "Ultimately, only I get to determine whether I am a victim, a villain, or a victor.",
         "predicate": [
             {
@@ -5757,7 +5815,7 @@
         "type": "alternative",
         "clause": "whether I am a victim, a villain, or a victor"
     },
-    "444": {
+    "448": {
         "sentence": "Last season he was basically a training cone, not knowing whether to engage his opponent or stand off.",
         "predicate": [
             {
@@ -5769,7 +5827,7 @@
         "type": "alternative",
         "clause": "whether to engage his opponent or stand off"
     },
-    "445": {
+    "449": {
         "sentence": "On February 3rd, Kaplan will decide whether Rocco must return to New York, and his mother, or whether he can stay in London with his father.",
         "predicate": [
             {
@@ -5781,7 +5839,7 @@
         "type": "alternative",
         "clause": "whether Rocco must return to New York, and his mother, or whether he can stay in London with his father"
     },
-    "446": {
+    "450": {
         "sentence": "Whether a person is \u2018male\u2019 or \u2018female\u2019 is not defined by testosterone levels, and there are no non-arbitrary definitions of testosterone levels that would make a person one of the other.",
         "predicate": [
             {
@@ -5793,7 +5851,7 @@
         "type": "alternative",
         "clause": "Whether a person is \u2018male\u2019 or \u2018female\u2019"
     },
-    "447": {
+    "451": {
         "sentence": "We must decide whether this exception applies only to insurance company boycotts of agents and other companies or also applies to refusals to deal with policyholders.",
         "predicate": [
             {
@@ -5805,7 +5863,7 @@
         "type": "alternative",
         "clause": "whether this exception applies only to insurance company boycotts of agents and other companies or also applies to refusals to deal with policyholders"
     },
-    "448": {
+    "452": {
         "sentence": "(Whether the management (M) answered the question or the works council (WC) is illustrated in brackets.)",
         "predicate": [
             {
@@ -5817,7 +5875,7 @@
         "type": "alternative",
         "clause": "Whether the management (M) answered the question or the works council (WC)"
     },
-    "449": {
+    "453": {
         "sentence": "Count Dracula (Gary Oldman, I mean \u2013 but these days he looks as old as his make up made him appear in Dracula\u2026)is bit of a clichee, and the female lead at the end wants so much to look like Sarah Connor that it is almost confusing whether she will next have a baby with Arnold Schwarzenegger or go and kill the bad guys.",
         "predicate": [
             {
@@ -5834,7 +5892,7 @@
         "type": "alternative",
         "clause": "whether she will next have a baby with Arnold Schwarzenegger or go and kill the bad guys"
     },
-    "450": {
+    "454": {
         "sentence": "Firstly by seeing one of our trained Doctors we can determine whether this is Allergic Contact Dermatitis or another rash by the pattern of the rash and history.",
         "predicate": [
             {
@@ -5846,7 +5904,7 @@
         "type": "alternative",
         "clause": "whether this is Allergic Contact Dermatitis or another rash"
     },
-    "451": {
+    "455": {
         "sentence": "My treatments are covered by worker's compensation, however, to get what I need takes months of fighting with them about whether the issue at hand has anything to do with a TBI or is even related to the assault at all.",
         "predicate": [
             {
@@ -5863,7 +5921,7 @@
         "type": "alternative",
         "clause": "whether the issue at hand has anything to do with a TBI or is even related to the assault at all"
     },
-    "452": {
+    "456": {
         "sentence": "Whether a neo-con or a progressive acts in the theater of globalization is ultimately irrelevant.",
         "predicate": [
             {
@@ -5880,7 +5938,7 @@
         "type": "alternative",
         "clause": "Whether a neo-con or a progressive acts in the theater of globalization"
     },
-    "453": {
+    "457": {
         "sentence": "It doesn\u2019t matter whether its work, family, or friends, good morals will get you a long way with people, and they will respect you for it!",
         "predicate": [
             {
@@ -5892,7 +5950,7 @@
         "type": "alternative",
         "clause": "whether its work, family, or friends"
     },
-    "454": {
+    "458": {
         "sentence": "After Liberation in November 1944 the Albanian people had to decide whether to return to an almost feudal structure, welcome back the cowardly Zog or attempt to build a new society based on Communist principles.",
         "predicate": [
             {
@@ -5904,7 +5962,7 @@
         "type": "alternative",
         "clause": "whether to return to an almost feudal structure, welcome back the cowardly Zog or attempt to build a new society based on Communist principles"
     },
-    "455": {
+    "459": {
         "sentence": "So as long as everyone would be exposed to STEM and be able to choose it as a career to pursue without pressure to not do so, it doens't matter to me whether it's 50/50, 60/40 or 70/30.",
         "predicate": [
             {
@@ -5916,7 +5974,7 @@
         "type": "alternative",
         "clause": "whether it's 50/50, 60/40 or 70/30"
     },
-    "456": {
+    "460": {
         "sentence": "You know whether it\u2019s in the Bay Area or in the Northeast or in all the places up the Pacific Northwest.",
         "predicate": [
             {
@@ -5928,7 +5986,7 @@
         "type": "alternative",
         "clause": "whether it\u2019s in the Bay Area or in the Northeast or in all the places up the Pacific Northwest"
     },
-    "457": {
+    "461": {
         "sentence": "No one is certain whether Betty is still alive or just hypnotized, but the dreamy look on her face would seem to confirm her deep love for TV dramas.",
         "predicate": [
             {
@@ -5945,7 +6003,7 @@
         "type": "alternative",
         "clause": "whether Betty is still alive or just hypnotized"
     },
-    "458": {
+    "462": {
         "sentence": "A meeting with the zoning department will study the existing traffic patterns and parking and let the owner know whether existing conditions are sufficient or if additional parking, turn lanes, or even a traffic light will be necessary to keep the clientele happy and allow them to come and go in a safe manner.",
         "predicate": [
             {
@@ -5957,7 +6015,7 @@
         "type": "alternative",
         "clause": "whether existing conditions are sufficient or if additional parking, turn lanes, or even a traffic light will be necessary to keep the clientele happy and allow them to come and go in a safe manner"
     },
-    "459": {
+    "463": {
         "sentence": "It remains ambiguous whether Helen\u2019s rejection of her sexual habits is feigned, or whether it represents a brief moment of sincerity, the realization that having many short-lived affairs with men does not necessarily bring her (or her daughter) happiness and stability.",
         "predicate": [
             {
@@ -5974,7 +6032,7 @@
         "type": "alternative",
         "clause": "whether Helen\u2019s rejection of her sexual habits is feigned, or whether it represents a brief moment of sincerity, the realization that having many short-lived affairs with men does not necessarily bring her (or her daughter) happiness and stability"
     },
-    "460": {
+    "464": {
         "sentence": "He wonders whether reality is a dream or dreams reality.",
         "predicate": [
             {
@@ -5986,7 +6044,7 @@
         "type": "alternative",
         "clause": "whether reality is a dream or dreams reality"
     },
-    "461": {
+    "465": {
         "sentence": "If you can't decide whether you prefer dramatic coastline or heather moorland then the 109 mile long Cleveland Way is your perfect trail.",
         "predicate": [
             {
@@ -5998,7 +6056,7 @@
         "type": "alternative",
         "clause": "whether you prefer dramatic coastline or heather moorland"
     },
-    "462": {
+    "466": {
         "sentence": "At the post-secondary level, students fall into four categories, depending on whether their work placement is paid or unpaid, and whether their work placement is optional or a mandatory requirement for graduation.",
         "predicate": [
             {
@@ -6015,7 +6073,7 @@
         "type": "alternative",
         "clause": "whether their work placement is paid or unpaid"
     },
-    "463": {
+    "467": {
         "sentence": "At the post-secondary level, students fall into four categories, depending on whether their work placement is paid or unpaid, and whether their work placement is optional or a mandatory requirement for graduation.",
         "predicate": [
             {
@@ -6032,7 +6090,7 @@
         "type": "alternative",
         "clause": "whether their work placement is optional or a mandatory requirement for graduation"
     },
-    "464": {
+    "468": {
         "sentence": "No mainstream political party and no prominent politician is fighting publicly to reveal whether the accumulated evidence indicates failures of policy or represents an unconnected sequence of criminal actions by a tiny minority of rogue soldiers.",
         "predicate": [
             {
@@ -6044,7 +6102,7 @@
         "type": "alternative",
         "clause": "whether the accumulated evidence indicates failures of policy or represents an unconnected sequence of criminal actions by a tiny minority of rogue soldiers"
     },
-    "465": {
+    "469": {
         "sentence": "University of Toronto, Department of Sociology (Toronto, Canada): The Faculty of Arts and Science has instituted a funding guarantee that covers PhD students for four or five years (depending on whether the student enters directly from a BA, or completes an MA before entering the program).",
         "predicate": [
             {
@@ -6061,7 +6119,7 @@
         "type": "alternative",
         "clause": "whether the student enters directly from a BA, or completes an MA before entering the program"
     },
-    "466": {
+    "470": {
         "sentence": "Ultimately, whether to bootstrap or finance depends on all of the factors identified in this article, if not more.",
         "predicate": [
             {
@@ -6078,7 +6136,7 @@
         "type": "alternative",
         "clause": "whether to bootstrap or finance"
     },
-    "467": {
+    "471": {
         "sentence": "The type of mortgage you are able to apply for will depend on whether you want to repay interest only or interest and capital.",
         "predicate": [
             {
@@ -6095,7 +6153,7 @@
         "type": "alternative",
         "clause": "whether you want to repay interest only or interest and capital"
     },
-    "468": {
+    "472": {
         "sentence": "Currently, however, high school athletic associations in each state in the U.S. decide whether cheerleading is considered a sport or treated as a club activity like a drama or chess club that involves no athletic activities.",
         "predicate": [
             {
@@ -6107,7 +6165,7 @@
         "type": "alternative",
         "clause": "whether cheerleading is considered a sport or treated as a club activity like a drama or chess club that involves no athletic activities"
     },
-    "469": {
+    "473": {
         "sentence": "It seems to be random whether these questions are relatively easy or impossibly difficult.",
         "predicate": [
             {
@@ -6124,7 +6182,7 @@
         "type": "alternative",
         "clause": "whether these questions are relatively easy or impossibly difficult"
     },
-    "470": {
+    "474": {
         "sentence": "You have to wonder whether the propaganda agenda is purely journalistic, or partly stems from NASA itself, since they felt it worthwhile issuing a sanely scientific rebuttal of \u2026 a couple of YouTube rumours based on \u201cvague sources\u201d.",
         "predicate": [
             {
@@ -6136,7 +6194,7 @@
         "type": "alternative",
         "clause": "whether the propaganda agenda is purely journalistic, or partly stems from NASA itself"
     },
-    "471": {
+    "475": {
         "sentence": "It is unclear to us whether the word \"new\" in this measure applies only to MOUs or whether it also applies to other pension contracts or agreements, such as those delineated in statute or those applicable to managers and supervisors.",
         "predicate": [
             {
@@ -6153,7 +6211,7 @@
         "type": "alternative",
         "clause": "whether the word \"new\" in this measure applies only to MOUs or whether it also applies to other pension contracts or agreements, such as those delineated in statute or those applicable to managers and supervisors"
     },
-    "472": {
+    "476": {
         "sentence": "The Trustees did not discuss whether the University should conduct an internal investigation to understand the facts and any potential liability issues, engage experience criminal counsel, or prepare for the possibility that the Grand Jury investigation might result in some criticism of the University or its staff.",
         "predicate": [
             {
@@ -6165,7 +6223,7 @@
         "type": "alternative",
         "clause": "whether the University should conduct an internal investigation to understand the facts and any potential liability issues, engage experience criminal counsel, or prepare for the possibility that the Grand Jury investigation might result in some criticism of the University or its staff"
     },
-    "473": {
+    "477": {
         "sentence": "We do not see the profits of the elderly because it goes through the local administration, the District Commissioner and you wonder whether it got to the right people or whether it was eaten.",
         "predicate": [
             {
@@ -6177,7 +6235,7 @@
         "type": "alternative",
         "clause": "whether it got to the right people or whether it was eaten"
     },
-    "474": {
+    "478": {
         "sentence": "However it's not yet known whether these abnormalities are down to skin cancer or other causes.",
         "predicate": [
             {
@@ -6189,7 +6247,7 @@
         "type": "alternative",
         "clause": "whether these abnormalities are down to skin cancer or other causes"
     },
-    "475": {
+    "479": {
         "sentence": "It will be irrelevant whether the target is considered a good or bad person.",
         "predicate": [
             {
@@ -6206,7 +6264,7 @@
         "type": "alternative",
         "clause": "whether the target is considered a good or bad person"
     },
-    "476": {
+    "480": {
         "sentence": "It's hard to say whether DC will collect these Bill Willingham-written, Infinite Crisis-crossing stories, or whether they'll jump to the new material.",
         "predicate": [
             {
@@ -6218,7 +6276,7 @@
         "type": "alternative",
         "clause": "whether DC will collect these Bill Willingham-written, Infinite Crisis-crossing stories, or whether they'll jump to the new material"
     },
-    "477": {
+    "481": {
         "sentence": "Here, Greenwood succinctly counters polarised ways of thinking in terms of \"primitive\" and \"modern,\" preferring instead to judge whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4).",
         "predicate": [
             {
@@ -6230,7 +6288,7 @@
         "type": "alternative",
         "clause": "whether the significance of important past episodes \"represented an advance or regression in the general development of psychological theory and practice\" (4)"
     },
-    "478": {
+    "482": {
         "sentence": "Julien Laurens is given the tough task of choosing whether Real Madrid or Barcelona should be considered La Liga favourites.",
         "predicate": [
             {
@@ -6242,7 +6300,7 @@
         "type": "alternative",
         "clause": "whether Real Madrid or Barcelona should be considered La Liga favourites"
     },
-    "479": {
+    "483": {
         "sentence": "The point is that this makes it possible to readily construct a relatively simple reader which can discern (by determining the length of the respective distance a or b) whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading.",
         "predicate": [
             {
@@ -6254,7 +6312,7 @@
         "type": "alternative",
         "clause": "whether the carrier body 10 has been inserted with the edge 13 leading or with the edge 12 leading"
     },
-    "480": {
+    "484": {
         "sentence": "From our point of view it is immaterial whether the state law question as to its meaning was controverted or accepted.",
         "predicate": [
             {
@@ -6271,7 +6329,7 @@
         "type": "alternative",
         "clause": "whether the state law question as to its meaning was controverted or accepted"
     },
-    "481": {
+    "485": {
         "sentence": "That said, it matters little whether I am over-eating or under-eating.",
         "predicate": [
             {
@@ -6283,7 +6341,7 @@
         "type": "alternative",
         "clause": "whether I am over-eating or under-eating"
     },
-    "482": {
+    "486": {
         "sentence": "Wonder whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down.",
         "predicate": [
             {
@@ -6295,7 +6353,7 @@
         "type": "alternative",
         "clause": "whether during this thirty or forty year period of the low-fat dogma, whether breastfeeding rates went up or down"
     },
-    "483": {
+    "487": {
         "sentence": "It is not quite clear whether it concerns a direct investment of a company resident in those countries or whether it would also apply to foreign companies investing in Cura\u00e7ao through intermediary holdings in those countries.",
         "predicate": [
             {
@@ -6312,7 +6370,7 @@
         "type": "alternative",
         "clause": "whether it concerns a direct investment of a company resident in those countries or whether it would also apply to foreign companies investing in Cura\u00e7ao through intermediary holdings in those countries"
     },
-    "484": {
+    "488": {
         "sentence": "Multiplayer will include objectives that will differ depending on whether a player has chosen to fight for the Allies or Axis.",
         "predicate": [
             {
@@ -6329,7 +6387,7 @@
         "type": "alternative",
         "clause": "whether a player has chosen to fight for the Allies or Axis"
     },
-    "485": {
+    "489": {
         "sentence": "[50] It remains unclear whether these sites are the remains of the Xia dynasty or of another culture from the same period.",
         "predicate": [
             {
@@ -6346,7 +6404,7 @@
         "type": "alternative",
         "clause": "whether these sites are the remains of the Xia dynasty or of another culture from the same period"
     },
-    "486": {
+    "490": {
         "sentence": "I'd be very curious to know whether a reunification of Ireland - either as a single Republic or as part of the UK - is even imaginable or are the differences still so strong that it's unthinkable?",
         "predicate": [
             {
@@ -6358,7 +6416,7 @@
         "type": "alternative",
         "clause": "whether a reunification of Ireland - either as a single Republic or as part of the UK - is even imaginable or are the differences still so strong that it's unthinkable"
     },
-    "487": {
+    "491": {
         "sentence": "It can also be hard to tell whether such injuries are serious or less serious.",
         "predicate": [
             {
@@ -6370,7 +6428,7 @@
         "type": "alternative",
         "clause": "whether such injuries are serious or less serious"
     },
-    "488": {
+    "492": {
         "sentence": "The library should not have to deal with training staff to discern whether patrons are students or adults who look like students.",
         "predicate": [
             {
@@ -6382,7 +6440,7 @@
         "type": "alternative",
         "clause": "whether patrons are students or adults who look like students"
     },
-    "489": {
+    "493": {
         "sentence": "It doesn\u0092t even matter whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today \u0096 as long as it\u0092s readable and well enough developed that a critique might be helpful.",
         "predicate": [
             {
@@ -6394,7 +6452,7 @@
         "type": "alternative",
         "clause": "whether any given piece of your writing is carefully polished already or just a new idea you dashed off on the train today"
     },
-    "490": {
+    "494": {
         "sentence": "Before it can be decided, however, whether this would be a monarchy or a republic, it seems necessary to settle the meaning of those terms.",
         "predicate": [
             {
@@ -6406,7 +6464,7 @@
         "type": "alternative",
         "clause": "whether this would be a monarchy or a republic"
     },
-    "491": {
+    "495": {
         "sentence": "However, in his evidence in chief he did not speak to whether Mandy was seated or lying down when he was picked up.",
         "predicate": [
             {
@@ -6423,7 +6481,7 @@
         "type": "alternative",
         "clause": "whether Mandy was seated or lying down when he was picked up"
     },
-    "492": {
+    "496": {
         "sentence": "This will enable the Court to conclude whether PC Mc Vane was acting in self-defence when he shot Mandy or whether he and PC Polius acted negligently or recklessly in handling the situation and Mandy.",
         "predicate": [
             {
@@ -6435,7 +6493,7 @@
         "type": "alternative",
         "clause": "whether PC Mc Vane was acting in self-defence when he shot Mandy or whether he and PC Polius acted negligently or recklessly in handling the situation and Mandy"
     },
-    "493": {
+    "497": {
         "sentence": "So whether or not we have to be singing in order to hear this, or whether it is just going to manifest, I really do not know, but glory to God.",
         "predicate": [
             {
@@ -6447,7 +6505,7 @@
         "type": "alternative",
         "clause": "whether or not we have to be singing in order to hear this, or whether it is just going to manifest"
     },
-    "494": {
+    "498": {
         "sentence": "The authors did not identify whether the subjects were stretching completely cold, or whether they had \u0093warmed up\u0094 in any way prior to the stretching episode, which is common practice.",
         "predicate": [
             {
@@ -6459,7 +6517,7 @@
         "type": "alternative",
         "clause": "whether the subjects were stretching completely cold, or whether they had \u0093warmed up\u0094 in any way prior to the stretching episode, which is common practice"
     },
-    "495": {
+    "499": {
         "sentence": "The distance will be positive or negative depending on whether the point is outside or inside the circle, but this does not matter since the value is squared as part of the minimization process.",
         "predicate": [
             {
@@ -6476,7 +6534,7 @@
         "type": "alternative",
         "clause": "whether the point is outside or inside the circle"
     },
-    "496": {
+    "500": {
         "sentence": "After spending some time debating over whether to remain true to their artistic vision or try to be more commercial, they decided it would be better to \"go down in flames\" than compromise their musical integrity.",
         "predicate": [
             {
@@ -6493,7 +6551,7 @@
         "type": "alternative",
         "clause": "whether to remain true to their artistic vision or try to be more commercial"
     },
-    "497": {
+    "501": {
         "sentence": "After spending some time debating over whether to remain true to their artistic vision or try to be more commercial, they decided it would be better to \"go down in flames\" than compromise their musical integrity.",
         "predicate": [
             {
@@ -6505,7 +6563,7 @@
         "type": "declarative",
         "clause": "it would be better to \"go down in flames\" than compromise their musical integrity"
     },
-    "498": {
+    "502": {
         "sentence": "An officer has to decide whether to serve India after gaining experience or stay back.",
         "predicate": [
             {
@@ -6517,7 +6575,7 @@
         "type": "alternative",
         "clause": "whether to serve India after gaining experience or stay back"
     },
-    "499": {
+    "503": {
         "sentence": "In the end, it\u0092s almost hard to say whether Days of Future Past is a step forward \u0096 or backward \u0096 for the X-Men.",
         "predicate": [
             {
@@ -6529,7 +6587,7 @@
         "type": "alternative",
         "clause": "whether Days of Future Past is a step forward \u0096 or backward \u0096 for the X-Men"
     },
-    "500": {
+    "504": {
         "sentence": "Somehow he found himself back in his body - he can\u0092t recall whether the water pushed him out or if somebody pulled him to safety \u0096 but he was never again the same person.",
         "predicate": [
             {
@@ -6541,7 +6599,7 @@
         "type": "alternative",
         "clause": "whether the water pushed him out or if somebody pulled him to safety"
     },
-    "501": {
+    "505": {
         "sentence": "There are various types of creams and these are distinguished by their fat content and or whether they have been whipped or heat treated.",
         "predicate": [
             {
@@ -6558,7 +6616,7 @@
         "type": "alternative",
         "clause": "whether they have been whipped or heat treated"
     },
-    "502": {
+    "506": {
         "sentence": "This concerns whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships).",
         "predicate": [
             {
@@ -6570,7 +6628,7 @@
         "type": "alternative",
         "clause": "whether they fall into tax class 1 (mostly applicable to unmarried residents) or tax class 2 (people who are married or in civil partnerships)"
     },
-    "503": {
+    "507": {
         "sentence": "LONDON (AP) \u0097 British Prime Minister Theresa May is hunkered down with close allies as she considers whether to give in to relentless pressure to resign, or fight on to save her Brexit plan and her premiership.",
         "predicate": [
             {
@@ -6582,7 +6640,7 @@
         "type": "alternative",
         "clause": "whether to give in to relentless pressure to resign, or fight on to save her Brexit plan and her premiership"
     },
-    "504": {
+    "508": {
         "sentence": "You should check whether the doors are made of solid wood or metal.",
         "predicate": [
             {
@@ -6594,7 +6652,7 @@
         "type": "alternative",
         "clause": "whether the doors are made of solid wood or metal"
     },
-    "505": {
+    "509": {
         "sentence": "I almost asked whether she\u0092d been stabbed in a literal or metaphorical Barcelona, but it sounded snide so I didn\u0092t say anything.",
         "predicate": [
             {
@@ -6606,7 +6664,7 @@
         "type": "alternative",
         "clause": "whether she\u0092d been stabbed in a literal or metaphorical Barcelona"
     },
-    "506": {
+    "510": {
         "sentence": "The other two cats stood poised nearby, as if undecided on whether to back up their fellow or choose the better part of valor.",
         "predicate": [
             {
@@ -6623,7 +6681,7 @@
         "type": "alternative",
         "clause": "whether to back up their fellow or choose the better part of valor"
     },
-    "507": {
+    "511": {
         "sentence": "CFIUS would have 30 days to decide whether to require a full formal filing or determine that no further action is necessary.",
         "predicate": [
             {
@@ -6635,7 +6693,7 @@
         "type": "alternative",
         "clause": "whether to require a full formal filing or determine that no further action is necessary"
     },
-    "508": {
+    "512": {
         "sentence": "CFIUS would have 30 days to decide whether to require a full formal filing or determine that no further action is necessary.",
         "predicate": [
             {
@@ -6647,7 +6705,7 @@
         "type": "declarative",
         "clause": "that no further action is necessary"
     },
-    "509": {
+    "513": {
         "sentence": "It is difficult to predict whether the Supreme Court\u0092s grant of certiorari in Bilski signals an intent to significantly narrow or expand the scope of patent eligibility under 35 U.S.C.",
         "predicate": [
             {
@@ -6659,7 +6717,7 @@
         "type": "alternative",
         "clause": "whether the Supreme Court\u0092s grant of certiorari in Bilski signals an intent to significantly narrow or expand the scope of patent eligibility under 35 U.S.C."
     },
-    "510": {
+    "514": {
         "sentence": "Additional studies are needed to clarify whether this effect is consequent to a structural modification of PrPC, or a dislodgment from natural interacting partners, or a modification of the membrane lipid architecture surrounding the protein.",
         "predicate": [
             {
@@ -6671,7 +6729,7 @@
         "type": "alternative",
         "clause": "whether this effect is consequent to a structural modification of PrPC, or a dislodgment from natural interacting partners, or a modification of the membrane lipid architecture surrounding the protein"
     },
-    "511": {
+    "515": {
         "sentence": "Deciding whether you should join a team or go at it alone will have a significant impact on your success.",
         "predicate": [
             {
@@ -6683,7 +6741,7 @@
         "type": "alternative",
         "clause": "whether you should join a team or go at it alone"
     },
-    "512": {
+    "516": {
         "sentence": "Sources do not say whether he worked for a shipping company or for a government agency, such as the Federal Maritime Commission or the New York Port Authority.",
         "predicate": [
             {
@@ -6695,7 +6753,7 @@
         "type": "alternative",
         "clause": "whether he worked for a shipping company or for a government agency, such as the Federal Maritime Commission or the New York Port Authority"
     },
-    "513": {
+    "517": {
         "sentence": "To find out whether Intertops is as strong as ever, or is beginning to show its age, check out the rest of our review.",
         "predicate": [
             {
@@ -6712,7 +6770,7 @@
         "type": "alternative",
         "clause": "whether Intertops is as strong as ever, or is beginning to show its age"
     },
-    "514": {
+    "518": {
         "sentence": "The scope of processing personal data primarily depends on whether a user simply visits one of our websites, uses them as a registered user or is just registering.",
         "predicate": [
             {
@@ -6729,7 +6787,7 @@
         "type": "alternative",
         "clause": "whether a user simply visits one of our websites, uses them as a registered user or is just registering"
     },
-    "515": {
+    "519": {
         "sentence": "reCAPTCHA is designed to check whether data is entered on our websites by a human or by automated software, e.g.",
         "predicate": [
             {
@@ -6741,7 +6799,7 @@
         "type": "alternative",
         "clause": "whether data is entered on our websites by a human or by automated software, e.g."
     },
-    "516": {
+    "520": {
         "sentence": "So I called Steve Koepp, my old editor, who now supervises TIME books, and asked him whether, after nine years, TIME had run out of ways to exploit the TIME 100 or I had run out of ways to make fun of it.",
         "predicate": [
             {
@@ -6753,7 +6811,7 @@
         "type": "alternative",
         "clause": "whether, after nine years, TIME had run out of ways to exploit the TIME 100 or I had run out of ways to make fun of it"
     },
-    "517": {
+    "521": {
         "sentence": "We just have to guess whether the card on the card on the player or the banker who will be the winner, or the game ends in a tie.",
         "predicate": [
             {
@@ -6765,7 +6823,7 @@
         "type": "alternative",
         "clause": "whether the card on the card on the player or the banker who will be the winner"
     },
-    "518": {
+    "522": {
         "sentence": "For centuries Jewish villages had to decide whether to stay and hope to survive hard times, or whether to flee across rivers and borders with what they could carry.",
         "predicate": [
             {
@@ -6777,7 +6835,7 @@
         "type": "alternative",
         "clause": "whether to stay and hope to survive hard times, or whether to flee across rivers and borders with what they could carry"
     },
-    "519": {
+    "523": {
         "sentence": "You can\u0092t easily configure whether you want the video to be oriented horizontally (landscape) or vertically (portrait).",
         "predicate": [
             {
@@ -6789,7 +6847,7 @@
         "type": "alternative",
         "clause": "whether you want the video to be oriented horizontally (landscape) or vertically (portrait)"
     },
-    "520": {
+    "524": {
         "sentence": "This includes the rights to property, the ability to raise children, and whether you will pay or receive alimony.",
         "predicate": [
             {
@@ -6801,7 +6859,7 @@
         "type": "alternative",
         "clause": "whether you will pay or receive alimony"
     },
-    "521": {
+    "525": {
         "sentence": "I've gone back and forth on whether Desire or BOTT is my favorite Dylan record (with Blonde on Blonde working it's way in there from time to time).",
         "predicate": [
             {
@@ -6818,7 +6876,7 @@
         "type": "alternative",
         "clause": "whether Desire or BOTT is my favorite Dylan record"
     },
-    "522": {
+    "526": {
         "sentence": "What difference does it make whether Jesus or the Holy Spirit lives in my heart?\u0094.",
         "predicate": [
             {
