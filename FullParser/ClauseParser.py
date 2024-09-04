@@ -22,14 +22,26 @@ class ClauseParser():
             lemma: represents the token lemma if the string is modulated by tense
             POS: the part-of-speech tag for the lexical token
         """
+        # if 'SBAR' in span._.labels:
+        #     return []
+        # children = list(span._.children)
+        # if len(children) == 0:
+        #     return []
+        # if 'SBAR' not in children[0]._.labels:
+        #     return [{'str' : token, "lemma" : token.lemma_, 'POS': token.pos_ , 'parse_index': token.i} for token in children[0]] + self.get_predicate(children[1])
+        # return []
+        pred = []
         if 'SBAR' in span._.labels:
             return []
         children = list(span._.children)
         if len(children) == 0:
             return []
-        if 'SBAR' not in children[0]._.labels:
-            return [{'str' : token, "lemma" : token.lemma_, 'POS': token.pos_ , 'parse_index': token.i } for token in children[0]] + self.get_predicate(children[1])
-        return []
+        for token in span:
+            if 'SBAR' in token._.parent._.labels or'SBAR' in token._.labels:# or 'S' in token._.parent._.labels or 'S' in token._.labels::
+                break
+            pred += [{'str': token.text, 'lemma': token.lemma_, 'POS': token.pos_}]            
+        return list(filter(lambda x: x['POS'] in ['VERB', 'ADP', 'ADJ', 'AUX'], pred))
+        # return pred
 
     def VP_parent(self,span):
         """Finds the nearest parent label as either VP NP or none.
@@ -54,6 +66,9 @@ class ClauseParser():
         if "VP" in parent_label:
             # Found VP parent
             predicate = self.get_predicate(parent)
+            if len(predicate) == 1:
+                if predicate[0]['str']=='is':
+                    return (False,None)
             return (True,predicate)        
         elif "NP" in parent_label:
             # Found NP parent
@@ -118,7 +133,7 @@ class ClauseParser():
 
         return 'declarative'
 
-    def parse_SBAR_clause(self,span):
+    def parse_SBAR_clause(self,sentence,span):
         """ Returns a list of dictionaries with the embedded clause metadata.
             If none of the spans are detected as embedded clauses an empty list is returned
 
@@ -129,29 +144,26 @@ class ClauseParser():
 
         SBAR_spans = self.get_SBAR_spans(span)
         clauses = []
-
+        
         for sbar in SBAR_spans:
             parent = self.VP_parent(sbar)
-            if not parent[0]:
-                clauses += self.parse_SBAR_clause(sbar)
-                continue
+            first_word = str(list(sbar._.children)[0]).lower()
             if len(self.get_SBAR_spans(sbar)) > 0:
-                clauses += self.parse_SBAR_clause(sbar)
-                continue    
-            clauses += [{'predicate': parent[1],
+                clauses += self.parse_SBAR_clause(sentence,sbar)
+            if not parent[0] or first_word in ['because', 'since', 'while']:
+                continue
+            clauses += [{'sentence': str(sentence),
+                        'predicate': parent[1],
                          'type': self.get_clause_type(sbar),
-                         'clause' : sbar ,
-                         'embedded clauses' : self.parse_SBAR_clause(sbar)
+                         'clause' : str(sbar)
                          }]
         return clauses
 
-    def parse_clauses(self,span):
+    def parse_clauses(self,sentence):
         """ Returns a dictionary with all the embedded clause parse data
 
         :span: spacy.tokens.span.span
             Parsed representation of of text string. 
         :returns: {'sentence': , 'embedded clauses': }
         """
-        return {"sentence": span, 
-                "embedded clauses": self.parse_SBAR_clause(span)
-                }
+        return self.parse_SBAR_clause(sentence,sentence)
