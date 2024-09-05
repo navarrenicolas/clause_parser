@@ -12,6 +12,13 @@ class ClauseParser():
     def __init__(self):
         return
 
+    def get_sentence(self,span):
+        parent = span._.parent
+        if parent == None :
+            return span
+        else:
+            return self.get_sentence(parent)
+
     def get_predicate(self,span):
         """Returns the list of dictionaries of the embedding predicate token data of an SBAR span.
         The function assumes that the span is an embedded clause.
@@ -22,27 +29,17 @@ class ClauseParser():
             lemma: represents the token lemma if the string is modulated by tense
             POS: the part-of-speech tag for the lexical token
         """
-        # if 'SBAR' in span._.labels:
-        #     return []
-        # children = list(span._.children)
-        # if len(children) == 0:
-        #     return []
-        # if 'SBAR' not in children[0]._.labels:
-        #     return [{'str' : token, "lemma" : token.lemma_, 'POS': token.pos_ , 'parse_index': token.i} for token in children[0]] + self.get_predicate(children[1])
-        # return []
-        pred = []
-        if 'SBAR' in span._.labels:
-            return []
-        children = list(span._.children)
-        if len(children) == 0:
-            return []
-        for token in span:
-            if 'SBAR' in token._.parent._.labels or'SBAR' in token._.labels:# or 'S' in token._.parent._.labels or 'S' in token._.labels::
-                break
-            pred += [{'str': token.text, 'lemma': token.lemma_, 'POS': token.pos_}]            
-        return list(filter(lambda x: x['POS'] in ['VERB', 'ADP', 'ADJ', 'AUX'], pred))
-        # return pred
+        final_pred = []
+        token_annots = [{'str': token.text, 'lemma': token.lemma_, 'POS': token.pos_} for token in span]
+        pos_tags = [token.pos_ for token in span]
 
+        #we only want verbs, prepositions, adjectives, and (only if the predicate contains an adjective) auxiliaries
+        for token in token_annots:
+            pos = token['POS']
+            if pos in ['VERB', 'ADP', 'ADJ'] or ("ADJ" in pos_tags and pos == "AUX"):
+                final_pred.append(token)
+        return final_pred
+        
     def VP_parent(self,span):
         """Finds the nearest parent label as either VP NP or none.
         :span: spacy.tokens.span.span
@@ -54,18 +51,16 @@ class ClauseParser():
                 arg2: spacy.tokens.span.span
                     The first (leftmost) child of the VP labeled span.
         """
+        sbar_idx = span[0].i
+        # if 'CONJ' in self.get_sentence(span)[sbar_idx-1].pos_:
+        #     return (False, None)
         # Get the parent span
         parent = span._.parent
-
-        # Check that it isn't empty
         if parent == None:
             return (False,None)
-
-        # Check the syntactic label
         parent_label = parent._.labels
         if "VP" in parent_label:
-            # Found VP parent
-            predicate = self.get_predicate(parent)
+            predicate = self.get_predicate(self.get_sentence(span)[parent[0].i:sbar_idx+1])
             if len(predicate) == 1:
                 if predicate[0]['str']=='is':
                     return (False,None)
@@ -147,10 +142,11 @@ class ClauseParser():
         
         for sbar in SBAR_spans:
             parent = self.VP_parent(sbar)
-            first_word = str(list(sbar._.children)[0]).lower()
+            # first_word = str(list(sbar._.children)[0]).lower()
+            first_word = str(sbar[0])
             if len(self.get_SBAR_spans(sbar)) > 0:
                 clauses += self.parse_SBAR_clause(sentence,sbar)
-            if not parent[0] or first_word in ['because', 'since', 'while']:
+            if not parent[0] or first_word in ['because', 'since', 'while', 'as']:
                 continue
             clauses += [{'sentence': str(sentence),
                         'predicate': parent[1],
