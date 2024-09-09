@@ -39,8 +39,10 @@ def parse_flat_golden(filename:str):
 flat_parsed, flat_golden = parse_flat_golden(flat_path_golden)
 adv_parsed, adv_golden = parse_flat_golden(adv_path_golden)
 
-test_doc = nlp("He says how he much enjoyed working for the council")
+test_doc = nlp("John thought and believed that Mary was alive")
 [parser.parse_clauses(sent) for sent in test_doc.sents][0]
+
+
 
 def nlp_sents(string):
     return list(nlp(string).sents)
@@ -91,12 +93,6 @@ def filter_sentences_idx(filt):
     return [idx for idx in [i for i, e in enumerate(flat_golden) if filt(e)] ]
 
 
-golden_dec = filter_sentences_idx(lambda x: x[0]['type'] == 'declarative')
-golden_pol = filter_sentences_idx(lambda x: x[0]['type'] == 'polar')
-golden_const = filter_sentences_idx(lambda x: x[0]['type'] == 'constituent')
-golden_alt = filter_sentences_idx(lambda x: x[0]['type'] == 'alternative')
-
-
 single_idx = filter_sentences_idx(lambda x: len(x) == 1)
 multiple_idx = filter_sentences_idx(lambda x: len(x) > 1)
 
@@ -134,7 +130,7 @@ np.mean(correct_predicates)
 failed_single_predicates = [golden_single[i][0]['sentence'] for i,e in enumerate(correct_predicates) if (not e[0] and correct_clauses[i])]
 #failed_single_predicates = [golden_single[i][0]['sentence'] for i,e in enumerate(correct_predicates) if (not e[0] and len(parsed_single[i])>0)]
 
-len(failed_single_predicates) # 77
+len(failed_single_predicates) # 45
 
 
 #########################
@@ -143,6 +139,13 @@ len(failed_single_predicates) # 77
 
 parsed_multiple = [flat_parsed[i] for i in single_idx]
 golden_multiple = [flat_golden[i] for i in single_idx]
+
+# Detection
+
+detected_multiple = [len(gold) == len(parsed_multiple[i]) for i,gold in enumerate(golden_multiple)]
+np.mean(detected_multiple)
+
+failed_multiple_detect = [parsed_multiple[i] for i,detect in enumerate(detected_multiple) if not detect]
 
 # clause and type
 
@@ -180,7 +183,12 @@ np.mean(list(map(all,correct_predicates)))
 
 failed_preds = [gp[0]['sentence'] for i,gp in enumerate(flat_golden) if (detected_clauses[i] and  not any(correct_predicates[i]))]
 
-len(failed_preds) # 67
+len(failed_preds) # 31
+
+
+
+failed_clauses = [gp[0]['sentence'] for i,gp in enumerate(flat_golden) if (detected_clauses[i] and  not any(correct_clauses[i]) and all(correct_predicates[i]))] 
+
 
 #########################
 # Adversarial sentences
@@ -195,27 +203,118 @@ false_positive_sentences = [parse[0]['sentence'] for parse in false_positives]
 # Failed sentences
 #########################
 
-#
-#import pyperclip 
-#
-#pyperclip.copy(failed_single_predicates[0])
-#pyperclip.copy(replace_brackets(nlp_sents(failed_single_predicates[2])[0]._.parse_string))
-#def find_sent_index(string,data):
-#    return list(np.where([string in  sent for sent in [gs[0]['sentence'] for gs in data]])[0])
-#find_sent_index('to doubt', golden_single)
-#
-#def replace_brackets(parsed_string):
-#    # Replace round brackets with square brackets
-#    replaced_string = parsed_string.replace('(', '[').replace(')', ']')
-#    # Wrap the string with \begin{forest} and \end{forest}
-#    final_string = '\\begin{adjustbox}{width=0.8\\linewidth}' + '\\begin{forest} ' + replaced_string + ' \\end{forest}' + '\\end{adjustbox}\\\\'
-#    return final_string
-#
-#
-#trees = ''
-#for sentence in failed_preds:
-#    trees += replace_brackets(list(nlp(sentence).sents)[0]._.parse_string) + '\n' 
-#pyperclip.copy(trees)
+def replace_brackets(parsed_string):
+    # Replace round brackets with square brackets
+    replaced_string = parsed_string.replace('(', '[').replace(')', ']')
+    # Wrap the string with \begin{forest} and \end{forest}
+    final_string = '\\begin{adjustbox}{width=0.8\\linewidth}' + '\\begin{forest} ' + replaced_string + ' \\end{forest}' + '\\end{adjustbox}\\\\'
+    return final_string
+
+def copy_latex_parse(sentence):
+    ps = list(nlp(sentence).sents)[0]
+    return replace_brackets(ps._.parse_string)
+
+gold_clauses = []
+for gold in flat_golden:
+    for gp in gold:
+        gold_clauses.append(gp['clause'])
+
+# Quick reflection of the golden single predicates
+gold_predicates = []
+for gold in flat_golden:
+    for gp in gold:
+        gold_predicates.append(gp['predicate'])
+gold_single_preds = pd.Series([pred[0]['lemma'] for pred in  filter(lambda x: len(x)==1,gold_predicates)])
+gold_single_preds.value_counts()[0:10]
+
+# Quick reflection of the parsed single predicates
+parsed_predicates = []
+for sent_parse in flat_parsed:
+    for parse in sent_parse:
+        parsed_predicates.append(parse['predicate'])
+parsed_single_preds = pd.Series([pred[0]['lemma'] for pred in  filter(lambda x: len(x)==1,parsed_predicates)])
+parsed_single_preds.value_counts()[0:10]*100/len(parsed_single_preds)
+
+# Parsed predicates with more than 4 items (many more than the golden set)
+list(pred for pred in parsed_predicates if len(pred)>4)
+
+# Parsed predicates with more then one verb per embedding predicate (more than in the golden set)
+list(pred for pred in parsed_predicates if (lambda x: len([pr for pr in pred if pr['POS'] == 'VERB'])>1)(pred))
+
+
+# Find parse of sentences matching keywords
+def find_parse(string):
+    return [parse for parse in flat_parsed if (lambda x: (string in x[0]['sentence']) if len(x) > 0 else False)(parse)]
+# Find golden parse of sentences matching keywords
+def find_golden_parse(string):
+    return [gp for gp in flat_golden if (string in gp[0]['sentence'])]
+
+import nltk
+def nlp_parse(sent):
+    return nltk.Tree.fromstring(list(nlp(sent).sents)[0]._.parse_string).pretty_print()
+
+# View the golden parses matching query
+fail_idx = 30
+pyperclip.copy(failed_preds[fail_idx])
+
+nlp_parse(failed_preds[fail_idx])
+
+[(gp['predicate'], gp['clause']) for gp in find_golden_parse(failed_preds[fail_idx])[0]]
+
+[(p['predicate'],p['clause']) for p in find_parse(failed_preds[fail_idx])[0]]
+
+
+pyperclip.copy(get_latex_parse(failed_preds[fail_idx]))
+
+parser.parse_clauses(nlp_sents(failed_preds[fail_idx])[0])
+
+
+find_parse(failed_preds[fail_idx])
+
+
+
+###########################
+## Predicate distribution stuff
+########################
+
+
+mega_acceptability = pd.read_csv('../../Datasets/mega-acceptability-v2/mega-acceptability-v2.tsv',sep='\t')
+mega_verbs = (set(mega_acceptability.verb.values))
+
+found_MA_preds = {pred for pred in set(gold_single_preds.values) if pred in mega_verbs}
+
+extra_MA_preds = set(filter( lambda x: all(c.isalnum() for c in x), {pred for pred in set(gold_single_preds.values) if pred not in mega_verbs}))
+
+
+len(found_MA_preds)
+
+########################################
+## Sentences with too many predicates 
+########################################
+
+# It's impossible to find out what that half-life is, which means that it is very hard to use it to estimate how much time it will stay in your system.
+
+## This sentence has some tricky coordination
+# It doesnt care and couldnt care whether you have to get up early to go to work and that waking up at 3:00 a.m. to answer its demand for food is not very considerate of it.
+
+## More with coordination and false detection of a clause
+# We're not sure whether pollsters were referring to Los Stop's version, Con su blanca palidez, though somehow we suspect not.
+
+x = parser.get_SBAR_spans(nlp_sents(find_parse('doesnt care')[0][0]['sentence'])[0])[1]
+parser.get_sentence(x)[19].pos_
+
+
+
+import pyperclip 
+
+pyperclip.copy(failed_single_predicates[0])
+pyperclip.copy(replace_brackets(nlp_sents(failed_single_predicates[2])[0]._.parse_string))
+
+
+trees = ''
+for sentence in failed_preds:
+    trees += replace_brackets(list(nlp(sentence).sents)[0]._.parse_string) + '\n' 
+pyperclip.copy(trees)
 
 
 ##########

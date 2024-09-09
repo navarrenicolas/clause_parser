@@ -1,3 +1,5 @@
+import benepar, spacy
+
 class ClauseParser():
     """
       Currently, the code takes in an individual string of all the sentences
@@ -10,6 +12,7 @@ class ClauseParser():
       just as clause_type: None or clause: None
       """
     def __init__(self):
+        self.nlp = spacy.load('en_core_web_md')
         return
 
     def get_sentence(self,span):
@@ -19,6 +22,21 @@ class ClauseParser():
         else:
             return self.get_sentence(parent)
 
+    def get_pred_info(self,pred_str):
+        final_pred = []
+        doc = self.nlp(pred_str)
+    
+        #information for each token, from spacy
+        token_annots = [{'str': token.text, 'lemma': token.lemma_, 'POS': token.pos_} for token in doc]
+        pos_tags = [token.pos_ for token in doc]
+    
+        #we only want verbs, prepositions, adjectives, and (only if the predicate contains an adjective) auxiliaries
+        for token in token_annots:
+            pos = token['POS']
+            if pos in ['VERB', 'ADP', 'ADJ'] or ("ADJ" in pos_tags and pos == "AUX"):
+                final_pred.append(token)
+    
+        return final_pred
     def get_predicate(self,span):
         """Returns the list of dictionaries of the embedding predicate token data of an SBAR span.
         The function assumes that the span is an embedded clause.
@@ -72,6 +90,21 @@ class ClauseParser():
             # No NP or VP parent. Check next parent.
             return self.VP_parent(parent)
 
+    def VP_parent_new(self,span):
+        parent = span._.parent
+        if parent == None:
+            return (False,None)
+        parent_label = parent._.labels
+        if "VP" in parent_label:
+            sbar = self.get_SBAR_spans(parent)[0]
+            parent = str(parent)[:str(parent).index(str(sbar))]
+            predicate = self.get_pred_info(parent)
+            return (True,predicate)
+        elif "NP" in parent_label:
+            return (False,None)
+        else:
+            return self.VP_parent_new(parent)
+            
 
     def get_SBAR_spans(self,span):
         """Returns a list of SBAR spans given sentence.
@@ -142,6 +175,7 @@ class ClauseParser():
         
         for sbar in SBAR_spans:
             parent = self.VP_parent(sbar)
+            # parent = self.VP_parent_new(sbar)
             # first_word = str(list(sbar._.children)[0]).lower()
             first_word = str(sbar[0])
             if len(self.get_SBAR_spans(sbar)) > 0:
