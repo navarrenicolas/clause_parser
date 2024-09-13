@@ -11,9 +11,9 @@ parser = ClauseParser()
 import benepar, spacy
 nlp = spacy.load('en_core_web_trf')
 if spacy.__version__.startswith('2'):
-    nlp.add_pipe(benepar.BeneparComponent("benepar_en3_large"))
+    nlp.add_pipe(benepar.BeneparComponent("benepar_en3"))
 else:
-    nlp.add_pipe("benepar", config={"model": "benepar_en3_large"})
+    nlp.add_pipe("benepar", config={"model": "benepar_en3"})
 
 
 # Golden Data file paths
@@ -38,9 +38,6 @@ def parse_flat_golden(filename:str):
 
 flat_parsed, flat_golden = parse_flat_golden(flat_path_golden)
 adv_parsed, adv_golden = parse_flat_golden(adv_path_golden)
-
-test_doc = nlp("John thought and believed that Mary was alive")
-[parser.parse_clauses(sent) for sent in test_doc.sents][0]
 
 
 
@@ -227,13 +224,16 @@ for gold in flat_golden:
 gold_single_preds = pd.Series([pred[0]['lemma'] for pred in  filter(lambda x: len(x)==1,gold_predicates)])
 gold_single_preds.value_counts()[0:10]
 
+
+[pred for pred in gold_predicates if  len(pred)>2]
+
 # Quick reflection of the parsed single predicates
 parsed_predicates = []
 for sent_parse in flat_parsed:
     for parse in sent_parse:
         parsed_predicates.append(parse['predicate'])
 parsed_single_preds = pd.Series([pred[0]['lemma'] for pred in  filter(lambda x: len(x)==1,parsed_predicates)])
-parsed_single_preds.value_counts()[0:10]*100/len(parsed_single_preds)
+parsed_single_preds.value_counts()[0:10]
 
 # Parsed predicates with more than 4 items (many more than the golden set)
 list(pred for pred in parsed_predicates if len(pred)>4)
@@ -254,17 +254,15 @@ def nlp_parse(sent):
     return nltk.Tree.fromstring(list(nlp(sent).sents)[0]._.parse_string).pretty_print()
 
 # View the golden parses matching query
-fail_idx = 30
-pyperclip.copy(failed_preds[fail_idx])
+fail_idx = 12
+print([(gp['predicate'], gp['clause']) for gp in find_golden_parse(failed_preds[fail_idx])[0]])
+print([(p['predicate'],p['clause']) for p in find_parse(failed_preds[fail_idx])[0]])
 
 nlp_parse(failed_preds[fail_idx])
 
-[(gp['predicate'], gp['clause']) for gp in find_golden_parse(failed_preds[fail_idx])[0]]
-
-[(p['predicate'],p['clause']) for p in find_parse(failed_preds[fail_idx])[0]]
+nlp_parse("Whether Vengeance will include Sam Loeb's #26, and how DC will collect Mark Verheiden's issues after Jeph Loeb departs, remains to be seen.")
 
 
-pyperclip.copy(get_latex_parse(failed_preds[fail_idx]))
 
 parser.parse_clauses(nlp_sents(failed_preds[fail_idx])[0])
 
@@ -299,9 +297,6 @@ len(found_MA_preds)
 
 ## More with coordination and false detection of a clause
 # We're not sure whether pollsters were referring to Los Stop's version, Con su blanca palidez, though somehow we suspect not.
-
-x = parser.get_SBAR_spans(nlp_sents(find_parse('doesnt care')[0][0]['sentence'])[0])[1]
-parser.get_sentence(x)[19].pos_
 
 
 
