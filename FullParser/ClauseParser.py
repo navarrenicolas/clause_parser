@@ -1,5 +1,3 @@
-import benepar, spacy
-
 class ClauseParser():
     """
       Currently, the code takes in an individual string of all the sentences
@@ -20,19 +18,17 @@ class ClauseParser():
             return span
         else:
             return self.get_sentence(parent)
-
-    
         return final_pred
         
     def flatten(self,xss):
         return [x for xs in xss for x in xs]
     
-    def get_last_predicate_tokens(self,span,sbar):
+    def get_last_predicate_tokens(slef,span,sbar):
         if span == sbar:
             return []
         tokens = []
         for token in span:
-            if 'SBAR' in token._.parent._.labels:
+            if token.i >= sbar[0].i:
                 return tokens
             tokens.append(token)
         return tokens
@@ -47,7 +43,7 @@ class ClauseParser():
             lemma: represents the token lemma if the string is modulated by tense
             POS: the part-of-speech tag for the lexical token
         """
-        pred_tokens = self.flatten([[t for t in child] for child in list(VP_span._.children)[:-1] if not any([bad_label in child._.labels for bad_label in ['S','SBAR', 'NP', 'PP']])])+self.get_last_predicate_tokens(list(VP_span._.children)[-1],sbar_span)
+        pred_tokens = self.flatten([[t for t in child] for child in list(VP_span._.children)[:-1] if not any([bad_label in child._.labels for bad_label in ['SBAR', 'NP', 'PP']])])+self.get_last_predicate_tokens(list(VP_span._.children)[-1],sbar_span)
         final_pred = []
         token_annots = [{'str': token.text, 'lemma': token.lemma_, 'POS': token.pos_} for token in pred_tokens]
         pos_tags = [token.pos_ for token in pred_tokens]
@@ -206,13 +202,27 @@ class ClauseParser():
             parent = self.VP_parent_simple(sbar)
             # parent = self.VP_parent_new(sbar)
             # first_word = str(list(sbar._.children)[0]).lower()
-            first_word = str(sbar[0])
             if len(self.get_SBAR_spans(sbar)) > 0:
                 clauses += self.parse_SBAR_clause(sentence,sbar)
-            if not parent or first_word in ['because', 'since', 'while', 'as', 'until', 'for']:
+
+            if any(['SBAR' in child._.labels for child in sbar._.children]):
+                continue
+
+            if not parent or str(sbar[0]) in ["after", "although", "before", "despite", 
+                                            "to", "for", "so", 
+                                            "though","unless","until","than",'because', 
+                                            'since', 'while', 'as']:
+                continue
+            if str(sbar[0:2]) in ["even if", "in order", "even though",]:
+                continue
+            pred = self.get_predicate(parent,sbar)
+            if len(pred) == 0:
+                continue
+            if len(pred) == 0:
+                pred[0]['lemma'] == 'be'
                 continue
             clauses += [{'sentence': str(sentence),
-                        'predicate': self.get_predicate(parent,sbar),
+                        'predicate': pred,
                          'type': self.get_clause_type(sbar),
                          'clause' : str(sbar)
                          }]
