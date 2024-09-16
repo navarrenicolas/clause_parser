@@ -4848,8 +4848,8 @@
                 "POS": "AUX"
             },
             {
-                "str": "unkown",
-                "lemma": "unkown",
+                "str": "unknown",
+                "lemma": "unknown",
                 "POS": "ADJ"
             }
         ],
