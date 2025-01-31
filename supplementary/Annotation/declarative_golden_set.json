@@ -1,0 +1,2231 @@
+{
+    "4": {
+        "sentence": "Luminosity Gaming may be about to recruit a new CS:GO player, as VPEsports reports that Ricardo 'boltz' Prass is set to rejoin the side to replace Gustavo 'yeL' Knittel.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "reports",
+                        "lemma": "report",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Ricardo 'boltz' Prass is set to rejoin the side to replace Gustavo 'yeL' Knittel",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "26": {
+        "sentence": "I have always loved fashion and believe that it plays an integral role in self expression",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "believe",
+                        "lemma": "believe",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that it plays an integral role in self expression",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "35": {
+        "sentence": "Being a Conroe and Woodlands Family Photographer, I find that emotions are the most noticeable thing in my photographs (especially since I shoot with a candid approach to my sessions)",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "find",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that emotions are the most noticeable thing in my photographs (especially since I shoot with a candid approach to my sessions)",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "43": {
+        "sentence": "I can honestly say that that is precisely what happened on this day",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that that is precisely what happened on this day",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "46": {
+        "sentence": "I have decided that I want her to be my pen pal and take it back old school",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "decided",
+                        "lemma": "decide",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that I want her to be my pen pal and take it back old school",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "55": {
+        "sentence": "They were up for something different and an adventure, so I felt it was a great opportunity to shoot in!",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "felt",
+                        "lemma": "feel",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "it was a great opportunity to shoot in",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "57": {
+        "sentence": "I am also praying that everyone who flooded is doing ok and things are getting back to normal!",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "praying",
+                        "lemma": "pray",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that everyone who flooded is doing ok",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "praying",
+                        "lemma": "pray",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "things are getting back to normal",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "60": {
+        "sentence": "I also should mention that Eurri Farris, of Eurri Kim Photography was an amazing help that day, assisting in this session.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "mention",
+                        "lemma": "mention",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Eurri Farris, of Eurri Kim Photography was an amazing help that day, assisting in this session",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "81": {
+        "sentence": "This is not to say that any one of these reasons were the cause or causes of any of the head-on collisions in Missouri in the last three months",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that any one of these reasons were the cause or causes of any of the head-on collisions in Missouri in the last three months",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "96": {
+        "sentence": "When we laid our foundation stone in Denver, CO 80211 almost 10 years ago, we realized that the people of the city have been desperately missing the services of a professional locksmith company",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "realized",
+                        "lemma": "realize",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that the people of the city have been desperately missing the services of a professional locksmith company",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "123": {
+        "sentence": "For anyone following Tiny Tim\u2019s adventures, we know that he lives with his mum and has never met his real dad",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that he lives with his mum",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "has never met his real dad",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "127": {
+        "sentence": "@avoto hm, I don't think that it's a good idea",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that it's a good idea",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "131": {
+        "sentence": "@PaulMaly_twitter I was thinking that there can be more than one version where one is is the Ractive component file as per the official spec",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "thinking",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that there can be more than one version where one is is the Ractive component file as per the official spec",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "134": {
+        "sentence": "I think the components should be written so that they could work without any compilation at least in one environment",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the components should be written so that they could work without any compilation at least in one environment",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "213": {
+        "sentence": "All right, I was really bad at photographing this weekend, but just trust me when I say that it was filled with good things: fireplaces, hot apple cider, laughs, the picture game, a skype date with my brother, exploring, and, and, and",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that it was filled with good things: fireplaces, hot apple cider, laughs, the picture game, a skype date with my brother, exploring, and, and, and",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "228": {
+        "sentence": "Here I argue that despite the good intentions of euthanasia advocates, their understanding of mercy is flawed",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "argue",
+                        "lemma": "argue",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that despite the good intentions of euthanasia advocates, their understanding of mercy is flawed",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "230": {
+        "sentence": "Euthanasia advocates believe that intentionally taking the life of someone who is terminally ill or suffering severe pain constitutes an act of mercy",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "believe",
+                        "lemma": "believe",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that intentionally taking the life of someone who is terminally ill or suffering severe pain constitutes an act of mercy",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "237": {
+        "sentence": "Yet, if we deny that Jones\u2019 life has any real meaning because his pain outweighs his enjoyment of life then his worth is reduced to the sum total of the pain or the pleasure he is experiencing",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "deny",
+                        "lemma": "deny",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Jones\u2019 life has any real meaning because his pain outweighs his enjoyment of life",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "239": {
+        "sentence": "Ethics academic Gilbert Meilaender holds that such thinking forces us to speak of ourselves in terms of \u201cwhat we have\u201d instead of \u201cwho we are\u201d (http://www.firstthings.com/article.php3?id_article=6047)",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "holds",
+                        "lemma": "hold",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that such thinking forces us to speak of ourselves in terms of \u201cwhat we have\u201d instead of \u201cwho we are\u201d",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "240": {
+        "sentence": "My parents have worked all of their lives and they always told me whether it is just a part-time job, a volunteer job, or your career, if you agreed to work for someone, do just that.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "told",
+                        "lemma": "tell",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "whether it is just a part-time job, a volunteer job, or your career, if you agreed to work for someone, do just that",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "253": {
+        "sentence": "It is to admit that doctors are in some way divorced from their patients and unaffected by the treatment they provide to them.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "admit",
+                        "lemma": "admit",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that doctors are in some way divorced from their patients and unaffected by the treatment they provide to them",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "260": {
+        "sentence": "However, defining mercy solely as relationship might indicate that euthanasia is not incompatible with mercy",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "indicate",
+                        "lemma": "indicate",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that euthanasia is not incompatible with mercy",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "263": {
+        "sentence": "However, to accept this definition of relationship is to admit that a doctor who provides Jones with a lethal injection acts in a way that is morally equivalent to a doctor who nurses Jones to his death",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "admit",
+                        "lemma": "admit",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that a doctor who provides Jones with a lethal injection acts in a way that is morally equivalent to a doctor who nurses Jones to his death",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "271": {
+        "sentence": "In A Common Humanity: Thinking about Love and Truth and Justice (2000) Gaita writes: \u201cOften, we learn that something is precious only when we see it in the light of someone\u2019s love\u201d",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "write",
+                        "lemma": "write",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "\u201cOften, we learn that something is precious only when we see it in the light of someone\u2019s love\u201d",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "learn",
+                                "lemma": "learn",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that something is precious",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "272": {
+        "sentence": "Therefore, by loving Jones or by seeing that Jones is loved, we realise Jones to be a person with inherent dignity",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "seeing",
+                        "lemma": "see",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Jones is loved",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "313": {
+        "sentence": "A new report is saying that new car sales took a nosedive in September, signaling economic distress could be just around the corner",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "saying",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that new car sales took a nosedive in September",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "signaling",
+                        "lemma": "signal",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "economic distress could be just around the corner",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "370": {
+        "sentence": "News BREAKING: HHA owner Jon Kelly has revealed he was sacked on Monday as administrators Ferrier Hodgson announced the business was in voluntary administration.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "revealed",
+                        "lemma": "reveal",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "he was sacked on Monday",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "announced",
+                        "lemma": "announce",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the business was in voluntary administration",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "393": {
+        "sentence": "\u201cProfessor Carter's research is so important in preserving the planet, and I'd like to think that I'm contributing in my own small way,\u201d said Baughman, who worked at Firestone Library from 2006 to 2008 and returned to Princeton in 2013.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "\u201cProfessor Carter's research is so important in preserving the planet, and I'd like to think that I'm contributing in my own small way,\u201d",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "think",
+                                "lemma": "think",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that I'm contributing in my own small way",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "425": {
+        "sentence": "Did I forget to mention the home has 3 zone heat and Air conditioning on 1.8 acres of property on a no thruway street",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "mention",
+                        "lemma": "mention",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the home has 3 zone heat and Air conditioning on 1.8 acres of property on a no thruway street",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "435": {
+        "sentence": "Ready-made Greens can be useful for mixing other colours too, we\u2019re not suggesting you should chuck them out!",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "suggesting",
+                        "lemma": "suggest",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you should chuck them out",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "443": {
+        "sentence": "You will see that small differences in the amount of black can make a big difference to the colour you make.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "see",
+                        "lemma": "see",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that small differences in the amount of black can make a big difference to the colour you make",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "448": {
+        "sentence": "One study found that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "found",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that variations in the serotonin transporter gene influence whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "influence",
+                                "lemma": "influence",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "polar",
+                        "clause": "whether or not a person will respond to an antidepressant such as an SSRI, which acts upon serotonin.",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "472": {
+        "sentence": "I have so many things I want to write about I fear I\u2019m bursting at the seams",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "fear",
+                        "lemma": "fear",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I\u2019m bursting at the seams",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "485": {
+        "sentence": "I think I was so stunned that it was meant for him that I didn\u2019t get it at first, until my friend hit me hard in the leg and she said to me \u201cDid YOU HEAR THAT??\u201d And I look at C\u2019s dad and he\u2019s saying the same",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I was so stunned that it was meant for him",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "was",
+                                "lemma": "be",
+                                "POS": "AUX"
+                            },
+                            {
+                                "str": "stunned",
+                                "lemma": "stunned",
+                                "POS": "ADJ"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that it was meant for him",
+                        "embedded clauses": []
+                    }
+                ]
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "\u201cDid YOU HEAR THAT??\u201d",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "497": {
+        "sentence": "In these classes there is such a mixture he understands that he can do so much more then he thought he could.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "understands",
+                        "lemma": "understand",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that he can do so much more then he thought he could",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "thought",
+                                "lemma": "think",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "he could",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "514": {
+        "sentence": "He\u2019s also told me he wants to try out for football next year",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "told",
+                        "lemma": "tell",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "he wants to try out for football next year",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "523": {
+        "sentence": "I don\u2019t think I\u2019m ready for the pain that\u2019s going to go along with the teenage years",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I\u2019m ready for the pain that\u2019s going to go along with the teenage years",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "555": {
+        "sentence": "To any studio execs who may be reading this: I can't guarantee that following my advice will help your format win the war, but doing so will certainly improve your products, and should make High-Def discs more appealing to your target customers.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "guarantee",
+                        "lemma": "guarantee",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that following my advice will help your format win the war",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "558": {
+        "sentence": "I realize this may sound like a contradiction to my last point about getting straight to the movie, but the fact of the matter is that High-Def discs usually have a number of audio, subtitle, and other setup choices to dig through before you can finally sit down to watch the movie",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "realize",
+                        "lemma": "realize",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "this may sound like a contradiction to my last point about getting straight to the movie",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "602": {
+        "sentence": "Just to reiterate that while I appreciate, and even enjoy, contact from readers, I'm absolutely not interested in whatever spammy commercial venture you're proposing",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "reiterate",
+                        "lemma": "reiterate",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that while I appreciate, and even enjoy, contact from readers, I'm absolutely not interested in whatever spammy commercial venture you're proposing",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "617": {
+        "sentence": "And that Jamie Schler article\u2026I wish I were as fiery",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "wish",
+                        "lemma": "wish",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I were as fiery",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "620": {
+        "sentence": "I think not letting one\u2019s computer get in the way of real life is sound advice",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "not letting one\u2019s computer get in the way of real life is sound advice",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "638": {
+        "sentence": "Later in the article, Portnoy says that for all the freedom the site allots its various personalities, the one topic Barstool bloggers and readers are both actively uninterested in is politics, a topic that\u2019s infiltrated the sports world to an unprecedented degree in recent years due to the National Anthem protests, among other things.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "says",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that for all the freedom the site allots its various personalities, the one topic Barstool bloggers and readers are both actively uninterested in is politics, a topic that\u2019s infiltrated the sports world to an unprecedented degree in recent years due to the National Anthem protests, among other things",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "656": {
+        "sentence": "No matter how ridiculous the jokes, or over the top the take, it was understood by most that we are just here to make people laugh.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "understood",
+                        "lemma": "understand",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that we are just here to make people laugh",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "663": {
+        "sentence": "On that count, he knows all too well that a combative, anti-PC, anti-moral grandstanding ethos is morphing into a political ideology unto itself\u2014one that Barstool is both defining and capitalizing on.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "knows",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that a combative, anti-PC, anti-moral grandstanding ethos is morphing into a political ideology unto itself\u2014one that Barstool is both defining and capitalizing on",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "692": {
+        "sentence": "and I guess they smelt well.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "guess",
+                        "lemma": "guess",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "they smelt well",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "709": {
+        "sentence": "Michelle Obama says her family has decided to make a Portuguese Water Dog the first dog around the Obama White House",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "says",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "her family has decided to make a Portuguese Water Dog the first dog around the Obama White House",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "710": {
+        "sentence": "The First Lady told People Magazine the Obamas are searching animal rescues for that particular breed.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "told",
+                        "lemma": "tell",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the Obamas are searching animal rescues for that particular breed",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "712": {
+        "sentence": "Obama says she hopes the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "says",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "she hopes the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "hopes",
+                                "lemma": "hope",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "the lucky Portuguese Water Dog will move into the White House in April after she and President Obama take their daughters on Spring Break",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "714": {
+        "sentence": "Obama says she learned from Sen",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "says",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "she learned from Sen",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "722": {
+        "sentence": "I know that Apple does provide a converter that turns the charging port into a headphone jack, but this means you have to do a lot of plugging and unplugging every time you want to listen to music - and since my strength is limited, that's difficult for me",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Apple does provide a converter that turns the charging port into a headphone jack",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "means",
+                        "lemma": "mean",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you have to do a lot of plugging and unplugging every time you want to listen to music",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "757": {
+        "sentence": "Is it accurate to say that you are a specialist in a particular field?",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that you are a specialist in a particular field",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "758": {
+        "sentence": "From movement, form, cooking, to DIY, and expulsion administrations, on the off chance that you realize how to accomplish something especially well, why not tell the world through a blog or video blog?",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "realize",
+                        "lemma": "realize",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how to accomplish something especially well",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "772": {
+        "sentence": "I know you have made a planned to leave your 9-to-5 job",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you have made a planned to leave your 9-to-5 job",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "786": {
+        "sentence": "Plus, I don\u2019t think I barely snacked at all",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I barely snacked at all",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "793": {
+        "sentence": "I too have been upping the healthy fats in my diet an have definitely noticed that I can last for up to 6 hours without feeling hunger pains!!",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "noticed",
+                        "lemma": "notice",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that I can last for up to 6 hours without feeling hunger pains",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "795": {
+        "sentence": "Some people say that you shouldn\u2019t eat a lot of fats when you eat a raw diet, as it is hard on the digestive tract",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that you shouldn\u2019t eat a lot of fats when you eat a raw diet, as it is hard on the digestive tract",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "821": {
+        "sentence": "Do you think the 01753476428 was a harass phone number?",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the 01753476428 was a harass phone number",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "822": {
+        "sentence": "NationalLedger.com reports that Christina Aguilera risked re-igniting her feud with Britney Spears by a comment made on her wedding day",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "reports",
+                        "lemma": "report",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Christina Aguilera risked re-igniting her feud with Britney Spears by a comment made on her wedding day",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "824": {
+        "sentence": "Christina\u2019s rep denies she made any comment however.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "denies",
+                        "lemma": "deny",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "she made any comment",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "834": {
+        "sentence": "In this sense, Mignolo argues that while modernity is not strictly a European phenomenon, its rhetoric -as Dussel argues- is formed by European philosophers, academics and politicians",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "argues",
+                        "lemma": "argue",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that while modernity is not strictly a European phenomenon, its rhetoric -as Dussel argues- is formed by European philosophers, academics and politicians",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "838": {
+        "sentence": "Business guests appreciate that our downtown hotel's location in Lexington, KY is close to IBM, PNC Bank, Fifth Third Bank, Ashland and UPS",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "appreciate",
+                        "lemma": "appreciate",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that our downtown hotel's location in Lexington, KY is close to IBM, PNC Bank, Fifth Third Bank, Ashland and UPS",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "872": {
+        "sentence": "AEPi is proud to say that we are one of the loudest Jewish voices on campus",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that we are one of the loudest Jewish voices on campus",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "875": {
+        "sentence": "On January 31, 2015, The Sacramento Bee reported that the AEPi building in Davis had been tagged with two large swastikas",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "reported",
+                        "lemma": "report",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that the AEPi building in Davis had been tagged with two large swastikas",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "907": {
+        "sentence": "I think this is just too cool for school!!!!!",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "this is just too cool for school",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "971": {
+        "sentence": "With this issue, they said they thought it was a virus and would have it running the next day",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "they thought it was a virus",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "thought",
+                                "lemma": "think",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "it was a virus",
+                        "embedded clauses": []
+                    }
+                ]
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "would have it running the next day",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "973": {
+        "sentence": "Click said that would not be an issue.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that would not be an issue",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "974": {
+        "sentence": "I checked in with the in 2 days (when the repair should have been complete) and was told it would be one more day - they were doing some final tests",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "told",
+                        "lemma": "tell",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "it would be one more day - they were doing some final tests",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "975": {
+        "sentence": "The next day I learned that they had not put any real time evaluating my laptop and would require a couple more days",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "learned",
+                        "lemma": "learn",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that they had not put any real time evaluating my laptop and would require a couple more days",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "978": {
+        "sentence": "After two more days they said they needed to repair the backlight before trying to determine the other problem",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "they needed to repair the backlight before trying to determine the other problem",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1029": {
+        "sentence": "\u200bDigging a little deeper, we managed to find out that Carole Baskin, CEO of Big Cat Rescue, and Wayne Pacelle, CEO of the HSUS, are former colleagues.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "find",
+                        "lemma": "find",
+                        "POS": "VERB"
+                    },
+                    {
+                        "str": "out",
+                        "lemma": "out",
+                        "POS": "ADP"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Carole Baskin, CEO of Big Cat Rescue, and Wayne Pacelle, CEO of the HSUS, are former colleagues",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1033": {
+        "sentence": "It's interesting to know that Wayne was a co-founder of the Humane Society Legislative Fund",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Wayne was a co-founder of the Humane Society Legislative Fund",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1042": {
+        "sentence": "At Radon Fan Guys, we understand that you have to stay within your price range and save cash everywhere you're able to",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "understand",
+                        "lemma": "understand",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that you have to stay within your price range and save cash everywhere you're able to",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1045": {
+        "sentence": "We use the finest materials and techniques to ensure that your task is going to tolerate the years, and cost less money with techniques which do not affect the excellence of any project",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "ensure",
+                        "lemma": "ensure",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that your task is going to tolerate the years, and cost less money with techniques which do not affect the excellence of any project",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1078": {
+        "sentence": "Then he shocked her by declaring that he was offering \u201cliving water\u201d greater than Jacob\u2019s well, greater than either the Temple or the holy places of Samaria",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "declaring",
+                        "lemma": "declare",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that he was offering \u201cliving water\u201d greater than Jacob\u2019s well, greater than either the Temple or the holy places of Samaria",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1087": {
+        "sentence": "The Founders Scholarship was created in 2010 by fifteen individuals or couples to ensure that all graduating Mackinac Island students have an opportunity for a multi-year scholarship award",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "ensure",
+                        "lemma": "ensure",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that all graduating Mackinac Island students have an opportunity for a multi-year scholarship award",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1102": {
+        "sentence": "The Local Government Association estimates that by 2025, the funding gap will grow to \u00a33bn for children\u2019s social care alone.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "estimates",
+                        "lemma": "estimate",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that by 2025, the funding gap will grow to \u00a33bn for children\u2019s social care alone",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1103": {
+        "sentence": "We are told that ministers are minded to appoint a commissioner shortly to intervene in the council\u2019s operations to stabilise and improve child protection services",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "told",
+                        "lemma": "tell",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that ministers are minded to appoint a commissioner shortly to intervene in the council\u2019s operations to stabilise and improve child protection services",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1107": {
+        "sentence": "Northampton\u2019s leader, Matt Golby, has been quoted as saying that no children will be put in danger as a result of propose cuts, but it is difficult to see how this could be the case",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "saying",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that no children will be put in danger as a result of propose cuts",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "see",
+                        "lemma": "see",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "constituent",
+                "clause": "how this could be the case",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1110": {
+        "sentence": "But the government is already backing down on this claim, with Jo Farrar, director general to the Ministry of Housing, Communities and Local Government, telling the public accounts committee this week that they do not expect these funds to buy additional capacity",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "telling",
+                        "lemma": "tell",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that they do not expect these funds to buy additional capacity",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1138": {
+        "sentence": "She believes this map will help students complete their homework on time.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "believes",
+                        "lemma": "believe",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "this map will help students complete their homework on time",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1142": {
+        "sentence": "In this criminal complaint, the government claims that Khaalid Adam Abdulkadir made death threats against FBI agents in various Twitter posts",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "claims",
+                        "lemma": "claim",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Khaalid Adam Abdulkadir made death threats against FBI agents in various Twitter posts",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1147": {
+        "sentence": "The government agreed that its informant was responsible for first alerting law enforcement to the Twitter communications, but refused disclosure under the government\u2013informant privilege.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "agreed",
+                        "lemma": "agree",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that its informant was responsible for first alerting law enforcement to the Twitter communications",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1156": {
+        "sentence": "The court held that Abdulkadir failed to show that the FBI\u2019s confidential informant was material to his defense",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "held",
+                        "lemma": "hold",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Abdulkadir failed to show that the FBI\u2019s confidential informant was material to his defense",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "show",
+                                "lemma": "show",
+                                "POS": "VERB"
+                            }
+                        ],
+                        "type": "declarative",
+                        "clause": "that the FBI\u2019s confidential informant was material to his defense",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "1158": {
+        "sentence": "The court noted that the case remains in the pre-indictment stage, and will permit Abdulkadir to renew his motion at a later date",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "noted",
+                        "lemma": "note",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that the case remains in the pre-indictment stage",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1171": {
+        "sentence": "The sting operation, however, allegedly reveals that our personal data may not be totally secure in the hands of a digital payments giant and that it may have sold it to other third-parties out there",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "reveals",
+                        "lemma": "reveal",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that our personal data may not be totally secure in the hands of a digital payments giant",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "reveals",
+                        "lemma": "reveal",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that it may have sold it to other third-parties out there",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1178": {
+        "sentence": "Please ensure you revisit this page and re\u2013check for any updates/changes before the date of the fixture.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "ensure",
+                        "lemma": "ensure",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you revisit this page and re\u2013check for any updates/changes before the date of the fixture",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1180": {
+        "sentence": "I know these are just models, but we always like to share them with you",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "these are just models",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1206": {
+        "sentence": "Many have been speculating that the announcement is for the long awaited next installment in the Persona series",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "speculating",
+                        "lemma": "speculate",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that the announcement is for the long awaited next installment in the Persona series",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1241": {
+        "sentence": "You could argue that these elements fall under the category of story, which Persona 3 won anyway, but I feel they are significant enough to make a difference",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "argue",
+                        "lemma": "argue",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that these elements fall under the category of story, which Persona 3 won anyway",
+                "embedded clauses": []
+            },
+            {
+                "predicate": [
+                    {
+                        "str": "feel",
+                        "lemma": "feel",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "they are significant enough to make a difference",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1265": {
+        "sentence": "This is to inform you that you have been selected for a cash prize of \u00a3850,000.00 (Eight hundred and fifty thousand Great British Pounds) from the BMW AUTOMOBILE GROUP e-LOTTERY BONANZA International programs held TODAY Teusday the 6th of MARCH 2007, here in London United Kingdom.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "inform",
+                        "lemma": "inform",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that you have been selected for a cash prize of \u00a3850,000.00 (Eight hundred and fifty thousand Great British Pounds) from the BMW AUTOMOBILE GROUP e-LOTTERY BONANZA International programs held TODAY Teusday the 6th of MARCH 2007, here in London United Kingdom",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1276": {
+        "sentence": "I think that does a good job of summarising my feelings towards friends who drift away over time.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "think",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that does a good job of summarising my feelings towards friends who drift away over time",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1289": {
+        "sentence": "According to the Children's Action Network, nationwide each year 20,000 children age out of the foster care system, but experts say they are still in need of a family as they embark on work and college.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "they are still in need of a family as they embark on work and college",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1317": {
+        "sentence": "Executive producer Brandon Margolis revealed that Fletcher, the hacker who helps Mike and Marcus in both films, would also appear in the show.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "revealed",
+                        "lemma": "reveal",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Fletcher, the hacker who helps Mike and Marcus in both films, would also appear in the show",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1334": {
+        "sentence": "Valentino still loves MotoGP and last year he demonstrated that he still can be competitive",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "demonstrated",
+                        "lemma": "demonstrate",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "he still can be competitive",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1336": {
+        "sentence": "Maverick Vinales admits he was puzzled by why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "admits",
+                        "lemma": "admit",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "he was puzzled by why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
+                "embedded clauses": [
+                    {
+                        "predicate": [
+                            {
+                                "str": "puzzled",
+                                "lemma": "puzzle",
+                                "POS": "VERB"
+                            },
+                            {
+                                "str": "by",
+                                "lemma": "by",
+                                "POS": "ADP"
+                            }
+                        ],
+                        "type": "constituent",
+                        "clause": "why he was uncompetitive on the second day of Valencia's post-season MotoGP test on Wednesday having topped the times on day one",
+                        "embedded clauses": []
+                    }
+                ]
+            }
+        ]
+    },
+    "1337": {
+        "sentence": "Repsol Honda Team Principal Livio Suppo has said that he and Honda aren\u2019t surprised by the pace and performances of new Yamaha recruit Maverick Vi\u00f1ales, but that they are of his team-mate, Valentino Rossi.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that he and Honda aren\u2019t surprised by the pace and performances of new Yamaha recruit Maverick Vi\u00f1ales, but that they are of his team-mate, Valentino Rossi",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1354": {
+        "sentence": "Introducing the bill, Law Minister Ravi Shankar Prasad said despite the Supreme Court striking down the practice of talaq-e-biddat (instant triple talaq) as unconstitutional, men were divorcing their wives on flimsy grounds and even via Whatsapp.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "despite the Supreme Court striking down the practice of talaq-e-biddat (instant triple talaq) as unconstitutional, men were divorcing their wives on flimsy grounds and even via Whatsapp",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1362": {
+        "sentence": "Putin, speaking in International Investments Forum in Sochi, said that Russia's inflation rate would be 7 percent this year.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that Russia's inflation rate would be 7 percent this year",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1363": {
+        "sentence": "He reminded that in 2009, Russia's GDP dropped by 7.9 percent, inflation reached 9 percent.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "reminded",
+                        "lemma": "remind",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that in 2009, Russia's GDP dropped by 7.9 percent, inflation reached 9 percent",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1364": {
+        "sentence": "August was the first month since May when industrial output in Russia was above zero and reaches 0.1 percent, thus Nabiullina called August \"a good month\", admitting that in agricultural sector growth was negative by 9.6 percent.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "admitting",
+                        "lemma": "admit",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that in agricultural sector growth was negative by 9.6 percent",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1433": {
+        "sentence": "i have ensured that the wireless sync is activated on the handhelds as well",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "ensured",
+                        "lemma": "ensure",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that the wireless sync is activated on the handhelds as well",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1435": {
+        "sentence": "Firstly, I must say that my comments below are not a criticism of teachers, who work very hard against all the odds, but of education systems that have 'lost their way'",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "say",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that my comments below are not a criticism of teachers, who work very hard against all the odds, but of education systems that have 'lost their way'",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1440": {
+        "sentence": "I believe only the chemistry specialist has the 'depth of knowledge' to enthuse the students, which in turn leads to an increased uptake in the subject.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "believe",
+                        "lemma": "believe",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "only the chemistry specialist has the 'depth of knowledge' to enthuse the students, which in turn leads to an increased uptake in the subject",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1458": {
+        "sentence": "74% thought it was too noisy.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "thought",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "it was too noisy",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1459": {
+        "sentence": "81% said the bathroom was dirty.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "said",
+                        "lemma": "say",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "the bathroom was dirty",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1462": {
+        "sentence": "Everyone is aware that finding someone close to you can be tiring, so we founded our site with three ideas as our goal: we want to make finding locals easy, mobile, and totally free",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "is",
+                        "lemma": "be",
+                        "POS": "AUX"
+                    },
+                    {
+                        "str": "aware",
+                        "lemma": "aware",
+                        "POS": "ADJ"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that finding someone close to you can be tiring",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1467": {
+        "sentence": "Simply adjust your settings and know you will find exactly who you want at the ideal time for you.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you will find exactly who you want at the ideal time for you",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1470": {
+        "sentence": "I\u2019ve been blogging for over three years now, mostly as a passion and I have only became more professional in the recent months but never thought I\u2019d end up making up a start a blog tutorial",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "thought",
+                        "lemma": "think",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I\u2019d end up making up a start a blog tutorial",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1472": {
+        "sentence": "That makes me really happy, I know I had a hard time getting a blog up!",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "know",
+                        "lemma": "know",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "I had a hard time getting a blog up",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1501": {
+        "sentence": "Please note you will be billed a year a time, but as you can see, it works out to a very reasonable monthly amount",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "note",
+                        "lemma": "note",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "you will be billed a year a time",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1503": {
+        "sentence": "Fill in your billing information, confirm that you\u2019ve read the fine print and then click Next.",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "confirm",
+                        "lemma": "confirm",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that you\u2019ve read the fine print",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1523": {
+        "sentence": "I hope my start a blog tutorial has been of help and I look forward to hear your input and also read your new, beautiful blogs",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "hope",
+                        "lemma": "hope",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "my start a blog tutorial has been of help",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1528": {
+        "sentence": "Irving Azoff Claims YouTube \"Pirates\" Are \"Really Evil\"",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "Claims",
+                        "lemma": "claim",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "YouTube \"Pirates\" Are \"Really Evil\"",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1529": {
+        "sentence": "Will Someone Explain To The RIAA That SOPA Didn't Pass?",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "explain",
+                        "lemma": "explain",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "That SOPA Didn't Pass",
+                "embedded clauses": []
+            }
+        ]
+    },
+    "1530": {
+        "sentence": "(Buffalo, NY) \u2013 New York State Senator Chris Jacobs announced that he has secured $120,000 in state funding for the twelve branch libraries in the 60th Senate District",
+        "embedded clauses": [
+            {
+                "predicate": [
+                    {
+                        "str": "announced",
+                        "lemma": "announce",
+                        "POS": "VERB"
+                    }
+                ],
+                "type": "declarative",
+                "clause": "that he has secured $120,000 in state funding for the twelve branch libraries in the 60th Senate District",
+                "embedded clauses": []
+            }
+        ]
+    }
+}
